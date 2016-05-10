@@ -1,0 +1,3004 @@
+N N
+N V
+N A
+V N
+V A
+A N
+A V
+A A
+N N N
+N N A
+N V N
+N V A
+N A N
+N A A
+N P N
+N P A
+N D N
+N D A
+V N N
+V N A
+V A N
+V A A
+V P N
+V P A
+V D N
+V D A
+A N N
+A N A
+A V N
+A V A
+A A N
+A P N
+A P A
+A D N
+A D A
+N N N N
+N N N A
+N N V N
+N N V A
+N N A N
+N N A A
+N N P N
+N N P A
+N N D N
+N N D A
+N V N N
+N V N A
+N V A N
+N V A A
+N V P N
+N V P A
+N V D N
+N V D A
+N A N N
+N A N A
+N A V N
+N A V A
+N A A N
+N A P N
+N A P A
+N A D N
+N A D A
+N P N N
+N P N A
+N P V N
+N P V A
+N P A N
+N P A A
+N P D N
+N P D A
+N D N N
+N D N A
+N D V N
+N D V A
+N D A N
+N D A A
+N D P N
+N D P A
+V N N N
+V N N A
+V N V N
+V N V A
+V N A N
+V N A A
+V N P N
+V N P A
+V N D N
+V N D A
+V A N N
+V A N A
+V A V N
+V A V A
+V A A N
+V A P N
+V A P A
+V A D N
+V A D A
+V P N N
+V P N A
+V P V N
+V P V A
+V P A N
+V P A A
+V P D N
+V P D A
+V D N N
+V D N A
+V D V N
+V D V A
+V D A N
+V D A A
+V D P N
+V D P A
+A N N N
+A N N A
+A N V N
+A N V A
+A N A N
+A N A A
+A N P N
+A N P A
+A N D N
+A N D A
+A V N N
+A V N A
+A V A N
+A V A A
+A V P N
+A V P A
+A V D N
+A V D A
+A A N N
+A A N A
+A A V N
+A A V A
+A A P N
+A A P A
+A A D N
+A A D A
+A P N N
+A P N A
+A P V N
+A P V A
+A P A N
+A P A A
+A P D N
+A P D A
+A D N N
+A D N A
+A D V N
+A D V A
+A D A N
+A D A A
+A D P N
+A D P A
+N N N N N
+N N N N A
+N N N V N
+N N N V A
+N N N A N
+N N N A A
+N N N P N
+N N N P A
+N N N D N
+N N N D A
+N N V N N
+N N V N A
+N N V A N
+N N V A A
+N N V P N
+N N V P A
+N N V D N
+N N V D A
+N N A N N
+N N A N A
+N N A V N
+N N A V A
+N N A A N
+N N A P N
+N N A P A
+N N A D N
+N N A D A
+N N P N N
+N N P N A
+N N P V N
+N N P V A
+N N P A N
+N N P A A
+N N P D N
+N N P D A
+N N D N N
+N N D N A
+N N D V N
+N N D V A
+N N D A N
+N N D A A
+N N D P N
+N N D P A
+N V N N N
+N V N N A
+N V N V N
+N V N V A
+N V N A N
+N V N A A
+N V N P N
+N V N P A
+N V N D N
+N V N D A
+N V A N N
+N V A N A
+N V A V N
+N V A V A
+N V A A N
+N V A P N
+N V A P A
+N V A D N
+N V A D A
+N V P N N
+N V P N A
+N V P V N
+N V P V A
+N V P A N
+N V P A A
+N V P D N
+N V P D A
+N V D N N
+N V D N A
+N V D V N
+N V D V A
+N V D A N
+N V D A A
+N V D P N
+N V D P A
+N A N N N
+N A N N A
+N A N V N
+N A N V A
+N A N A N
+N A N A A
+N A N P N
+N A N P A
+N A N D N
+N A N D A
+N A V N N
+N A V N A
+N A V A N
+N A V A A
+N A V P N
+N A V P A
+N A V D N
+N A V D A
+N A A N N
+N A A N A
+N A A V N
+N A A V A
+N A A P N
+N A A P A
+N A A D N
+N A A D A
+N A P N N
+N A P N A
+N A P V N
+N A P V A
+N A P A N
+N A P A A
+N A P D N
+N A P D A
+N A D N N
+N A D N A
+N A D V N
+N A D V A
+N A D A N
+N A D A A
+N A D P N
+N A D P A
+N P N N N
+N P N N A
+N P N V N
+N P N V A
+N P N A N
+N P N A A
+N P N P N
+N P N P A
+N P N D N
+N P N D A
+N P V N N
+N P V N A
+N P V A N
+N P V A A
+N P V P N
+N P V P A
+N P V D N
+N P V D A
+N P A N N
+N P A N A
+N P A V N
+N P A V A
+N P A A N
+N P A P N
+N P A P A
+N P A D N
+N P A D A
+N P D N N
+N P D N A
+N P D V N
+N P D V A
+N P D A N
+N P D A A
+N P D P N
+N P D P A
+N D N N N
+N D N N A
+N D N V N
+N D N V A
+N D N A N
+N D N A A
+N D N P N
+N D N P A
+N D N D N
+N D N D A
+N D V N N
+N D V N A
+N D V A N
+N D V A A
+N D V P N
+N D V P A
+N D V D N
+N D V D A
+N D A N N
+N D A N A
+N D A V N
+N D A V A
+N D A A N
+N D A P N
+N D A P A
+N D A D N
+N D A D A
+N D P N N
+N D P N A
+N D P V N
+N D P V A
+N D P A N
+N D P A A
+N D P D N
+N D P D A
+V N N N N
+V N N N A
+V N N V N
+V N N V A
+V N N A N
+V N N A A
+V N N P N
+V N N P A
+V N N D N
+V N N D A
+V N V N N
+V N V N A
+V N V A N
+V N V A A
+V N V P N
+V N V P A
+V N V D N
+V N V D A
+V N A N N
+V N A N A
+V N A V N
+V N A V A
+V N A A N
+V N A P N
+V N A P A
+V N A D N
+V N A D A
+V N P N N
+V N P N A
+V N P V N
+V N P V A
+V N P A N
+V N P A A
+V N P D N
+V N P D A
+V N D N N
+V N D N A
+V N D V N
+V N D V A
+V N D A N
+V N D A A
+V N D P N
+V N D P A
+V A N N N
+V A N N A
+V A N V N
+V A N V A
+V A N A N
+V A N A A
+V A N P N
+V A N P A
+V A N D N
+V A N D A
+V A V N N
+V A V N A
+V A V A N
+V A V A A
+V A V P N
+V A V P A
+V A V D N
+V A V D A
+V A A N N
+V A A N A
+V A A V N
+V A A V A
+V A A P N
+V A A P A
+V A A D N
+V A A D A
+V A P N N
+V A P N A
+V A P V N
+V A P V A
+V A P A N
+V A P A A
+V A P D N
+V A P D A
+V A D N N
+V A D N A
+V A D V N
+V A D V A
+V A D A N
+V A D A A
+V A D P N
+V A D P A
+V P N N N
+V P N N A
+V P N V N
+V P N V A
+V P N A N
+V P N A A
+V P N P N
+V P N P A
+V P N D N
+V P N D A
+V P V N N
+V P V N A
+V P V A N
+V P V A A
+V P V P N
+V P V P A
+V P V D N
+V P V D A
+V P A N N
+V P A N A
+V P A V N
+V P A V A
+V P A A N
+V P A P N
+V P A P A
+V P A D N
+V P A D A
+V P D N N
+V P D N A
+V P D V N
+V P D V A
+V P D A N
+V P D A A
+V P D P N
+V P D P A
+V D N N N
+V D N N A
+V D N V N
+V D N V A
+V D N A N
+V D N A A
+V D N P N
+V D N P A
+V D N D N
+V D N D A
+V D V N N
+V D V N A
+V D V A N
+V D V A A
+V D V P N
+V D V P A
+V D V D N
+V D V D A
+V D A N N
+V D A N A
+V D A V N
+V D A V A
+V D A A N
+V D A P N
+V D A P A
+V D A D N
+V D A D A
+V D P N N
+V D P N A
+V D P V N
+V D P V A
+V D P A N
+V D P A A
+V D P D N
+V D P D A
+A N N N N
+A N N N A
+A N N V N
+A N N V A
+A N N A N
+A N N A A
+A N N P N
+A N N P A
+A N N D N
+A N N D A
+A N V N N
+A N V N A
+A N V A N
+A N V A A
+A N V P N
+A N V P A
+A N V D N
+A N V D A
+A N A N N
+A N A N A
+A N A V N
+A N A V A
+A N A A N
+A N A P N
+A N A P A
+A N A D N
+A N A D A
+A N P N N
+A N P N A
+A N P V N
+A N P V A
+A N P A N
+A N P A A
+A N P D N
+A N P D A
+A N D N N
+A N D N A
+A N D V N
+A N D V A
+A N D A N
+A N D A A
+A N D P N
+A N D P A
+A V N N N
+A V N N A
+A V N V N
+A V N V A
+A V N A N
+A V N A A
+A V N P N
+A V N P A
+A V N D N
+A V N D A
+A V A N N
+A V A N A
+A V A V N
+A V A V A
+A V A A N
+A V A P N
+A V A P A
+A V A D N
+A V A D A
+A V P N N
+A V P N A
+A V P V N
+A V P V A
+A V P A N
+A V P A A
+A V P D N
+A V P D A
+A V D N N
+A V D N A
+A V D V N
+A V D V A
+A V D A N
+A V D A A
+A V D P N
+A V D P A
+A A N N N
+A A N N A
+A A N V N
+A A N V A
+A A N A N
+A A N A A
+A A N P N
+A A N P A
+A A N D N
+A A N D A
+A A V N N
+A A V N A
+A A V A N
+A A V A A
+A A V P N
+A A V P A
+A A V D N
+A A V D A
+A A P N N
+A A P N A
+A A P V N
+A A P V A
+A A P A N
+A A P A A
+A A P D N
+A A P D A
+A A D N N
+A A D N A
+A A D V N
+A A D V A
+A A D A N
+A A D A A
+A A D P N
+A A D P A
+A P N N N
+A P N N A
+A P N V N
+A P N V A
+A P N A N
+A P N A A
+A P N P N
+A P N P A
+A P N D N
+A P N D A
+A P V N N
+A P V N A
+A P V A N
+A P V A A
+A P V P N
+A P V P A
+A P V D N
+A P V D A
+A P A N N
+A P A N A
+A P A V N
+A P A V A
+A P A A N
+A P A P N
+A P A P A
+A P A D N
+A P A D A
+A P D N N
+A P D N A
+A P D V N
+A P D V A
+A P D A N
+A P D A A
+A P D P N
+A P D P A
+A D N N N
+A D N N A
+A D N V N
+A D N V A
+A D N A N
+A D N A A
+A D N P N
+A D N P A
+A D N D N
+A D N D A
+A D V N N
+A D V N A
+A D V A N
+A D V A A
+A D V P N
+A D V P A
+A D V D N
+A D V D A
+A D A N N
+A D A N A
+A D A V N
+A D A V A
+A D A A N
+A D A P N
+A D A P A
+A D A D N
+A D A D A
+A D P N N
+A D P N A
+A D P V N
+A D P V A
+A D P A N
+A D P A A
+A D P D N
+A D P D A
+N N N N N N
+N N N N N A
+N N N N V N
+N N N N V A
+N N N N A N
+N N N N A A
+N N N N P N
+N N N N P A
+N N N N D N
+N N N N D A
+N N N V N N
+N N N V N A
+N N N V A N
+N N N V A A
+N N N V P N
+N N N V P A
+N N N V D N
+N N N V D A
+N N N A N N
+N N N A N A
+N N N A V N
+N N N A V A
+N N N A A N
+N N N A P N
+N N N A P A
+N N N A D N
+N N N A D A
+N N N P N N
+N N N P N A
+N N N P V N
+N N N P V A
+N N N P A N
+N N N P A A
+N N N P D N
+N N N P D A
+N N N D N N
+N N N D N A
+N N N D V N
+N N N D V A
+N N N D A N
+N N N D A A
+N N N D P N
+N N N D P A
+N N V N N N
+N N V N N A
+N N V N V N
+N N V N V A
+N N V N A N
+N N V N A A
+N N V N P N
+N N V N P A
+N N V N D N
+N N V N D A
+N N V A N N
+N N V A N A
+N N V A V N
+N N V A V A
+N N V A A N
+N N V A P N
+N N V A P A
+N N V A D N
+N N V A D A
+N N V P N N
+N N V P N A
+N N V P V N
+N N V P V A
+N N V P A N
+N N V P A A
+N N V P D N
+N N V P D A
+N N V D N N
+N N V D N A
+N N V D V N
+N N V D V A
+N N V D A N
+N N V D A A
+N N V D P N
+N N V D P A
+N N A N N N
+N N A N N A
+N N A N V N
+N N A N V A
+N N A N A N
+N N A N A A
+N N A N P N
+N N A N P A
+N N A N D N
+N N A N D A
+N N A V N N
+N N A V N A
+N N A V A N
+N N A V A A
+N N A V P N
+N N A V P A
+N N A V D N
+N N A V D A
+N N A A N N
+N N A A N A
+N N A A V N
+N N A A V A
+N N A A P N
+N N A A P A
+N N A A D N
+N N A A D A
+N N A P N N
+N N A P N A
+N N A P V N
+N N A P V A
+N N A P A N
+N N A P A A
+N N A P D N
+N N A P D A
+N N A D N N
+N N A D N A
+N N A D V N
+N N A D V A
+N N A D A N
+N N A D A A
+N N A D P N
+N N A D P A
+N N P N N N
+N N P N N A
+N N P N V N
+N N P N V A
+N N P N A N
+N N P N A A
+N N P N P N
+N N P N P A
+N N P N D N
+N N P N D A
+N N P V N N
+N N P V N A
+N N P V A N
+N N P V A A
+N N P V P N
+N N P V P A
+N N P V D N
+N N P V D A
+N N P A N N
+N N P A N A
+N N P A V N
+N N P A V A
+N N P A A N
+N N P A P N
+N N P A P A
+N N P A D N
+N N P A D A
+N N P D N N
+N N P D N A
+N N P D V N
+N N P D V A
+N N P D A N
+N N P D A A
+N N P D P N
+N N P D P A
+N N D N N N
+N N D N N A
+N N D N V N
+N N D N V A
+N N D N A N
+N N D N A A
+N N D N P N
+N N D N P A
+N N D N D N
+N N D N D A
+N N D V N N
+N N D V N A
+N N D V A N
+N N D V A A
+N N D V P N
+N N D V P A
+N N D V D N
+N N D V D A
+N N D A N N
+N N D A N A
+N N D A V N
+N N D A V A
+N N D A A N
+N N D A P N
+N N D A P A
+N N D A D N
+N N D A D A
+N N D P N N
+N N D P N A
+N N D P V N
+N N D P V A
+N N D P A N
+N N D P A A
+N N D P D N
+N N D P D A
+N V N N N N
+N V N N N A
+N V N N V N
+N V N N V A
+N V N N A N
+N V N N A A
+N V N N P N
+N V N N P A
+N V N N D N
+N V N N D A
+N V N V N N
+N V N V N A
+N V N V A N
+N V N V A A
+N V N V P N
+N V N V P A
+N V N V D N
+N V N V D A
+N V N A N N
+N V N A N A
+N V N A V N
+N V N A V A
+N V N A A N
+N V N A P N
+N V N A P A
+N V N A D N
+N V N A D A
+N V N P N N
+N V N P N A
+N V N P V N
+N V N P V A
+N V N P A N
+N V N P A A
+N V N P D N
+N V N P D A
+N V N D N N
+N V N D N A
+N V N D V N
+N V N D V A
+N V N D A N
+N V N D A A
+N V N D P N
+N V N D P A
+N V A N N N
+N V A N N A
+N V A N V N
+N V A N V A
+N V A N A N
+N V A N A A
+N V A N P N
+N V A N P A
+N V A N D N
+N V A N D A
+N V A V N N
+N V A V N A
+N V A V A N
+N V A V A A
+N V A V P N
+N V A V P A
+N V A V D N
+N V A V D A
+N V A A N N
+N V A A N A
+N V A A V N
+N V A A V A
+N V A A P N
+N V A A P A
+N V A A D N
+N V A A D A
+N V A P N N
+N V A P N A
+N V A P V N
+N V A P V A
+N V A P A N
+N V A P A A
+N V A P D N
+N V A P D A
+N V A D N N
+N V A D N A
+N V A D V N
+N V A D V A
+N V A D A N
+N V A D A A
+N V A D P N
+N V A D P A
+N V P N N N
+N V P N N A
+N V P N V N
+N V P N V A
+N V P N A N
+N V P N A A
+N V P N P N
+N V P N P A
+N V P N D N
+N V P N D A
+N V P V N N
+N V P V N A
+N V P V A N
+N V P V A A
+N V P V P N
+N V P V P A
+N V P V D N
+N V P V D A
+N V P A N N
+N V P A N A
+N V P A V N
+N V P A V A
+N V P A A N
+N V P A P N
+N V P A P A
+N V P A D N
+N V P A D A
+N V P D N N
+N V P D N A
+N V P D V N
+N V P D V A
+N V P D A N
+N V P D A A
+N V P D P N
+N V P D P A
+N V D N N N
+N V D N N A
+N V D N V N
+N V D N V A
+N V D N A N
+N V D N A A
+N V D N P N
+N V D N P A
+N V D N D N
+N V D N D A
+N V D V N N
+N V D V N A
+N V D V A N
+N V D V A A
+N V D V P N
+N V D V P A
+N V D V D N
+N V D V D A
+N V D A N N
+N V D A N A
+N V D A V N
+N V D A V A
+N V D A A N
+N V D A P N
+N V D A P A
+N V D A D N
+N V D A D A
+N V D P N N
+N V D P N A
+N V D P V N
+N V D P V A
+N V D P A N
+N V D P A A
+N V D P D N
+N V D P D A
+N A N N N N
+N A N N N A
+N A N N V N
+N A N N V A
+N A N N A N
+N A N N A A
+N A N N P N
+N A N N P A
+N A N N D N
+N A N N D A
+N A N V N N
+N A N V N A
+N A N V A N
+N A N V A A
+N A N V P N
+N A N V P A
+N A N V D N
+N A N V D A
+N A N A N N
+N A N A N A
+N A N A V N
+N A N A V A
+N A N A A N
+N A N A P N
+N A N A P A
+N A N A D N
+N A N A D A
+N A N P N N
+N A N P N A
+N A N P V N
+N A N P V A
+N A N P A N
+N A N P A A
+N A N P D N
+N A N P D A
+N A N D N N
+N A N D N A
+N A N D V N
+N A N D V A
+N A N D A N
+N A N D A A
+N A N D P N
+N A N D P A
+N A V N N N
+N A V N N A
+N A V N V N
+N A V N V A
+N A V N A N
+N A V N A A
+N A V N P N
+N A V N P A
+N A V N D N
+N A V N D A
+N A V A N N
+N A V A N A
+N A V A V N
+N A V A V A
+N A V A A N
+N A V A P N
+N A V A P A
+N A V A D N
+N A V A D A
+N A V P N N
+N A V P N A
+N A V P V N
+N A V P V A
+N A V P A N
+N A V P A A
+N A V P D N
+N A V P D A
+N A V D N N
+N A V D N A
+N A V D V N
+N A V D V A
+N A V D A N
+N A V D A A
+N A V D P N
+N A V D P A
+N A A N N N
+N A A N N A
+N A A N V N
+N A A N V A
+N A A N A N
+N A A N A A
+N A A N P N
+N A A N P A
+N A A N D N
+N A A N D A
+N A A V N N
+N A A V N A
+N A A V A N
+N A A V A A
+N A A V P N
+N A A V P A
+N A A V D N
+N A A V D A
+N A A P N N
+N A A P N A
+N A A P V N
+N A A P V A
+N A A P A N
+N A A P A A
+N A A P D N
+N A A P D A
+N A A D N N
+N A A D N A
+N A A D V N
+N A A D V A
+N A A D A N
+N A A D A A
+N A A D P N
+N A A D P A
+N A P N N N
+N A P N N A
+N A P N V N
+N A P N V A
+N A P N A N
+N A P N A A
+N A P N P N
+N A P N P A
+N A P N D N
+N A P N D A
+N A P V N N
+N A P V N A
+N A P V A N
+N A P V A A
+N A P V P N
+N A P V P A
+N A P V D N
+N A P V D A
+N A P A N N
+N A P A N A
+N A P A V N
+N A P A V A
+N A P A A N
+N A P A P N
+N A P A P A
+N A P A D N
+N A P A D A
+N A P D N N
+N A P D N A
+N A P D V N
+N A P D V A
+N A P D A N
+N A P D A A
+N A P D P N
+N A P D P A
+N A D N N N
+N A D N N A
+N A D N V N
+N A D N V A
+N A D N A N
+N A D N A A
+N A D N P N
+N A D N P A
+N A D N D N
+N A D N D A
+N A D V N N
+N A D V N A
+N A D V A N
+N A D V A A
+N A D V P N
+N A D V P A
+N A D V D N
+N A D V D A
+N A D A N N
+N A D A N A
+N A D A V N
+N A D A V A
+N A D A A N
+N A D A P N
+N A D A P A
+N A D A D N
+N A D A D A
+N A D P N N
+N A D P N A
+N A D P V N
+N A D P V A
+N A D P A N
+N A D P A A
+N A D P D N
+N A D P D A
+N P N N N N
+N P N N N A
+N P N N V N
+N P N N V A
+N P N N A N
+N P N N A A
+N P N N P N
+N P N N P A
+N P N N D N
+N P N N D A
+N P N V N N
+N P N V N A
+N P N V A N
+N P N V A A
+N P N V P N
+N P N V P A
+N P N V D N
+N P N V D A
+N P N A N N
+N P N A N A
+N P N A V N
+N P N A V A
+N P N A A N
+N P N A P N
+N P N A P A
+N P N A D N
+N P N A D A
+N P N P N N
+N P N P N A
+N P N P V N
+N P N P V A
+N P N P A N
+N P N P A A
+N P N P D N
+N P N P D A
+N P N D N N
+N P N D N A
+N P N D V N
+N P N D V A
+N P N D A N
+N P N D A A
+N P N D P N
+N P N D P A
+N P V N N N
+N P V N N A
+N P V N V N
+N P V N V A
+N P V N A N
+N P V N A A
+N P V N P N
+N P V N P A
+N P V N D N
+N P V N D A
+N P V A N N
+N P V A N A
+N P V A V N
+N P V A V A
+N P V A A N
+N P V A P N
+N P V A P A
+N P V A D N
+N P V A D A
+N P V P N N
+N P V P N A
+N P V P V N
+N P V P V A
+N P V P A N
+N P V P A A
+N P V P D N
+N P V P D A
+N P V D N N
+N P V D N A
+N P V D V N
+N P V D V A
+N P V D A N
+N P V D A A
+N P V D P N
+N P V D P A
+N P A N N N
+N P A N N A
+N P A N V N
+N P A N V A
+N P A N A N
+N P A N A A
+N P A N P N
+N P A N P A
+N P A N D N
+N P A N D A
+N P A V N N
+N P A V N A
+N P A V A N
+N P A V A A
+N P A V P N
+N P A V P A
+N P A V D N
+N P A V D A
+N P A A N N
+N P A A N A
+N P A A V N
+N P A A V A
+N P A A P N
+N P A A P A
+N P A A D N
+N P A A D A
+N P A P N N
+N P A P N A
+N P A P V N
+N P A P V A
+N P A P A N
+N P A P A A
+N P A P D N
+N P A P D A
+N P A D N N
+N P A D N A
+N P A D V N
+N P A D V A
+N P A D A N
+N P A D A A
+N P A D P N
+N P A D P A
+N P D N N N
+N P D N N A
+N P D N V N
+N P D N V A
+N P D N A N
+N P D N A A
+N P D N P N
+N P D N P A
+N P D N D N
+N P D N D A
+N P D V N N
+N P D V N A
+N P D V A N
+N P D V A A
+N P D V P N
+N P D V P A
+N P D V D N
+N P D V D A
+N P D A N N
+N P D A N A
+N P D A V N
+N P D A V A
+N P D A A N
+N P D A P N
+N P D A P A
+N P D A D N
+N P D A D A
+N P D P N N
+N P D P N A
+N P D P V N
+N P D P V A
+N P D P A N
+N P D P A A
+N P D P D N
+N P D P D A
+N D N N N N
+N D N N N A
+N D N N V N
+N D N N V A
+N D N N A N
+N D N N A A
+N D N N P N
+N D N N P A
+N D N N D N
+N D N N D A
+N D N V N N
+N D N V N A
+N D N V A N
+N D N V A A
+N D N V P N
+N D N V P A
+N D N V D N
+N D N V D A
+N D N A N N
+N D N A N A
+N D N A V N
+N D N A V A
+N D N A A N
+N D N A P N
+N D N A P A
+N D N A D N
+N D N A D A
+N D N P N N
+N D N P N A
+N D N P V N
+N D N P V A
+N D N P A N
+N D N P A A
+N D N P D N
+N D N P D A
+N D N D N N
+N D N D N A
+N D N D V N
+N D N D V A
+N D N D A N
+N D N D A A
+N D N D P N
+N D N D P A
+N D V N N N
+N D V N N A
+N D V N V N
+N D V N V A
+N D V N A N
+N D V N A A
+N D V N P N
+N D V N P A
+N D V N D N
+N D V N D A
+N D V A N N
+N D V A N A
+N D V A V N
+N D V A V A
+N D V A A N
+N D V A P N
+N D V A P A
+N D V A D N
+N D V A D A
+N D V P N N
+N D V P N A
+N D V P V N
+N D V P V A
+N D V P A N
+N D V P A A
+N D V P D N
+N D V P D A
+N D V D N N
+N D V D N A
+N D V D V N
+N D V D V A
+N D V D A N
+N D V D A A
+N D V D P N
+N D V D P A
+N D A N N N
+N D A N N A
+N D A N V N
+N D A N V A
+N D A N A N
+N D A N A A
+N D A N P N
+N D A N P A
+N D A N D N
+N D A N D A
+N D A V N N
+N D A V N A
+N D A V A N
+N D A V A A
+N D A V P N
+N D A V P A
+N D A V D N
+N D A V D A
+N D A A N N
+N D A A N A
+N D A A V N
+N D A A V A
+N D A A P N
+N D A A P A
+N D A A D N
+N D A A D A
+N D A P N N
+N D A P N A
+N D A P V N
+N D A P V A
+N D A P A N
+N D A P A A
+N D A P D N
+N D A P D A
+N D A D N N
+N D A D N A
+N D A D V N
+N D A D V A
+N D A D A N
+N D A D A A
+N D A D P N
+N D A D P A
+N D P N N N
+N D P N N A
+N D P N V N
+N D P N V A
+N D P N A N
+N D P N A A
+N D P N P N
+N D P N P A
+N D P N D N
+N D P N D A
+N D P V N N
+N D P V N A
+N D P V A N
+N D P V A A
+N D P V P N
+N D P V P A
+N D P V D N
+N D P V D A
+N D P A N N
+N D P A N A
+N D P A V N
+N D P A V A
+N D P A A N
+N D P A P N
+N D P A P A
+N D P A D N
+N D P A D A
+N D P D N N
+N D P D N A
+N D P D V N
+N D P D V A
+N D P D A N
+N D P D A A
+N D P D P N
+N D P D P A
+V N N N N N
+V N N N N A
+V N N N V N
+V N N N V A
+V N N N A N
+V N N N A A
+V N N N P N
+V N N N P A
+V N N N D N
+V N N N D A
+V N N V N N
+V N N V N A
+V N N V A N
+V N N V A A
+V N N V P N
+V N N V P A
+V N N V D N
+V N N V D A
+V N N A N N
+V N N A N A
+V N N A V N
+V N N A V A
+V N N A A N
+V N N A P N
+V N N A P A
+V N N A D N
+V N N A D A
+V N N P N N
+V N N P N A
+V N N P V N
+V N N P V A
+V N N P A N
+V N N P A A
+V N N P D N
+V N N P D A
+V N N D N N
+V N N D N A
+V N N D V N
+V N N D V A
+V N N D A N
+V N N D A A
+V N N D P N
+V N N D P A
+V N V N N N
+V N V N N A
+V N V N V N
+V N V N V A
+V N V N A N
+V N V N A A
+V N V N P N
+V N V N P A
+V N V N D N
+V N V N D A
+V N V A N N
+V N V A N A
+V N V A V N
+V N V A V A
+V N V A A N
+V N V A P N
+V N V A P A
+V N V A D N
+V N V A D A
+V N V P N N
+V N V P N A
+V N V P V N
+V N V P V A
+V N V P A N
+V N V P A A
+V N V P D N
+V N V P D A
+V N V D N N
+V N V D N A
+V N V D V N
+V N V D V A
+V N V D A N
+V N V D A A
+V N V D P N
+V N V D P A
+V N A N N N
+V N A N N A
+V N A N V N
+V N A N V A
+V N A N A N
+V N A N A A
+V N A N P N
+V N A N P A
+V N A N D N
+V N A N D A
+V N A V N N
+V N A V N A
+V N A V A N
+V N A V A A
+V N A V P N
+V N A V P A
+V N A V D N
+V N A V D A
+V N A A N N
+V N A A N A
+V N A A V N
+V N A A V A
+V N A A P N
+V N A A P A
+V N A A D N
+V N A A D A
+V N A P N N
+V N A P N A
+V N A P V N
+V N A P V A
+V N A P A N
+V N A P A A
+V N A P D N
+V N A P D A
+V N A D N N
+V N A D N A
+V N A D V N
+V N A D V A
+V N A D A N
+V N A D A A
+V N A D P N
+V N A D P A
+V N P N N N
+V N P N N A
+V N P N V N
+V N P N V A
+V N P N A N
+V N P N A A
+V N P N P N
+V N P N P A
+V N P N D N
+V N P N D A
+V N P V N N
+V N P V N A
+V N P V A N
+V N P V A A
+V N P V P N
+V N P V P A
+V N P V D N
+V N P V D A
+V N P A N N
+V N P A N A
+V N P A V N
+V N P A V A
+V N P A A N
+V N P A P N
+V N P A P A
+V N P A D N
+V N P A D A
+V N P D N N
+V N P D N A
+V N P D V N
+V N P D V A
+V N P D A N
+V N P D A A
+V N P D P N
+V N P D P A
+V N D N N N
+V N D N N A
+V N D N V N
+V N D N V A
+V N D N A N
+V N D N A A
+V N D N P N
+V N D N P A
+V N D N D N
+V N D N D A
+V N D V N N
+V N D V N A
+V N D V A N
+V N D V A A
+V N D V P N
+V N D V P A
+V N D V D N
+V N D V D A
+V N D A N N
+V N D A N A
+V N D A V N
+V N D A V A
+V N D A A N
+V N D A P N
+V N D A P A
+V N D A D N
+V N D A D A
+V N D P N N
+V N D P N A
+V N D P V N
+V N D P V A
+V N D P A N
+V N D P A A
+V N D P D N
+V N D P D A
+V A N N N N
+V A N N N A
+V A N N V N
+V A N N V A
+V A N N A N
+V A N N A A
+V A N N P N
+V A N N P A
+V A N N D N
+V A N N D A
+V A N V N N
+V A N V N A
+V A N V A N
+V A N V A A
+V A N V P N
+V A N V P A
+V A N V D N
+V A N V D A
+V A N A N N
+V A N A N A
+V A N A V N
+V A N A V A
+V A N A A N
+V A N A P N
+V A N A P A
+V A N A D N
+V A N A D A
+V A N P N N
+V A N P N A
+V A N P V N
+V A N P V A
+V A N P A N
+V A N P A A
+V A N P D N
+V A N P D A
+V A N D N N
+V A N D N A
+V A N D V N
+V A N D V A
+V A N D A N
+V A N D A A
+V A N D P N
+V A N D P A
+V A V N N N
+V A V N N A
+V A V N V N
+V A V N V A
+V A V N A N
+V A V N A A
+V A V N P N
+V A V N P A
+V A V N D N
+V A V N D A
+V A V A N N
+V A V A N A
+V A V A V N
+V A V A V A
+V A V A A N
+V A V A P N
+V A V A P A
+V A V A D N
+V A V A D A
+V A V P N N
+V A V P N A
+V A V P V N
+V A V P V A
+V A V P A N
+V A V P A A
+V A V P D N
+V A V P D A
+V A V D N N
+V A V D N A
+V A V D V N
+V A V D V A
+V A V D A N
+V A V D A A
+V A V D P N
+V A V D P A
+V A A N N N
+V A A N N A
+V A A N V N
+V A A N V A
+V A A N A N
+V A A N A A
+V A A N P N
+V A A N P A
+V A A N D N
+V A A N D A
+V A A V N N
+V A A V N A
+V A A V A N
+V A A V A A
+V A A V P N
+V A A V P A
+V A A V D N
+V A A V D A
+V A A P N N
+V A A P N A
+V A A P V N
+V A A P V A
+V A A P A N
+V A A P A A
+V A A P D N
+V A A P D A
+V A A D N N
+V A A D N A
+V A A D V N
+V A A D V A
+V A A D A N
+V A A D A A
+V A A D P N
+V A A D P A
+V A P N N N
+V A P N N A
+V A P N V N
+V A P N V A
+V A P N A N
+V A P N A A
+V A P N P N
+V A P N P A
+V A P N D N
+V A P N D A
+V A P V N N
+V A P V N A
+V A P V A N
+V A P V A A
+V A P V P N
+V A P V P A
+V A P V D N
+V A P V D A
+V A P A N N
+V A P A N A
+V A P A V N
+V A P A V A
+V A P A A N
+V A P A P N
+V A P A P A
+V A P A D N
+V A P A D A
+V A P D N N
+V A P D N A
+V A P D V N
+V A P D V A
+V A P D A N
+V A P D A A
+V A P D P N
+V A P D P A
+V A D N N N
+V A D N N A
+V A D N V N
+V A D N V A
+V A D N A N
+V A D N A A
+V A D N P N
+V A D N P A
+V A D N D N
+V A D N D A
+V A D V N N
+V A D V N A
+V A D V A N
+V A D V A A
+V A D V P N
+V A D V P A
+V A D V D N
+V A D V D A
+V A D A N N
+V A D A N A
+V A D A V N
+V A D A V A
+V A D A A N
+V A D A P N
+V A D A P A
+V A D A D N
+V A D A D A
+V A D P N N
+V A D P N A
+V A D P V N
+V A D P V A
+V A D P A N
+V A D P A A
+V A D P D N
+V A D P D A
+V P N N N N
+V P N N N A
+V P N N V N
+V P N N V A
+V P N N A N
+V P N N A A
+V P N N P N
+V P N N P A
+V P N N D N
+V P N N D A
+V P N V N N
+V P N V N A
+V P N V A N
+V P N V A A
+V P N V P N
+V P N V P A
+V P N V D N
+V P N V D A
+V P N A N N
+V P N A N A
+V P N A V N
+V P N A V A
+V P N A A N
+V P N A P N
+V P N A P A
+V P N A D N
+V P N A D A
+V P N P N N
+V P N P N A
+V P N P V N
+V P N P V A
+V P N P A N
+V P N P A A
+V P N P D N
+V P N P D A
+V P N D N N
+V P N D N A
+V P N D V N
+V P N D V A
+V P N D A N
+V P N D A A
+V P N D P N
+V P N D P A
+V P V N N N
+V P V N N A
+V P V N V N
+V P V N V A
+V P V N A N
+V P V N A A
+V P V N P N
+V P V N P A
+V P V N D N
+V P V N D A
+V P V A N N
+V P V A N A
+V P V A V N
+V P V A V A
+V P V A A N
+V P V A P N
+V P V A P A
+V P V A D N
+V P V A D A
+V P V P N N
+V P V P N A
+V P V P V N
+V P V P V A
+V P V P A N
+V P V P A A
+V P V P D N
+V P V P D A
+V P V D N N
+V P V D N A
+V P V D V N
+V P V D V A
+V P V D A N
+V P V D A A
+V P V D P N
+V P V D P A
+V P A N N N
+V P A N N A
+V P A N V N
+V P A N V A
+V P A N A N
+V P A N A A
+V P A N P N
+V P A N P A
+V P A N D N
+V P A N D A
+V P A V N N
+V P A V N A
+V P A V A N
+V P A V A A
+V P A V P N
+V P A V P A
+V P A V D N
+V P A V D A
+V P A A N N
+V P A A N A
+V P A A V N
+V P A A V A
+V P A A P N
+V P A A P A
+V P A A D N
+V P A A D A
+V P A P N N
+V P A P N A
+V P A P V N
+V P A P V A
+V P A P A N
+V P A P A A
+V P A P D N
+V P A P D A
+V P A D N N
+V P A D N A
+V P A D V N
+V P A D V A
+V P A D A N
+V P A D A A
+V P A D P N
+V P A D P A
+V P D N N N
+V P D N N A
+V P D N V N
+V P D N V A
+V P D N A N
+V P D N A A
+V P D N P N
+V P D N P A
+V P D N D N
+V P D N D A
+V P D V N N
+V P D V N A
+V P D V A N
+V P D V A A
+V P D V P N
+V P D V P A
+V P D V D N
+V P D V D A
+V P D A N N
+V P D A N A
+V P D A V N
+V P D A V A
+V P D A A N
+V P D A P N
+V P D A P A
+V P D A D N
+V P D A D A
+V P D P N N
+V P D P N A
+V P D P V N
+V P D P V A
+V P D P A N
+V P D P A A
+V P D P D N
+V P D P D A
+V D N N N N
+V D N N N A
+V D N N V N
+V D N N V A
+V D N N A N
+V D N N A A
+V D N N P N
+V D N N P A
+V D N N D N
+V D N N D A
+V D N V N N
+V D N V N A
+V D N V A N
+V D N V A A
+V D N V P N
+V D N V P A
+V D N V D N
+V D N V D A
+V D N A N N
+V D N A N A
+V D N A V N
+V D N A V A
+V D N A A N
+V D N A P N
+V D N A P A
+V D N A D N
+V D N A D A
+V D N P N N
+V D N P N A
+V D N P V N
+V D N P V A
+V D N P A N
+V D N P A A
+V D N P D N
+V D N P D A
+V D N D N N
+V D N D N A
+V D N D V N
+V D N D V A
+V D N D A N
+V D N D A A
+V D N D P N
+V D N D P A
+V D V N N N
+V D V N N A
+V D V N V N
+V D V N V A
+V D V N A N
+V D V N A A
+V D V N P N
+V D V N P A
+V D V N D N
+V D V N D A
+V D V A N N
+V D V A N A
+V D V A V N
+V D V A V A
+V D V A A N
+V D V A P N
+V D V A P A
+V D V A D N
+V D V A D A
+V D V P N N
+V D V P N A
+V D V P V N
+V D V P V A
+V D V P A N
+V D V P A A
+V D V P D N
+V D V P D A
+V D V D N N
+V D V D N A
+V D V D V N
+V D V D V A
+V D V D A N
+V D V D A A
+V D V D P N
+V D V D P A
+V D A N N N
+V D A N N A
+V D A N V N
+V D A N V A
+V D A N A N
+V D A N A A
+V D A N P N
+V D A N P A
+V D A N D N
+V D A N D A
+V D A V N N
+V D A V N A
+V D A V A N
+V D A V A A
+V D A V P N
+V D A V P A
+V D A V D N
+V D A V D A
+V D A A N N
+V D A A N A
+V D A A V N
+V D A A V A
+V D A A P N
+V D A A P A
+V D A A D N
+V D A A D A
+V D A P N N
+V D A P N A
+V D A P V N
+V D A P V A
+V D A P A N
+V D A P A A
+V D A P D N
+V D A P D A
+V D A D N N
+V D A D N A
+V D A D V N
+V D A D V A
+V D A D A N
+V D A D A A
+V D A D P N
+V D A D P A
+V D P N N N
+V D P N N A
+V D P N V N
+V D P N V A
+V D P N A N
+V D P N A A
+V D P N P N
+V D P N P A
+V D P N D N
+V D P N D A
+V D P V N N
+V D P V N A
+V D P V A N
+V D P V A A
+V D P V P N
+V D P V P A
+V D P V D N
+V D P V D A
+V D P A N N
+V D P A N A
+V D P A V N
+V D P A V A
+V D P A A N
+V D P A P N
+V D P A P A
+V D P A D N
+V D P A D A
+V D P D N N
+V D P D N A
+V D P D V N
+V D P D V A
+V D P D A N
+V D P D A A
+V D P D P N
+V D P D P A
+A N N N N N
+A N N N N A
+A N N N V N
+A N N N V A
+A N N N A N
+A N N N A A
+A N N N P N
+A N N N P A
+A N N N D N
+A N N N D A
+A N N V N N
+A N N V N A
+A N N V A N
+A N N V A A
+A N N V P N
+A N N V P A
+A N N V D N
+A N N V D A
+A N N A N N
+A N N A N A
+A N N A V N
+A N N A V A
+A N N A A N
+A N N A P N
+A N N A P A
+A N N A D N
+A N N A D A
+A N N P N N
+A N N P N A
+A N N P V N
+A N N P V A
+A N N P A N
+A N N P A A
+A N N P D N
+A N N P D A
+A N N D N N
+A N N D N A
+A N N D V N
+A N N D V A
+A N N D A N
+A N N D A A
+A N N D P N
+A N N D P A
+A N V N N N
+A N V N N A
+A N V N V N
+A N V N V A
+A N V N A N
+A N V N A A
+A N V N P N
+A N V N P A
+A N V N D N
+A N V N D A
+A N V A N N
+A N V A N A
+A N V A V N
+A N V A V A
+A N V A A N
+A N V A P N
+A N V A P A
+A N V A D N
+A N V A D A
+A N V P N N
+A N V P N A
+A N V P V N
+A N V P V A
+A N V P A N
+A N V P A A
+A N V P D N
+A N V P D A
+A N V D N N
+A N V D N A
+A N V D V N
+A N V D V A
+A N V D A N
+A N V D A A
+A N V D P N
+A N V D P A
+A N A N N N
+A N A N N A
+A N A N V N
+A N A N V A
+A N A N A N
+A N A N A A
+A N A N P N
+A N A N P A
+A N A N D N
+A N A N D A
+A N A V N N
+A N A V N A
+A N A V A N
+A N A V A A
+A N A V P N
+A N A V P A
+A N A V D N
+A N A V D A
+A N A A N N
+A N A A N A
+A N A A V N
+A N A A V A
+A N A A P N
+A N A A P A
+A N A A D N
+A N A A D A
+A N A P N N
+A N A P N A
+A N A P V N
+A N A P V A
+A N A P A N
+A N A P A A
+A N A P D N
+A N A P D A
+A N A D N N
+A N A D N A
+A N A D V N
+A N A D V A
+A N A D A N
+A N A D A A
+A N A D P N
+A N A D P A
+A N P N N N
+A N P N N A
+A N P N V N
+A N P N V A
+A N P N A N
+A N P N A A
+A N P N P N
+A N P N P A
+A N P N D N
+A N P N D A
+A N P V N N
+A N P V N A
+A N P V A N
+A N P V A A
+A N P V P N
+A N P V P A
+A N P V D N
+A N P V D A
+A N P A N N
+A N P A N A
+A N P A V N
+A N P A V A
+A N P A A N
+A N P A P N
+A N P A P A
+A N P A D N
+A N P A D A
+A N P D N N
+A N P D N A
+A N P D V N
+A N P D V A
+A N P D A N
+A N P D A A
+A N P D P N
+A N P D P A
+A N D N N N
+A N D N N A
+A N D N V N
+A N D N V A
+A N D N A N
+A N D N A A
+A N D N P N
+A N D N P A
+A N D N D N
+A N D N D A
+A N D V N N
+A N D V N A
+A N D V A N
+A N D V A A
+A N D V P N
+A N D V P A
+A N D V D N
+A N D V D A
+A N D A N N
+A N D A N A
+A N D A V N
+A N D A V A
+A N D A A N
+A N D A P N
+A N D A P A
+A N D A D N
+A N D A D A
+A N D P N N
+A N D P N A
+A N D P V N
+A N D P V A
+A N D P A N
+A N D P A A
+A N D P D N
+A N D P D A
+A V N N N N
+A V N N N A
+A V N N V N
+A V N N V A
+A V N N A N
+A V N N A A
+A V N N P N
+A V N N P A
+A V N N D N
+A V N N D A
+A V N V N N
+A V N V N A
+A V N V A N
+A V N V A A
+A V N V P N
+A V N V P A
+A V N V D N
+A V N V D A
+A V N A N N
+A V N A N A
+A V N A V N
+A V N A V A
+A V N A A N
+A V N A P N
+A V N A P A
+A V N A D N
+A V N A D A
+A V N P N N
+A V N P N A
+A V N P V N
+A V N P V A
+A V N P A N
+A V N P A A
+A V N P D N
+A V N P D A
+A V N D N N
+A V N D N A
+A V N D V N
+A V N D V A
+A V N D A N
+A V N D A A
+A V N D P N
+A V N D P A
+A V A N N N
+A V A N N A
+A V A N V N
+A V A N V A
+A V A N A N
+A V A N A A
+A V A N P N
+A V A N P A
+A V A N D N
+A V A N D A
+A V A V N N
+A V A V N A
+A V A V A N
+A V A V A A
+A V A V P N
+A V A V P A
+A V A V D N
+A V A V D A
+A V A A N N
+A V A A N A
+A V A A V N
+A V A A V A
+A V A A P N
+A V A A P A
+A V A A D N
+A V A A D A
+A V A P N N
+A V A P N A
+A V A P V N
+A V A P V A
+A V A P A N
+A V A P A A
+A V A P D N
+A V A P D A
+A V A D N N
+A V A D N A
+A V A D V N
+A V A D V A
+A V A D A N
+A V A D A A
+A V A D P N
+A V A D P A
+A V P N N N
+A V P N N A
+A V P N V N
+A V P N V A
+A V P N A N
+A V P N A A
+A V P N P N
+A V P N P A
+A V P N D N
+A V P N D A
+A V P V N N
+A V P V N A
+A V P V A N
+A V P V A A
+A V P V P N
+A V P V P A
+A V P V D N
+A V P V D A
+A V P A N N
+A V P A N A
+A V P A V N
+A V P A V A
+A V P A A N
+A V P A P N
+A V P A P A
+A V P A D N
+A V P A D A
+A V P D N N
+A V P D N A
+A V P D V N
+A V P D V A
+A V P D A N
+A V P D A A
+A V P D P N
+A V P D P A
+A V D N N N
+A V D N N A
+A V D N V N
+A V D N V A
+A V D N A N
+A V D N A A
+A V D N P N
+A V D N P A
+A V D N D N
+A V D N D A
+A V D V N N
+A V D V N A
+A V D V A N
+A V D V A A
+A V D V P N
+A V D V P A
+A V D V D N
+A V D V D A
+A V D A N N
+A V D A N A
+A V D A V N
+A V D A V A
+A V D A A N
+A V D A P N
+A V D A P A
+A V D A D N
+A V D A D A
+A V D P N N
+A V D P N A
+A V D P V N
+A V D P V A
+A V D P A N
+A V D P A A
+A V D P D N
+A V D P D A
+A A N N N N
+A A N N N A
+A A N N V N
+A A N N V A
+A A N N A N
+A A N N A A
+A A N N P N
+A A N N P A
+A A N N D N
+A A N N D A
+A A N V N N
+A A N V N A
+A A N V A N
+A A N V A A
+A A N V P N
+A A N V P A
+A A N V D N
+A A N V D A
+A A N A N N
+A A N A N A
+A A N A V N
+A A N A V A
+A A N A A N
+A A N A P N
+A A N A P A
+A A N A D N
+A A N A D A
+A A N P N N
+A A N P N A
+A A N P V N
+A A N P V A
+A A N P A N
+A A N P A A
+A A N P D N
+A A N P D A
+A A N D N N
+A A N D N A
+A A N D V N
+A A N D V A
+A A N D A N
+A A N D A A
+A A N D P N
+A A N D P A
+A A V N N N
+A A V N N A
+A A V N V N
+A A V N V A
+A A V N A N
+A A V N A A
+A A V N P N
+A A V N P A
+A A V N D N
+A A V N D A
+A A V A N N
+A A V A N A
+A A V A V N
+A A V A V A
+A A V A A N
+A A V A P N
+A A V A P A
+A A V A D N
+A A V A D A
+A A V P N N
+A A V P N A
+A A V P V N
+A A V P V A
+A A V P A N
+A A V P A A
+A A V P D N
+A A V P D A
+A A V D N N
+A A V D N A
+A A V D V N
+A A V D V A
+A A V D A N
+A A V D A A
+A A V D P N
+A A V D P A
+A A P N N N
+A A P N N A
+A A P N V N
+A A P N V A
+A A P N A N
+A A P N A A
+A A P N P N
+A A P N P A
+A A P N D N
+A A P N D A
+A A P V N N
+A A P V N A
+A A P V A N
+A A P V A A
+A A P V P N
+A A P V P A
+A A P V D N
+A A P V D A
+A A P A N N
+A A P A N A
+A A P A V N
+A A P A V A
+A A P A A N
+A A P A P N
+A A P A P A
+A A P A D N
+A A P A D A
+A A P D N N
+A A P D N A
+A A P D V N
+A A P D V A
+A A P D A N
+A A P D A A
+A A P D P N
+A A P D P A
+A A D N N N
+A A D N N A
+A A D N V N
+A A D N V A
+A A D N A N
+A A D N A A
+A A D N P N
+A A D N P A
+A A D N D N
+A A D N D A
+A A D V N N
+A A D V N A
+A A D V A N
+A A D V A A
+A A D V P N
+A A D V P A
+A A D V D N
+A A D V D A
+A A D A N N
+A A D A N A
+A A D A V N
+A A D A V A
+A A D A A N
+A A D A P N
+A A D A P A
+A A D A D N
+A A D A D A
+A A D P N N
+A A D P N A
+A A D P V N
+A A D P V A
+A A D P A N
+A A D P A A
+A A D P D N
+A A D P D A
+A P N N N N
+A P N N N A
+A P N N V N
+A P N N V A
+A P N N A N
+A P N N A A
+A P N N P N
+A P N N P A
+A P N N D N
+A P N N D A
+A P N V N N
+A P N V N A
+A P N V A N
+A P N V A A
+A P N V P N
+A P N V P A
+A P N V D N
+A P N V D A
+A P N A N N
+A P N A N A
+A P N A V N
+A P N A V A
+A P N A A N
+A P N A P N
+A P N A P A
+A P N A D N
+A P N A D A
+A P N P N N
+A P N P N A
+A P N P V N
+A P N P V A
+A P N P A N
+A P N P A A
+A P N P D N
+A P N P D A
+A P N D N N
+A P N D N A
+A P N D V N
+A P N D V A
+A P N D A N
+A P N D A A
+A P N D P N
+A P N D P A
+A P V N N N
+A P V N N A
+A P V N V N
+A P V N V A
+A P V N A N
+A P V N A A
+A P V N P N
+A P V N P A
+A P V N D N
+A P V N D A
+A P V A N N
+A P V A N A
+A P V A V N
+A P V A V A
+A P V A A N
+A P V A P N
+A P V A P A
+A P V A D N
+A P V A D A
+A P V P N N
+A P V P N A
+A P V P V N
+A P V P V A
+A P V P A N
+A P V P A A
+A P V P D N
+A P V P D A
+A P V D N N
+A P V D N A
+A P V D V N
+A P V D V A
+A P V D A N
+A P V D A A
+A P V D P N
+A P V D P A
+A P A N N N
+A P A N N A
+A P A N V N
+A P A N V A
+A P A N A N
+A P A N A A
+A P A N P N
+A P A N P A
+A P A N D N
+A P A N D A
+A P A V N N
+A P A V N A
+A P A V A N
+A P A V A A
+A P A V P N
+A P A V P A
+A P A V D N
+A P A V D A
+A P A A N N
+A P A A N A
+A P A A V N
+A P A A V A
+A P A A P N
+A P A A P A
+A P A A D N
+A P A A D A
+A P A P N N
+A P A P N A
+A P A P V N
+A P A P V A
+A P A P A N
+A P A P A A
+A P A P D N
+A P A P D A
+A P A D N N
+A P A D N A
+A P A D V N
+A P A D V A
+A P A D A N
+A P A D A A
+A P A D P N
+A P A D P A
+A P D N N N
+A P D N N A
+A P D N V N
+A P D N V A
+A P D N A N
+A P D N A A
+A P D N P N
+A P D N P A
+A P D N D N
+A P D N D A
+A P D V N N
+A P D V N A
+A P D V A N
+A P D V A A
+A P D V P N
+A P D V P A
+A P D V D N
+A P D V D A
+A P D A N N
+A P D A N A
+A P D A V N
+A P D A V A
+A P D A A N
+A P D A P N
+A P D A P A
+A P D A D N
+A P D A D A
+A P D P N N
+A P D P N A
+A P D P V N
+A P D P V A
+A P D P A N
+A P D P A A
+A P D P D N
+A P D P D A
+A D N N N N
+A D N N N A
+A D N N V N
+A D N N V A
+A D N N A N
+A D N N A A
+A D N N P N
+A D N N P A
+A D N N D N
+A D N N D A
+A D N V N N
+A D N V N A
+A D N V A N
+A D N V A A
+A D N V P N
+A D N V P A
+A D N V D N
+A D N V D A
+A D N A N N
+A D N A N A
+A D N A V N
+A D N A V A
+A D N A A N
+A D N A P N
+A D N A P A
+A D N A D N
+A D N A D A
+A D N P N N
+A D N P N A
+A D N P V N
+A D N P V A
+A D N P A N
+A D N P A A
+A D N P D N
+A D N P D A
+A D N D N N
+A D N D N A
+A D N D V N
+A D N D V A
+A D N D A N
+A D N D A A
+A D N D P N
+A D N D P A
+A D V N N N
+A D V N N A
+A D V N V N
+A D V N V A
+A D V N A N
+A D V N A A
+A D V N P N
+A D V N P A
+A D V N D N
+A D V N D A
+A D V A N N
+A D V A N A
+A D V A V N
+A D V A V A
+A D V A A N
+A D V A P N
+A D V A P A
+A D V A D N
+A D V A D A
+A D V P N N
+A D V P N A
+A D V P V N
+A D V P V A
+A D V P A N
+A D V P A A
+A D V P D N
+A D V P D A
+A D V D N N
+A D V D N A
+A D V D V N
+A D V D V A
+A D V D A N
+A D V D A A
+A D V D P N
+A D V D P A
+A D A N N N
+A D A N N A
+A D A N V N
+A D A N V A
+A D A N A N
+A D A N A A
+A D A N P N
+A D A N P A
+A D A N D N
+A D A N D A
+A D A V N N
+A D A V N A
+A D A V A N
+A D A V A A
+A D A V P N
+A D A V P A
+A D A V D N
+A D A V D A
+A D A A N N
+A D A A N A
+A D A A V N
+A D A A V A
+A D A A P N
+A D A A P A
+A D A A D N
+A D A A D A
+A D A P N N
+A D A P N A
+A D A P V N
+A D A P V A
+A D A P A N
+A D A P A A
+A D A P D N
+A D A P D A
+A D A D N N
+A D A D N A
+A D A D V N
+A D A D V A
+A D A D A N
+A D A D A A
+A D A D P N
+A D A D P A
+A D P N N N
+A D P N N A
+A D P N V N
+A D P N V A
+A D P N A N
+A D P N A A
+A D P N P N
+A D P N P A
+A D P N D N
+A D P N D A
+A D P V N N
+A D P V N A
+A D P V A N
+A D P V A A
+A D P V P N
+A D P V P A
+A D P V D N
+A D P V D A
+A D P A N N
+A D P A N A
+A D P A V N
+A D P A V A
+A D P A A N
+A D P A P N
+A D P A P A
+A D P A D N
+A D P A D A
+A D P D N N
+A D P D N A
+A D P D V N
+A D P D V A
+A D P D A N
+A D P D A A
+A D P D P N
+A D P D P A

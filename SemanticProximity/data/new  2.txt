@@ -1,0 +1,3830 @@
+-----------------------
+création de sites Internet d'entreprises
+-----------------------
+
+Présent : création de sites internet d'entreprises
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: création de sites Internet d'entreprises
+-----------------------------
+	Ancre : création site  (score position-synonymie : 0,769)
+	Score Contextuel : 4.0/26.0 (� la position : 1)
+	Score Contextuel : 8.0/28.0 (� la position : 9)
+	Score Contextuel : 7.0/34.0 (� la position : 22)
+	Score Contextuel : 6.0/32.0 (� la position : 37)
+	Score Contextuel : 6.0/31.0 (� la position : 60)
+	Score Contextuel : 11.0/33.0 (� la position : 79)
+	Score Contextuel : 4.0/30.0 (� la position : 83)
+	Score Contextuel : 4.0/29.0 (� la position : 168)
+	Score Contextuel : 4.0/33.0 (� la position : 262)
+	Score Contextuel : 7.0/43.0 (� la position : 467)
+	Score Contextuel : 6.0/29.0 (� la position : 483)
+
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,923)
+	Score Contextuel : 8.0/28.0 (� la position : 9)
+	Score Contextuel : 7.0/34.0 (� la position : 22)
+	Score Contextuel : 6.0/32.0 (� la position : 37)
+	Score Contextuel : 6.0/31.0 (� la position : 60)
+	Score Contextuel : 11.0/33.0 (� la position : 79)
+	Score Contextuel : 4.0/30.0 (� la position : 83)
+	Score Contextuel : 4.0/29.0 (� la position : 168)
+	Score Contextuel : 4.0/33.0 (� la position : 262)
+	Score Contextuel : 6.0/29.0 (� la position : 483)
+
+-----------------------------
+	Ancre : création de site  (score position-synonymie : 0,769)
+	Score Contextuel : 14.0/27.0 (� la position : 6)
+	Score Contextuel : 6.0/38.0 (� la position : 49)
+	Score Contextuel : 9.0/33.0 (� la position : 57)
+	Score Contextuel : 11.0/42.0 (� la position : 59)
+	Score Contextuel : 11.0/44.0 (� la position : 63)
+	Score Contextuel : 9.0/37.0 (� la position : 75)
+	Score Contextuel : 7.0/39.0 (� la position : 102)
+	Score Contextuel : 8.0/34.0 (� la position : 104)
+	Score Contextuel : 6.0/39.0 (� la position : 119)
+	Score Contextuel : 8.0/43.0 (� la position : 126)
+	Score Contextuel : 7.0/35.0 (� la position : 157)
+	Score Contextuel : 5.0/31.0 (� la position : 180)
+	Score Contextuel : 6.0/33.0 (� la position : 270)
+	Score Contextuel : 4.0/31.0 (� la position : 292)
+	Score Contextuel : 6.0/29.0 (� la position : 322)
+	Score Contextuel : 4.0/32.0 (� la position : 351)
+	Score Contextuel : 5.0/29.0 (� la position : 370)
+	Score Contextuel : 6.0/32.0 (� la position : 371)
+	Score Contextuel : 6.0/29.0 (� la position : 395)
+	Score Contextuel : 10.0/51.0 (� la position : 489)
+
+-----------------------------
+	Ancre : création de site internet de entreprises  (score position-synonymie : 1)
+	Score Contextuel : 14.0/27.0 (� la position : 6)
+
+-----------------------------
+	Ancre : création des site  (score position-synonymie : 0,769)
+	Score Contextuel : 10.0/31.0 (� la position : 7)
+
+-----------------------------
+	Ancre : création de site internet sur mesure  (score position-synonymie : 0,904)
+	Score Contextuel : 11.0/42.0 (� la position : 59)
+
+-----------------------------
+	Ancre : création du site  (score position-synonymie : 0,769)
+	Score Contextuel : 5.0/29.0 (� la position : 128)
+	Score Contextuel : 9.0/35.0 (� la position : 140)
+	Score Contextuel : 10.0/37.0 (� la position : 142)
+	Score Contextuel : 4.0/34.0 (� la position : 174)
+	Score Contextuel : 8.0/36.0 (� la position : 189)
+	Score Contextuel : 4.0/31.0 (� la position : 218)
+	Score Contextuel : 7.0/37.0 (� la position : 221)
+	Score Contextuel : 8.0/45.0 (� la position : 243)
+	Score Contextuel : 12.0/42.0 (� la position : 256)
+	Score Contextuel : 7.0/41.0 (� la position : 266)
+	Score Contextuel : 6.0/40.0 (� la position : 267)
+	Score Contextuel : 4.0/29.0 (� la position : 275)
+	Score Contextuel : 8.0/38.0 (� la position : 305)
+	Score Contextuel : 4.0/32.0 (� la position : 337)
+	Score Contextuel : 8.0/39.0 (� la position : 348)
+	Score Contextuel : 6.0/41.0 (� la position : 425)
+	Score Contextuel : 5.0/34.0 (� la position : 438)
+	Score Contextuel : 5.0/29.0 (� la position : 446)
+	Score Contextuel : 9.0/33.0 (� la position : 448)
+	Score Contextuel : 11.0/46.0 (� la position : 450)
+	Score Contextuel : 10.0/46.0 (� la position : 458)
+	Score Contextuel : 9.0/52.0 (� la position : 470)
+	Score Contextuel : 4.0/32.0 (� la position : 481)
+	Score Contextuel : 12.0/48.0 (� la position : 495)
+	Score Contextuel : 5.0/31.0 (� la position : 499)
+	Score Contextuel : 8.0/32.0 (� la position : 501)
+	Score Contextuel : 9.0/42.0 (� la position : 524)
+	Score Contextuel : 9.0/42.0 (� la position : 525)
+	Score Contextuel : 4.0/31.0 (� la position : 540)
+	Score Contextuel : 10.0/56.0 (� la position : 564)
+
+-----------------------------
+	Ancre : création du site web  (score position-synonymie : 0,923)
+	Score Contextuel : 5.0/29.0 (� la position : 128)
+	Score Contextuel : 6.0/40.0 (� la position : 267)
+	Score Contextuel : 11.0/46.0 (� la position : 450)
+	Score Contextuel : 4.0/32.0 (� la position : 481)
+	Score Contextuel : 8.0/32.0 (� la position : 501)
+	Score Contextuel : 9.0/42.0 (� la position : 525)
+
+-----------------------------
+	Ancre : création de site web  (score position-synonymie : 0,923)
+	Score Contextuel : 4.0/32.0 (� la position : 351)
+
+-----------------------------
+	Ancre : création de site professionnel  (score position-synonymie : 0,769)
+	Score Contextuel : 6.0/32.0 (� la position : 371)
+
+-----------------------------
+Document 1 : fichier test pixa anchor\Nos solutions.
+	Mots Clefs etudi�s: création de sites Internet d'entreprises
+-----------------------------
+	Ancre : création site  (score position-synonymie : 0,769)
+	Score Contextuel : 7.0/33.0 (� la position : 4)
+
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,923)
+	Score Contextuel : 7.0/33.0 (� la position : 4)
+
+-----------------------------
+Document 2 : fichier test pixa anchor\solutions sur mesure.
+	Mots Clefs etudi�s: création de sites Internet d'entreprises
+-----------------------------
+	Ancre : création site  (score position-synonymie : 0,769)
+	Score Contextuel : 8.0/31.0 (� la position : 2)
+
+-----------------------------
+Document 3 : fichier test pixa anchor\Concevoir un site pour mobiles.
+	Mots Clefs etudi�s: création de sites Internet d'entreprises
+-----------------------------
+	Ancre : création site  (score position-synonymie : 0,769)
+	Score Contextuel : 4.0/27.0 (� la position : 2)
+
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,923)
+	Score Contextuel : 4.0/27.0 (� la position : 2)
+
+-----------------------------
+Document 4 : fichier test pixa anchor\Graphisme web.
+	Mots Clefs etudi�s: création de sites Internet d'entreprises
+-----------------------------
+	Ancre : création site  (score position-synonymie : 0,769)
+	Score Contextuel : 6.0/39.0 (� la position : 36)
+	Score Contextuel : 5.0/36.0 (� la position : 44)
+	Score Contextuel : 4.0/38.0 (� la position : 52)
+	Score Contextuel : 5.0/35.0 (� la position : 60)
+	Score Contextuel : 6.0/26.0 (� la position : 68)
+	Score Contextuel : 9.0/45.0 (� la position : 82)
+	Score Contextuel : 6.0/38.0 (� la position : 90)
+	Score Contextuel : 5.0/39.0 (� la position : 91)
+	Score Contextuel : 6.0/42.0 (� la position : 97)
+	Score Contextuel : 8.0/37.0 (� la position : 114)
+	Score Contextuel : 5.0/41.0 (� la position : 121)
+	Score Contextuel : 8.0/32.0 (� la position : 131)
+	Score Contextuel : 8.0/49.0 (� la position : 145)
+	Score Contextuel : 5.0/34.0 (� la position : 156)
+	Score Contextuel : 4.0/40.0 (� la position : 170)
+	Score Contextuel : 7.0/38.0 (� la position : 176)
+	Score Contextuel : 11.0/44.0 (� la position : 181)
+	Score Contextuel : 13.0/53.0 (� la position : 193)
+	Score Contextuel : 14.0/46.0 (� la position : 203)
+	Score Contextuel : 7.0/33.0 (� la position : 216)
+	Score Contextuel : 11.0/44.0 (� la position : 225)
+	Score Contextuel : 7.0/40.0 (� la position : 232)
+	Score Contextuel : 7.0/42.0 (� la position : 252)
+	Score Contextuel : 8.0/39.0 (� la position : 261)
+	Score Contextuel : 9.0/34.0 (� la position : 264)
+	Score Contextuel : 8.0/36.0 (� la position : 273)
+	Score Contextuel : 4.0/34.0 (� la position : 280)
+	Score Contextuel : 7.0/38.0 (� la position : 291)
+	Score Contextuel : 14.0/48.0 (� la position : 297)
+	Score Contextuel : 13.0/48.0 (� la position : 300)
+
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,923)
+	Score Contextuel : 6.0/39.0 (� la position : 36)
+	Score Contextuel : 5.0/36.0 (� la position : 44)
+	Score Contextuel : 4.0/38.0 (� la position : 52)
+	Score Contextuel : 5.0/35.0 (� la position : 60)
+	Score Contextuel : 6.0/26.0 (� la position : 68)
+	Score Contextuel : 9.0/45.0 (� la position : 82)
+	Score Contextuel : 6.0/38.0 (� la position : 90)
+	Score Contextuel : 5.0/39.0 (� la position : 91)
+	Score Contextuel : 6.0/42.0 (� la position : 97)
+	Score Contextuel : 8.0/37.0 (� la position : 114)
+	Score Contextuel : 5.0/41.0 (� la position : 121)
+	Score Contextuel : 8.0/32.0 (� la position : 131)
+	Score Contextuel : 8.0/49.0 (� la position : 145)
+	Score Contextuel : 5.0/34.0 (� la position : 156)
+	Score Contextuel : 4.0/40.0 (� la position : 170)
+	Score Contextuel : 7.0/38.0 (� la position : 176)
+	Score Contextuel : 11.0/44.0 (� la position : 181)
+	Score Contextuel : 13.0/53.0 (� la position : 193)
+	Score Contextuel : 14.0/46.0 (� la position : 203)
+	Score Contextuel : 7.0/33.0 (� la position : 216)
+	Score Contextuel : 11.0/44.0 (� la position : 225)
+	Score Contextuel : 7.0/40.0 (� la position : 232)
+	Score Contextuel : 7.0/42.0 (� la position : 252)
+	Score Contextuel : 8.0/39.0 (� la position : 261)
+	Score Contextuel : 9.0/34.0 (� la position : 264)
+	Score Contextuel : 8.0/36.0 (� la position : 273)
+	Score Contextuel : 4.0/34.0 (� la position : 280)
+	Score Contextuel : 7.0/38.0 (� la position : 291)
+	Score Contextuel : 14.0/48.0 (� la position : 297)
+	Score Contextuel : 13.0/48.0 (� la position : 300)
+
+-----------------------------
+Document 9 : fichier test pixa anchor\Les nouveaux enjeux liés au mobile.
+	Mots Clefs etudi�s: création de sites Internet d'entreprises
+-----------------------------
+	Ancre : création de site  (score position-synonymie : 0,769)
+	Score Contextuel : 4.0/34.0 (� la position : 8)
+
+-----------------------------
+	Ancre : création de site mobiles  (score position-synonymie : 0,769)
+	Score Contextuel : 4.0/34.0 (� la position : 8)
+
+-----------------------------
+Document 11 : fichier test pixa anchor\Créer une application mobile.
+	Mots Clefs etudi�s: création de sites Internet d'entreprises
+-----------------------------
+	Ancre : création site  (score position-synonymie : 0,769)
+	Score Contextuel : 9.0/31.0 (� la position : 11)
+
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,923)
+	Score Contextuel : 9.0/31.0 (� la position : 11)
+
+-----------------------------
+Document 13 : fichier test pixa anchor\Votre référencement.
+	Mots Clefs etudi�s: création de sites Internet d'entreprises
+-----------------------------
+	Ancre : création site  (score position-synonymie : 0,769)
+	Score Contextuel : 8.0/33.0 (� la position : 29)
+
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,923)
+	Score Contextuel : 8.0/33.0 (� la position : 29)
+
+-----------------------------
+Document 17 : fichier test pixa anchor\Questions - Réponses.
+	Mots Clefs etudi�s: création de sites Internet d'entreprises
+-----------------------------
+	Ancre : création du site  (score position-synonymie : 0,769)
+	Score Contextuel : 7.0/28.0 (� la position : 7)
+
+-----------------------------
+	Ancre : création de site  (score position-synonymie : 0,769)
+	Score Contextuel : 5.0/26.0 (� la position : 9)
+
+-----------------------------
+Document 18 : fichier test pixa anchor\Financement de votre projet.
+	Mots Clefs etudi�s: création de sites Internet d'entreprises
+-----------------------------
+	Ancre : création de site  (score position-synonymie : 0,769)
+	Score Contextuel : 5.0/41.0 (� la position : 6)
+	Score Contextuel : 7.0/43.0 (� la position : 7)
+
+-----------------------------
+Document 19 : fichier test pixa anchor\Nos missions.
+	Mots Clefs etudi�s: création de sites Internet d'entreprises
+-----------------------------
+	Ancre : créations de sites  (score position-synonymie : 0,769)
+	Score Contextuel : 8.0/27.0 (� la position : 2)
+
+-----------------------------
+
+
+-----------------------
+L'agence web
+-----------------------
+
+Présent : l'agence web
+Présent : l'agence web
+Présent : l'agence web
+Présent : l'agence web
+Présent : l'agence web
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: L'agence web
+-----------------------------
+	Ancre : agence web  (score position-synonymie : 1)
+	Score Contextuel : 14.0/48.0 (� la position : 6)
+	Score Contextuel : 5.0/31.0 (� la position : 9)
+	Score Contextuel : 9.0/39.0 (� la position : 81)
+	Score Contextuel : 8.0/41.0 (� la position : 119)
+	Score Contextuel : 6.0/43.0 (� la position : 223)
+	Score Contextuel : 5.0/30.0 (� la position : 273)
+	Score Contextuel : 4.0/45.0 (� la position : 367)
+	Score Contextuel : 9.0/47.0 (� la position : 466)
+	Score Contextuel : 23.0/29.0 (� la position : 489)
+
+-----------------------------
+	Ancre : agence web pixalione  (score position-synonymie : 1)
+	Score Contextuel : 14.0/48.0 (� la position : 6)
+	Score Contextuel : 8.0/41.0 (� la position : 119)
+
+-----------------------------
+	Ancre : agence internet  (score position-synonymie : 1)
+	Score Contextuel : 4.0/32.0 (� la position : 186)
+	Score Contextuel : 4.0/33.0 (� la position : 482)
+
+-----------------------------
+	Ancre : agence web  (score position-synonymie : 1)
+	Score Contextuel : 5.0/36.0 (� la position : 375)
+	Score Contextuel : 8.0/43.0 (� la position : 420)
+
+-----------------------------
+	Ancre : agence compétente en référencement  (score position-synonymie : 0,571)
+	Score Contextuel : 9.0/47.0 (� la position : 467)
+
+-----------------------------
+	Ancre : agence web en charge  (score position-synonymie : 1)
+	Score Contextuel : 23.0/29.0 (� la position : 489)
+
+-----------------------------
+Document 2 : fichier test pixa anchor\solutions sur mesure.
+	Mots Clefs etudi�s: L'agence web
+-----------------------------
+	Ancre : agence web  (score position-synonymie : 1)
+	Score Contextuel : 4.0/39.0 (� la position : 5)
+
+-----------------------------
+	Ancre : agence web pixalione  (score position-synonymie : 1)
+	Score Contextuel : 4.0/39.0 (� la position : 5)
+
+-----------------------------
+Document 4 : fichier test pixa anchor\Graphisme web.
+	Mots Clefs etudi�s: L'agence web
+-----------------------------
+	Ancre : agence web  (score position-synonymie : 1)
+	Score Contextuel : 6.0/40.0 (� la position : 185)
+	Score Contextuel : 7.0/45.0 (� la position : 203)
+
+-----------------------------
+Document 12 : fichier test pixa anchor\Référencement mobile.
+	Mots Clefs etudi�s: L'agence web
+-----------------------------
+	Ancre : agence web  (score position-synonymie : 1)
+	Score Contextuel : 5.0/33.0 (� la position : 43)
+
+-----------------------------
+Document 13 : fichier test pixa anchor\Votre référencement.
+	Mots Clefs etudi�s: L'agence web
+-----------------------------
+	Ancre : agence web  (score position-synonymie : 1)
+	Score Contextuel : 5.0/43.0 (� la position : 35)
+
+-----------------------------
+	Ancre : agence web pixalione  (score position-synonymie : 1)
+	Score Contextuel : 5.0/43.0 (� la position : 35)
+
+-----------------------------
+Document 16 : fichier test pixa anchor\Les outils de référencement à notre disposition.
+	Mots Clefs etudi�s: L'agence web
+-----------------------------
+	Ancre : agence web  (score position-synonymie : 1)
+	Score Contextuel : 3.0/36.0 (� la position : 37)
+
+-----------------------------
+Document 18 : fichier test pixa anchor\Financement de votre projet.
+	Mots Clefs etudi�s: L'agence web
+-----------------------------
+	Ancre : agence web  (score position-synonymie : 1)
+	Score Contextuel : 4.0/42.0 (� la position : 14)
+
+-----------------------------
+	Ancre : agence web pixalione  (score position-synonymie : 1)
+	Score Contextuel : 4.0/42.0 (� la position : 14)
+
+-----------------------------
+Document 19 : fichier test pixa anchor\Nos missions.
+	Mots Clefs etudi�s: L'agence web
+-----------------------------
+	Ancre : agence web  (score position-synonymie : 1)
+	Score Contextuel : 5.0/30.0 (� la position : 2)
+
+-----------------------------
+
+
+-----------------------
+une horreur
+-----------------------
+
+Présent : une horreur
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: une horreur
+-----------------------------
+	Ancre : horreur  (score position-synonymie : 1)
+	Score Contextuel : 9.0/9.0 (� la position : 2)
+
+-----------------------------
+
+
+-----------------------
+une abomination
+-----------------------
+
+Présent : une abomination
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: une abomination
+-----------------------------
+	Ancre : abomination  (score position-synonymie : 1)
+	Score Contextuel : 9.0/18.0 (� la position : 3)
+
+-----------------------------
+
+
+-----------------------
+créer votre site Internet
+-----------------------
+
+Présent : créer votre site internet
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: créer votre site Internet
+-----------------------------
+	Ancre : créer votre site  (score position-synonymie : 0,833)
+	Score Contextuel : 17.0/22.0 (� la position : 4)
+
+-----------------------------
+	Ancre : créer votre site internet  (score position-synonymie : 1)
+	Score Contextuel : 17.0/22.0 (� la position : 4)
+
+-----------------------------
+	Ancre : créer votre site mobile  (score position-synonymie : 0,792)
+	Score Contextuel : 6.0/30.0 (� la position : 55)
+
+-----------------------------
+	Ancre : créer un site  (score position-synonymie : 0,833)
+	Score Contextuel : 9.0/31.0 (� la position : 144)
+	Score Contextuel : 6.0/35.0 (� la position : 148)
+
+-----------------------------
+	Ancre : créer un site internet  (score position-synonymie : 1)
+	Score Contextuel : 9.0/31.0 (� la position : 144)
+
+-----------------------------
+	Ancre : créer un site e  (score position-synonymie : 0,792)
+	Score Contextuel : 6.0/35.0 (� la position : 148)
+
+-----------------------------
+	Ancre : site créer  (score position-synonymie : 0,641)
+	Score Contextuel : 4.0/32.0 (� la position : 237)
+
+-----------------------------
+	Ancre : réalisé votre site internet  (score position-synonymie : 0,597)
+	Score Contextuel : 3.0/23.0 (� la position : 272)
+
+-----------------------------
+Document 4 : fichier test pixa anchor\Graphisme web.
+	Mots Clefs etudi�s: créer votre site Internet
+-----------------------------
+	Ancre : site créer  (score position-synonymie : 0,641)
+	Score Contextuel : 4.0/22.0 (� la position : 4)
+
+-----------------------------
+Document 7 : fichier test pixa anchor\Multimédia.
+	Mots Clefs etudi�s: créer votre site Internet
+-----------------------------
+	Ancre : animera votre site internet  (score position-synonymie : 0,598)
+	Score Contextuel : 3.0/22.0 (� la position : 15)
+
+-----------------------------
+Document 8 : fichier test pixa anchor\Les services supplémentaires.
+	Mots Clefs etudi�s: créer votre site Internet
+-----------------------------
+	Ancre : concevoir un site web  (score position-synonymie : 0,59)
+	Score Contextuel : 2.0/25.0 (� la position : 18)
+
+-----------------------------
+Document 9 : fichier test pixa anchor\Les nouveaux enjeux liés au mobile.
+	Mots Clefs etudi�s: créer votre site Internet
+-----------------------------
+	Ancre : créer un site  (score position-synonymie : 0,833)
+	Score Contextuel : 2.0/22.0 (� la position : 2)
+
+-----------------------------
+	Ancre : créer un site adapté  (score position-synonymie : 0,792)
+	Score Contextuel : 2.0/22.0 (� la position : 2)
+
+-----------------------------
+Document 10 : fichier test pixa anchor\Optimisation mobile.
+	Mots Clefs etudi�s: créer votre site Internet
+-----------------------------
+	Ancre : créer un site  (score position-synonymie : 0,833)
+	Score Contextuel : 4.0/29.0 (� la position : 6)
+
+-----------------------------
+	Ancre : créer un site mobile  (score position-synonymie : 0,792)
+	Score Contextuel : 4.0/29.0 (� la position : 6)
+
+-----------------------------
+Document 14 : fichier test pixa anchor\Le référencement naturel de votre site.
+	Mots Clefs etudi�s: créer votre site Internet
+-----------------------------
+	Ancre : constituant les sites  (score position-synonymie : 0,5)
+	Score Contextuel : 4.0/31.0 (� la position : 24)
+
+-----------------------------
+Document 17 : fichier test pixa anchor\Questions - Réponses.
+	Mots Clefs etudi�s: créer votre site Internet
+-----------------------------
+	Ancre : créer un site  (score position-synonymie : 0,833)
+	Score Contextuel : 4.0/26.0 (� la position : 11)
+
+-----------------------------
+
+
+-----------------------
+image de votre entreprise
+-----------------------
+
+Présent : image de votre entreprise
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: image de votre entreprise
+-----------------------------
+	Ancre : images de votre entreprise  (score position-synonymie : 1)
+	Score Contextuel : 16.0/22.0 (� la position : 4)
+
+-----------------------------
+Document 4 : fichier test pixa anchor\Graphisme web.
+	Mots Clefs etudi�s: image de votre entreprise
+-----------------------------
+	Ancre : image de votre entreprise  (score position-synonymie : 1)
+	Score Contextuel : 4.0/25.0 (� la position : 3)
+
+-----------------------------
+	Ancre : image de une entreprise  (score position-synonymie : 1)
+	Score Contextuel : 5.0/25.0 (� la position : 138)
+
+-----------------------------
+	Ancre : image de marque professionnelle  (score position-synonymie : 0,571)
+	Score Contextuel : 7.0/31.0 (� la position : 262)
+
+-----------------------------
+
+
+-----------------------
+achats en ligne
+-----------------------
+
+Présent : achats en ligne
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: achats en ligne
+-----------------------------
+	Ancre : achat en ligne  (score position-synonymie : 1)
+	Score Contextuel : 21.0/22.0 (� la position : 5)
+
+-----------------------------
+	Ancre : achat de mot  (score position-synonymie : 0,587)
+	Score Contextuel : 6.0/34.0 (� la position : 433)
+
+-----------------------------
+Document 14 : fichier test pixa anchor\Le référencement naturel de votre site.
+	Mots Clefs etudi�s: achats en ligne
+-----------------------------
+	Ancre : achat de emplacements commerciaux  (score position-synonymie : 0,571)
+	Score Contextuel : 6.0/45.0 (� la position : 13)
+
+-----------------------------
+
+
+-----------------------
+ligne de produits
+-----------------------
+
+Présent : ligne de produits
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: ligne de produits
+-----------------------------
+	Ancre : ligne de produits  (score position-synonymie : 1)
+	Score Contextuel : 21.0/22.0 (� la position : 5)
+
+-----------------------------
+	Ancre : ligne des produits  (score position-synonymie : 1)
+	Score Contextuel : 10.0/35.0 (� la position : 138)
+
+-----------------------------
+Document 2 : fichier test pixa anchor\solutions sur mesure.
+	Mots Clefs etudi�s: ligne de produits
+-----------------------------
+	Ancre : ligne un site e  (score position-synonymie : 0,571)
+	Score Contextuel : 8.0/39.0 (� la position : 12)
+
+-----------------------------
+
+
+-----------------------
+services
+-----------------------
+
+Présent : services
+Présent : services
+Présent : services
+Présent : services
+Présent : services
+Présent : services
+Présent : services
+Présent : services
+Présent : services
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: services
+-----------------------------
+	Ancre : services  (score position-synonymie : 1)
+	Score Contextuel : 8.0/49.0 (� la position : 5)
+
+-----------------------------
+Document 3 : fichier test pixa anchor\Concevoir un site pour mobiles.
+	Mots Clefs etudi�s: services
+-----------------------------
+	Ancre : service  (score position-synonymie : 1)
+	Score Contextuel : 8.0/39.0 (� la position : 20)
+	Score Contextuel : 7.0/44.0 (� la position : 27)
+
+-----------------------------
+Document 4 : fichier test pixa anchor\Graphisme web.
+	Mots Clefs etudi�s: services
+-----------------------------
+	Ancre : service  (score position-synonymie : 1)
+	Score Contextuel : 9.0/52.0 (� la position : 182)
+	Score Contextuel : 5.0/48.0 (� la position : 205)
+	Score Contextuel : 8.0/46.0 (� la position : 220)
+
+-----------------------------
+Document 8 : fichier test pixa anchor\Les services supplémentaires.
+	Mots Clefs etudi�s: services
+-----------------------------
+	Ancre : services  (score position-synonymie : 1)
+	Score Contextuel : 3.0/33.0 (� la position : 1)
+
+-----------------------------
+Document 9 : fichier test pixa anchor\Les nouveaux enjeux liés au mobile.
+	Mots Clefs etudi�s: services
+-----------------------------
+	Ancre : service  (score position-synonymie : 1)
+	Score Contextuel : 7.0/34.0 (� la position : 21)
+
+-----------------------------
+Document 10 : fichier test pixa anchor\Optimisation mobile.
+	Mots Clefs etudi�s: services
+-----------------------------
+	Ancre : services  (score position-synonymie : 1)
+	Score Contextuel : 4.0/33.0 (� la position : 22)
+
+-----------------------------
+Document 18 : fichier test pixa anchor\Financement de votre projet.
+	Mots Clefs etudi�s: services
+-----------------------------
+	Ancre : services  (score position-synonymie : 1)
+	Score Contextuel : 3.0/46.0 (� la position : 18)
+
+-----------------------------
+
+
+-----------------------
+sites web
+-----------------------
+
+Présent : sites web
+Présent : sites web
+Présent : sites web
+Présent : sites web
+Présent : sites web
+Présent : sites web
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : site internet  (score position-synonymie : 1)
+	Score Contextuel : 8.0/38.0 (� la position : 4)
+	Score Contextuel : 13.0/35.0 (� la position : 6)
+	Score Contextuel : 10.0/33.0 (� la position : 7)
+	Score Contextuel : 5.0/20.0 (� la position : 9)
+	Score Contextuel : 7.0/31.0 (� la position : 15)
+	Score Contextuel : 4.0/20.0 (� la position : 19)
+	Score Contextuel : 3.0/23.0 (� la position : 22)
+	Score Contextuel : 4.0/19.0 (� la position : 36)
+	Score Contextuel : 3.0/19.0 (� la position : 37)
+	Score Contextuel : 6.0/34.0 (� la position : 41)
+	Score Contextuel : 5.0/30.0 (� la position : 42)
+	Score Contextuel : 8.0/26.0 (� la position : 57)
+	Score Contextuel : 8.0/31.0 (� la position : 59)
+	Score Contextuel : 5.0/19.0 (� la position : 60)
+	Score Contextuel : 7.0/27.0 (� la position : 63)
+	Score Contextuel : 4.0/22.0 (� la position : 77)
+	Score Contextuel : 6.0/27.0 (� la position : 79)
+	Score Contextuel : 6.0/28.0 (� la position : 80)
+	Score Contextuel : 4.0/20.0 (� la position : 83)
+	Score Contextuel : 3.0/22.0 (� la position : 90)
+	Score Contextuel : 3.0/22.0 (� la position : 91)
+	Score Contextuel : 4.0/28.0 (� la position : 101)
+	Score Contextuel : 5.0/29.0 (� la position : 102)
+	Score Contextuel : 4.0/29.0 (� la position : 104)
+	Score Contextuel : 8.0/30.0 (� la position : 119)
+	Score Contextuel : 4.0/22.0 (� la position : 122)
+	Score Contextuel : 6.0/31.0 (� la position : 123)
+	Score Contextuel : 7.0/34.0 (� la position : 124)
+	Score Contextuel : 6.0/30.0 (� la position : 126)
+	Score Contextuel : 4.0/17.0 (� la position : 128)
+	Score Contextuel : 4.0/17.0 (� la position : 130)
+	Score Contextuel : 9.0/38.0 (� la position : 137)
+	Score Contextuel : 5.0/30.0 (� la position : 140)
+	Score Contextuel : 7.0/28.0 (� la position : 142)
+	Score Contextuel : 6.0/32.0 (� la position : 144)
+	Score Contextuel : 7.0/34.0 (� la position : 148)
+	Score Contextuel : 7.0/34.0 (� la position : 151)
+	Score Contextuel : 3.0/22.0 (� la position : 156)
+	Score Contextuel : 3.0/23.0 (� la position : 157)
+	Score Contextuel : 5.0/28.0 (� la position : 164)
+	Score Contextuel : 7.0/27.0 (� la position : 166)
+	Score Contextuel : 5.0/20.0 (� la position : 168)
+	Score Contextuel : 2.0/23.0 (� la position : 171)
+	Score Contextuel : 3.0/24.0 (� la position : 174)
+	Score Contextuel : 4.0/19.0 (� la position : 180)
+	Score Contextuel : 4.0/23.0 (� la position : 189)
+	Score Contextuel : 2.0/22.0 (� la position : 191)
+	Score Contextuel : 3.0/21.0 (� la position : 218)
+	Score Contextuel : 8.0/26.0 (� la position : 221)
+	Score Contextuel : 8.0/45.0 (� la position : 235)
+	Score Contextuel : 8.0/31.0 (� la position : 243)
+	Score Contextuel : 3.0/22.0 (� la position : 255)
+	Score Contextuel : 4.0/27.0 (� la position : 256)
+	Score Contextuel : 3.0/23.0 (� la position : 262)
+	Score Contextuel : 7.0/30.0 (� la position : 266)
+	Score Contextuel : 6.0/27.0 (� la position : 269)
+	Score Contextuel : 5.0/24.0 (� la position : 270)
+	Score Contextuel : 4.0/21.0 (� la position : 272)
+	Score Contextuel : 4.0/20.0 (� la position : 275)
+	Score Contextuel : 3.0/24.0 (� la position : 285)
+	Score Contextuel : 2.0/22.0 (� la position : 286)
+	Score Contextuel : 3.0/19.0 (� la position : 292)
+	Score Contextuel : 3.0/26.0 (� la position : 295)
+	Score Contextuel : 4.0/27.0 (� la position : 305)
+	Score Contextuel : 4.0/22.0 (� la position : 318)
+	Score Contextuel : 4.0/21.0 (� la position : 322)
+	Score Contextuel : 6.0/26.0 (� la position : 323)
+	Score Contextuel : 4.0/31.0 (� la position : 332)
+	Score Contextuel : 3.0/22.0 (� la position : 337)
+	Score Contextuel : 5.0/24.0 (� la position : 347)
+	Score Contextuel : 7.0/31.0 (� la position : 348)
+	Score Contextuel : 4.0/22.0 (� la position : 369)
+	Score Contextuel : 3.0/20.0 (� la position : 370)
+	Score Contextuel : 6.0/28.0 (� la position : 378)
+	Score Contextuel : 6.0/29.0 (� la position : 379)
+	Score Contextuel : 5.0/24.0 (� la position : 394)
+	Score Contextuel : 5.0/20.0 (� la position : 395)
+	Score Contextuel : 7.0/30.0 (� la position : 422)
+	Score Contextuel : 5.0/25.0 (� la position : 425)
+	Score Contextuel : 5.0/27.0 (� la position : 426)
+	Score Contextuel : 4.0/28.0 (� la position : 428)
+	Score Contextuel : 4.0/29.0 (� la position : 432)
+	Score Contextuel : 6.0/22.0 (� la position : 438)
+	Score Contextuel : 6.0/23.0 (� la position : 439)
+	Score Contextuel : 7.0/33.0 (� la position : 442)
+	Score Contextuel : 4.0/24.0 (� la position : 445)
+	Score Contextuel : 4.0/19.0 (� la position : 446)
+	Score Contextuel : 5.0/24.0 (� la position : 448)
+	Score Contextuel : 4.0/28.0 (� la position : 456)
+	Score Contextuel : 5.0/29.0 (� la position : 457)
+	Score Contextuel : 4.0/30.0 (� la position : 460)
+	Score Contextuel : 6.0/32.0 (� la position : 467)
+	Score Contextuel : 7.0/35.0 (� la position : 470)
+	Score Contextuel : 7.0/33.0 (� la position : 479)
+	Score Contextuel : 5.0/21.0 (� la position : 483)
+	Score Contextuel : 7.0/31.0 (� la position : 489)
+	Score Contextuel : 12.0/21.0 (� la position : 495)
+	Score Contextuel : 3.0/22.0 (� la position : 498)
+	Score Contextuel : 4.0/23.0 (� la position : 499)
+	Score Contextuel : 5.0/26.0 (� la position : 504)
+	Score Contextuel : 5.0/30.0 (� la position : 512)
+	Score Contextuel : 8.0/34.0 (� la position : 524)
+	Score Contextuel : 8.0/34.0 (� la position : 525)
+	Score Contextuel : 3.0/20.0 (� la position : 540)
+	Score Contextuel : 4.0/30.0 (� la position : 545)
+	Score Contextuel : 7.0/32.0 (� la position : 546)
+	Score Contextuel : 8.0/48.0 (� la position : 555)
+	Score Contextuel : 8.0/41.0 (� la position : 558)
+	Score Contextuel : 7.0/43.0 (� la position : 562)
+	Score Contextuel : 9.0/45.0 (� la position : 564)
+	Score Contextuel : 4.0/36.0 (� la position : 567)
+	Score Contextuel : 4.0/36.0 (� la position : 569)
+
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,653)
+	Score Contextuel : 5.0/20.0 (� la position : 9)
+	Score Contextuel : 3.0/23.0 (� la position : 22)
+	Score Contextuel : 3.0/19.0 (� la position : 37)
+	Score Contextuel : 5.0/19.0 (� la position : 60)
+	Score Contextuel : 6.0/27.0 (� la position : 79)
+	Score Contextuel : 4.0/20.0 (� la position : 83)
+	Score Contextuel : 5.0/20.0 (� la position : 168)
+	Score Contextuel : 3.0/23.0 (� la position : 262)
+	Score Contextuel : 5.0/21.0 (� la position : 483)
+
+-----------------------------
+	Ancre : site web  (score position-synonymie : 1)
+	Score Contextuel : 13.0/35.0 (� la position : 6)
+	Score Contextuel : 3.0/24.0 (� la position : 94)
+	Score Contextuel : 3.0/21.0 (� la position : 95)
+	Score Contextuel : 5.0/29.0 (� la position : 102)
+	Score Contextuel : 6.0/42.0 (� la position : 114)
+	Score Contextuel : 4.0/17.0 (� la position : 128)
+	Score Contextuel : 3.0/23.0 (� la position : 133)
+	Score Contextuel : 7.0/25.0 (� la position : 167)
+	Score Contextuel : 3.0/26.0 (� la position : 173)
+	Score Contextuel : 5.0/25.0 (� la position : 178)
+	Score Contextuel : 4.0/18.0 (� la position : 181)
+	Score Contextuel : 3.0/21.0 (� la position : 213)
+	Score Contextuel : 10.0/30.0 (� la position : 222)
+	Score Contextuel : 2.0/26.0 (� la position : 258)
+	Score Contextuel : 8.0/30.0 (� la position : 267)
+	Score Contextuel : 5.0/30.0 (� la position : 327)
+	Score Contextuel : 4.0/27.0 (� la position : 351)
+	Score Contextuel : 2.0/24.0 (� la position : 358)
+	Score Contextuel : 8.0/29.0 (� la position : 444)
+	Score Contextuel : 4.0/33.0 (� la position : 450)
+	Score Contextuel : 7.0/35.0 (� la position : 470)
+	Score Contextuel : 5.0/26.0 (� la position : 481)
+	Score Contextuel : 8.0/27.0 (� la position : 490)
+	Score Contextuel : 12.0/18.0 (� la position : 494)
+	Score Contextuel : 4.0/23.0 (� la position : 499)
+	Score Contextuel : 6.0/29.0 (� la position : 501)
+	Score Contextuel : 8.0/34.0 (� la position : 525)
+	Score Contextuel : 4.0/23.0 (� la position : 548)
+	Score Contextuel : 7.0/41.0 (� la position : 554)
+	Score Contextuel : 6.0/42.0 (� la position : 557)
+	Score Contextuel : 9.0/45.0 (� la position : 564)
+	Score Contextuel : 4.0/36.0 (� la position : 566)
+
+-----------------------------
+	Ancre : site internet de entreprises  (score position-synonymie : 1)
+	Score Contextuel : 13.0/35.0 (� la position : 6)
+
+-----------------------------
+	Ancre : site internet sur mesure  (score position-synonymie : 1)
+	Score Contextuel : 8.0/31.0 (� la position : 59)
+
+-----------------------------
+	Ancre : site pour écran standards  (score position-synonymie : 0,571)
+	Score Contextuel : 3.0/28.0 (� la position : 71)
+
+-----------------------------
+	Ancre : consulter le site web  (score position-synonymie : 0,653)
+	Score Contextuel : 3.0/24.0 (� la position : 94)
+
+-----------------------------
+	Ancre : atteindre un site web  (score position-synonymie : 0,653)
+	Score Contextuel : 3.0/21.0 (� la position : 95)
+
+-----------------------------
+	Ancre : millions de site web  (score position-synonymie : 0,653)
+	Score Contextuel : 6.0/42.0 (� la position : 114)
+
+-----------------------------
+	Ancre : prix site internet  (score position-synonymie : 0,653)
+	Score Contextuel : 8.0/30.0 (� la position : 119)
+	Score Contextuel : 6.0/32.0 (� la position : 467)
+
+-----------------------------
+	Ancre : site internet obsolète  (score position-synonymie : 1)
+	Score Contextuel : 6.0/31.0 (� la position : 123)
+
+-----------------------------
+	Ancre : création du site web  (score position-synonymie : 0,653)
+	Score Contextuel : 4.0/17.0 (� la position : 128)
+	Score Contextuel : 8.0/30.0 (� la position : 267)
+	Score Contextuel : 4.0/33.0 (� la position : 450)
+	Score Contextuel : 5.0/26.0 (� la position : 481)
+	Score Contextuel : 6.0/29.0 (� la position : 501)
+	Score Contextuel : 8.0/34.0 (� la position : 525)
+
+-----------------------------
+	Ancre : créateur du site web  (score position-synonymie : 0,653)
+	Score Contextuel : 7.0/25.0 (� la position : 167)
+
+-----------------------------
+	Ancre : exploitant du site web  (score position-synonymie : 0,653)
+	Score Contextuel : 3.0/26.0 (� la position : 173)
+
+-----------------------------
+	Ancre : quitter le site web  (score position-synonymie : 0,653)
+	Score Contextuel : 4.0/18.0 (� la position : 181)
+
+-----------------------------
+	Ancre : site de dimensions modeste  (score position-synonymie : 0,571)
+	Score Contextuel : 6.0/33.0 (� la position : 245)
+
+-----------------------------
+	Ancre : objectif du site web  (score position-synonymie : 0,653)
+	Score Contextuel : 2.0/26.0 (� la position : 258)
+
+-----------------------------
+	Ancre : site internet complet  (score position-synonymie : 1)
+	Score Contextuel : 7.0/30.0 (� la position : 266)
+
+-----------------------------
+	Ancre : site internet accessibles  (score position-synonymie : 1)
+	Score Contextuel : 4.0/21.0 (� la position : 272)
+
+-----------------------------
+	Ancre : site complet en flash  (score position-synonymie : 0,571)
+	Score Contextuel : 4.0/23.0 (� la position : 316)
+
+-----------------------------
+	Ancre : site internet en html  (score position-synonymie : 1)
+	Score Contextuel : 6.0/26.0 (� la position : 323)
+
+-----------------------------
+	Ancre : contenus du site web  (score position-synonymie : 0,653)
+	Score Contextuel : 5.0/30.0 (� la position : 327)
+
+-----------------------------
+	Ancre : site internet vitrine  (score position-synonymie : 1)
+	Score Contextuel : 7.0/31.0 (� la position : 348)
+	Score Contextuel : 3.0/20.0 (� la position : 370)
+
+-----------------------------
+	Ancre : site web vitrine  (score position-synonymie : 1)
+	Score Contextuel : 4.0/27.0 (� la position : 351)
+
+-----------------------------
+	Ancre : création de site web  (score position-synonymie : 0,653)
+	Score Contextuel : 4.0/27.0 (� la position : 351)
+
+-----------------------------
+	Ancre : site web  (score position-synonymie : 1)
+	Score Contextuel : 2.0/22.0 (� la position : 362)
+	Score Contextuel : 6.0/32.0 (� la position : 467)
+
+-----------------------------
+	Ancre : référencement site internet  (score position-synonymie : 0,653)
+	Score Contextuel : 6.0/32.0 (� la position : 467)
+
+-----------------------------
+	Ancre : analyse site web  (score position-synonymie : 0,653)
+	Score Contextuel : 6.0/32.0 (� la position : 467)
+
+-----------------------------
+	Ancre : coût site internet  (score position-synonymie : 0,653)
+	Score Contextuel : 6.0/32.0 (� la position : 467)
+
+-----------------------------
+	Ancre : devis site internet  (score position-synonymie : 0,653)
+	Score Contextuel : 6.0/32.0 (� la position : 467)
+
+-----------------------------
+	Ancre : fichier du site web  (score position-synonymie : 0,653)
+	Score Contextuel : 8.0/27.0 (� la position : 490)
+
+-----------------------------
+	Ancre : site internet personnes  (score position-synonymie : 1)
+	Score Contextuel : 7.0/32.0 (� la position : 546)
+
+-----------------------------
+	Ancre : utiliser le site web  (score position-synonymie : 0,653)
+	Score Contextuel : 7.0/41.0 (� la position : 554)
+
+-----------------------------
+	Ancre : site web à intérêt  (score position-synonymie : 1)
+	Score Contextuel : 9.0/45.0 (� la position : 564)
+
+-----------------------------
+	Ancre : contenu du site web  (score position-synonymie : 0,653)
+	Score Contextuel : 4.0/36.0 (� la position : 566)
+
+-----------------------------
+	Ancre : site internet utile  (score position-synonymie : 1)
+	Score Contextuel : 4.0/36.0 (� la position : 567)
+
+-----------------------------
+Document 1 : fichier test pixa anchor\Nos solutions.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : site internet  (score position-synonymie : 1)
+	Score Contextuel : 6.0/23.0 (� la position : 4)
+	Score Contextuel : 6.0/26.0 (� la position : 14)
+	Score Contextuel : 6.0/27.0 (� la position : 15)
+	Score Contextuel : 5.0/32.0 (� la position : 18)
+	Score Contextuel : 5.0/32.0 (� la position : 19)
+	Score Contextuel : 6.0/27.0 (� la position : 21)
+
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,653)
+	Score Contextuel : 6.0/23.0 (� la position : 4)
+
+-----------------------------
+	Ancre : site web  (score position-synonymie : 1)
+	Score Contextuel : 4.0/24.0 (� la position : 8)
+	Score Contextuel : 6.0/27.0 (� la position : 20)
+
+-----------------------------
+	Ancre : site internet sur mesure  (score position-synonymie : 1)
+	Score Contextuel : 6.0/26.0 (� la position : 14)
+	Score Contextuel : 6.0/27.0 (� la position : 21)
+
+-----------------------------
+	Ancre : site internet en fonction  (score position-synonymie : 1)
+	Score Contextuel : 6.0/27.0 (� la position : 15)
+
+-----------------------------
+	Ancre : site web sur mesure  (score position-synonymie : 1)
+	Score Contextuel : 6.0/27.0 (� la position : 20)
+
+-----------------------------
+Document 2 : fichier test pixa anchor\solutions sur mesure.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : site internet  (score position-synonymie : 1)
+	Score Contextuel : 4.0/24.0 (� la position : 4)
+	Score Contextuel : 2.0/21.0 (� la position : 18)
+	Score Contextuel : 5.0/24.0 (� la position : 22)
+
+-----------------------------
+	Ancre : site internet sur mesure  (score position-synonymie : 1)
+	Score Contextuel : 4.0/24.0 (� la position : 4)
+
+-----------------------------
+	Ancre : site web  (score position-synonymie : 1)
+	Score Contextuel : 4.0/26.0 (� la position : 5)
+	Score Contextuel : 3.0/27.0 (� la position : 7)
+	Score Contextuel : 5.0/26.0 (� la position : 21)
+	Score Contextuel : 5.0/24.0 (� la position : 23)
+
+-----------------------------
+	Ancre : site web sur mesure  (score position-synonymie : 1)
+	Score Contextuel : 4.0/26.0 (� la position : 5)
+
+-----------------------------
+	Ancre : esthétisme du site web  (score position-synonymie : 0,653)
+	Score Contextuel : 3.0/27.0 (� la position : 7)
+
+-----------------------------
+Document 3 : fichier test pixa anchor\Concevoir un site pour mobiles.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : site internet  (score position-synonymie : 1)
+	Score Contextuel : 3.0/17.0 (� la position : 2)
+	Score Contextuel : 4.0/22.0 (� la position : 9)
+
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,653)
+	Score Contextuel : 3.0/17.0 (� la position : 2)
+
+-----------------------------
+	Ancre : site internet qu  (score position-synonymie : 1)
+	Score Contextuel : 3.0/17.0 (� la position : 2)
+
+-----------------------------
+	Ancre : site web  (score position-synonymie : 1)
+	Score Contextuel : 4.0/22.0 (� la position : 9)
+
+-----------------------------
+	Ancre : site internet classique  (score position-synonymie : 1)
+	Score Contextuel : 4.0/22.0 (� la position : 9)
+
+-----------------------------
+Document 4 : fichier test pixa anchor\Graphisme web.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : site web  (score position-synonymie : 1)
+	Score Contextuel : 3.0/26.0 (� la position : 8)
+	Score Contextuel : 7.0/25.0 (� la position : 131)
+	Score Contextuel : 5.0/27.0 (� la position : 189)
+	Score Contextuel : 8.0/41.0 (� la position : 193)
+	Score Contextuel : 6.0/27.0 (� la position : 274)
+	Score Contextuel : 4.0/28.0 (� la position : 275)
+	Score Contextuel : 2.0/29.0 (� la position : 293)
+
+-----------------------------
+	Ancre : site internet  (score position-synonymie : 1)
+	Score Contextuel : 6.0/25.0 (� la position : 21)
+	Score Contextuel : 3.0/27.0 (� la position : 36)
+	Score Contextuel : 4.0/26.0 (� la position : 44)
+	Score Contextuel : 3.0/27.0 (� la position : 52)
+	Score Contextuel : 4.0/24.0 (� la position : 60)
+	Score Contextuel : 4.0/18.0 (� la position : 68)
+	Score Contextuel : 5.0/34.0 (� la position : 82)
+	Score Contextuel : 3.0/29.0 (� la position : 90)
+	Score Contextuel : 3.0/27.0 (� la position : 91)
+	Score Contextuel : 3.0/31.0 (� la position : 97)
+	Score Contextuel : 6.0/27.0 (� la position : 114)
+	Score Contextuel : 3.0/30.0 (� la position : 121)
+	Score Contextuel : 7.0/25.0 (� la position : 131)
+	Score Contextuel : 6.0/34.0 (� la position : 145)
+	Score Contextuel : 3.0/23.0 (� la position : 156)
+	Score Contextuel : 3.0/32.0 (� la position : 170)
+	Score Contextuel : 4.0/23.0 (� la position : 176)
+	Score Contextuel : 7.0/32.0 (� la position : 181)
+	Score Contextuel : 6.0/28.0 (� la position : 191)
+	Score Contextuel : 8.0/41.0 (� la position : 193)
+	Score Contextuel : 8.0/37.0 (� la position : 194)
+	Score Contextuel : 7.0/33.0 (� la position : 203)
+	Score Contextuel : 3.0/24.0 (� la position : 216)
+	Score Contextuel : 6.0/28.0 (� la position : 225)
+	Score Contextuel : 4.0/26.0 (� la position : 232)
+	Score Contextuel : 4.0/26.0 (� la position : 252)
+	Score Contextuel : 4.0/27.0 (� la position : 261)
+	Score Contextuel : 4.0/25.0 (� la position : 264)
+	Score Contextuel : 6.0/26.0 (� la position : 273)
+	Score Contextuel : 4.0/25.0 (� la position : 280)
+	Score Contextuel : 4.0/26.0 (� la position : 291)
+	Score Contextuel : 5.0/33.0 (� la position : 297)
+	Score Contextuel : 5.0/28.0 (� la position : 300)
+
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,653)
+	Score Contextuel : 3.0/27.0 (� la position : 36)
+	Score Contextuel : 4.0/26.0 (� la position : 44)
+	Score Contextuel : 3.0/27.0 (� la position : 52)
+	Score Contextuel : 4.0/24.0 (� la position : 60)
+	Score Contextuel : 4.0/18.0 (� la position : 68)
+	Score Contextuel : 5.0/34.0 (� la position : 82)
+	Score Contextuel : 3.0/29.0 (� la position : 90)
+	Score Contextuel : 3.0/27.0 (� la position : 91)
+	Score Contextuel : 3.0/31.0 (� la position : 97)
+	Score Contextuel : 6.0/27.0 (� la position : 114)
+	Score Contextuel : 3.0/30.0 (� la position : 121)
+	Score Contextuel : 7.0/25.0 (� la position : 131)
+	Score Contextuel : 6.0/34.0 (� la position : 145)
+	Score Contextuel : 3.0/23.0 (� la position : 156)
+	Score Contextuel : 3.0/32.0 (� la position : 170)
+	Score Contextuel : 4.0/23.0 (� la position : 176)
+	Score Contextuel : 7.0/32.0 (� la position : 181)
+	Score Contextuel : 8.0/41.0 (� la position : 193)
+	Score Contextuel : 7.0/33.0 (� la position : 203)
+	Score Contextuel : 3.0/24.0 (� la position : 216)
+	Score Contextuel : 6.0/28.0 (� la position : 225)
+	Score Contextuel : 4.0/26.0 (� la position : 232)
+	Score Contextuel : 4.0/26.0 (� la position : 252)
+	Score Contextuel : 4.0/27.0 (� la position : 261)
+	Score Contextuel : 4.0/25.0 (� la position : 264)
+	Score Contextuel : 6.0/26.0 (� la position : 273)
+	Score Contextuel : 4.0/25.0 (� la position : 280)
+	Score Contextuel : 4.0/26.0 (� la position : 291)
+	Score Contextuel : 5.0/33.0 (� la position : 297)
+	Score Contextuel : 5.0/28.0 (� la position : 300)
+
+-----------------------------
+	Ancre : site internet vitrine  (score position-synonymie : 1)
+	Score Contextuel : 8.0/37.0 (� la position : 194)
+
+-----------------------------
+	Ancre : site internet des projets  (score position-synonymie : 1)
+	Score Contextuel : 4.0/26.0 (� la position : 232)
+
+-----------------------------
+Document 5 : fichier test pixa anchor\Ergonomie web.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : site internet  (score position-synonymie : 1)
+	Score Contextuel : 5.0/22.0 (� la position : 3)
+	Score Contextuel : 5.0/24.0 (� la position : 4)
+	Score Contextuel : 2.0/18.0 (� la position : 8)
+	Score Contextuel : 5.0/22.0 (� la position : 11)
+	Score Contextuel : 5.0/21.0 (� la position : 13)
+	Score Contextuel : 5.0/24.0 (� la position : 18)
+
+-----------------------------
+	Ancre : site internet efficace  (score position-synonymie : 1)
+	Score Contextuel : 5.0/22.0 (� la position : 11)
+	Score Contextuel : 5.0/21.0 (� la position : 13)
+
+-----------------------------
+	Ancre : site web  (score position-synonymie : 1)
+	Score Contextuel : 5.0/24.0 (� la position : 16)
+
+-----------------------------
+Document 6 : fichier test pixa anchor\Stratégie web.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : site internet  (score position-synonymie : 1)
+	Score Contextuel : 2.0/26.0 (� la position : 5)
+	Score Contextuel : 3.0/26.0 (� la position : 10)
+	Score Contextuel : 2.0/22.0 (� la position : 21)
+
+-----------------------------
+Document 7 : fichier test pixa anchor\Multimédia.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : site internet  (score position-synonymie : 1)
+	Score Contextuel : 6.0/27.0 (� la position : 3)
+	Score Contextuel : 6.0/27.0 (� la position : 6)
+	Score Contextuel : 2.0/20.0 (� la position : 15)
+	Score Contextuel : 3.0/21.0 (� la position : 17)
+
+-----------------------------
+	Ancre : site web  (score position-synonymie : 1)
+	Score Contextuel : 3.0/21.0 (� la position : 16)
+
+-----------------------------
+	Ancre : animation aux site web  (score position-synonymie : 0,653)
+	Score Contextuel : 3.0/21.0 (� la position : 16)
+
+-----------------------------
+Document 8 : fichier test pixa anchor\Les services supplémentaires.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : site internet  (score position-synonymie : 1)
+	Score Contextuel : 5.0/21.0 (� la position : 3)
+	Score Contextuel : 3.0/17.0 (� la position : 12)
+	Score Contextuel : 3.0/18.0 (� la position : 16)
+	Score Contextuel : 2.0/20.0 (� la position : 23)
+	Score Contextuel : 3.0/22.0 (� la position : 28)
+
+-----------------------------
+	Ancre : site web  (score position-synonymie : 1)
+	Score Contextuel : 3.0/16.0 (� la position : 13)
+	Score Contextuel : 5.0/26.0 (� la position : 18)
+
+-----------------------------
+	Ancre : concevoir un site web  (score position-synonymie : 0,653)
+	Score Contextuel : 5.0/26.0 (� la position : 18)
+
+-----------------------------
+Document 9 : fichier test pixa anchor\Les nouveaux enjeux liés au mobile.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : site internet  (score position-synonymie : 1)
+	Score Contextuel : 3.0/21.0 (� la position : 3)
+	Score Contextuel : 4.0/24.0 (� la position : 8)
+	Score Contextuel : 2.0/24.0 (� la position : 18)
+
+-----------------------------
+	Ancre : site internet classique  (score position-synonymie : 1)
+	Score Contextuel : 4.0/24.0 (� la position : 8)
+
+-----------------------------
+Document 10 : fichier test pixa anchor\Optimisation mobile.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : site internet  (score position-synonymie : 1)
+	Score Contextuel : 3.0/24.0 (� la position : 2)
+	Score Contextuel : 5.0/35.0 (� la position : 11)
+	Score Contextuel : 3.0/16.0 (� la position : 15)
+	Score Contextuel : 3.0/19.0 (� la position : 16)
+	Score Contextuel : 5.0/20.0 (� la position : 21)
+
+-----------------------------
+	Ancre : site internet light  (score position-synonymie : 1)
+	Score Contextuel : 5.0/20.0 (� la position : 21)
+
+-----------------------------
+Document 11 : fichier test pixa anchor\Créer une application mobile.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : site internet  (score position-synonymie : 1)
+	Score Contextuel : 4.0/27.0 (� la position : 11)
+	Score Contextuel : 3.0/22.0 (� la position : 23)
+
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,653)
+	Score Contextuel : 4.0/27.0 (� la position : 11)
+
+-----------------------------
+	Ancre : site internet classique  (score position-synonymie : 1)
+	Score Contextuel : 3.0/22.0 (� la position : 23)
+
+-----------------------------
+Document 12 : fichier test pixa anchor\Référencement mobile.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : site internet  (score position-synonymie : 1)
+	Score Contextuel : 3.0/22.0 (� la position : 10)
+	Score Contextuel : 3.0/21.0 (� la position : 14)
+	Score Contextuel : 4.0/24.0 (� la position : 15)
+
+-----------------------------
+	Ancre : site internet traditionnel  (score position-synonymie : 1)
+	Score Contextuel : 3.0/22.0 (� la position : 10)
+
+-----------------------------
+	Ancre : site internet classique  (score position-synonymie : 1)
+	Score Contextuel : 3.0/21.0 (� la position : 14)
+
+-----------------------------
+	Ancre : site web  (score position-synonymie : 1)
+	Score Contextuel : 3.0/24.0 (� la position : 39)
+
+-----------------------------
+Document 13 : fichier test pixa anchor\Votre référencement.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : site internet  (score position-synonymie : 1)
+	Score Contextuel : 7.0/28.0 (� la position : 2)
+	Score Contextuel : 10.0/34.0 (� la position : 4)
+	Score Contextuel : 2.0/18.0 (� la position : 9)
+	Score Contextuel : 5.0/23.0 (� la position : 10)
+	Score Contextuel : 4.0/22.0 (� la position : 29)
+	Score Contextuel : 4.0/22.0 (� la position : 30)
+	Score Contextuel : 3.0/23.0 (� la position : 31)
+	Score Contextuel : 2.0/23.0 (� la position : 37)
+
+-----------------------------
+	Ancre : site web  (score position-synonymie : 1)
+	Score Contextuel : 7.0/28.0 (� la position : 3)
+
+-----------------------------
+	Ancre : site internet vitrine  (score position-synonymie : 1)
+	Score Contextuel : 10.0/34.0 (� la position : 4)
+
+-----------------------------
+	Ancre : site internet par pixalione  (score position-synonymie : 1)
+	Score Contextuel : 5.0/23.0 (� la position : 10)
+
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,653)
+	Score Contextuel : 4.0/22.0 (� la position : 29)
+
+-----------------------------
+Document 14 : fichier test pixa anchor\Le référencement naturel de votre site.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : sites internet  (score position-synonymie : 1)
+	Score Contextuel : 5.0/26.0 (� la position : 5)
+
+-----------------------------
+	Ancre : sites internet par ordre  (score position-synonymie : 1)
+	Score Contextuel : 5.0/26.0 (� la position : 5)
+
+-----------------------------
+	Ancre : sites web  (score position-synonymie : 1)
+	Score Contextuel : 5.0/29.0 (� la position : 6)
+	Score Contextuel : 4.0/26.0 (� la position : 7)
+	Score Contextuel : 3.0/26.0 (� la position : 23)
+	Score Contextuel : 3.0/26.0 (� la position : 25)
+	Score Contextuel : 4.0/27.0 (� la position : 36)
+	Score Contextuel : 4.0/24.0 (� la position : 44)
+
+-----------------------------
+	Ancre : classement des sites web  (score position-synonymie : 0,653)
+	Score Contextuel : 3.0/26.0 (� la position : 23)
+
+-----------------------------
+Document 15 : fichier test pixa anchor\Agence certifiée Adwords Pixalione.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : site internet  (score position-synonymie : 1)
+	Score Contextuel : 4.0/32.0 (� la position : 4)
+
+-----------------------------
+Document 16 : fichier test pixa anchor\Les outils de référencement à notre disposition.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : site internet  (score position-synonymie : 1)
+	Score Contextuel : 3.0/25.0 (� la position : 4)
+	Score Contextuel : 4.0/27.0 (� la position : 6)
+	Score Contextuel : 2.0/20.0 (� la position : 12)
+	Score Contextuel : 2.0/19.0 (� la position : 13)
+	Score Contextuel : 3.0/21.0 (� la position : 18)
+	Score Contextuel : 4.0/27.0 (� la position : 23)
+	Score Contextuel : 4.0/24.0 (� la position : 32)
+
+-----------------------------
+	Ancre : site internet en pré  (score position-synonymie : 1)
+	Score Contextuel : 3.0/21.0 (� la position : 18)
+
+-----------------------------
+	Ancre : site web  (score position-synonymie : 1)
+	Score Contextuel : 4.0/26.0 (� la position : 22)
+
+-----------------------------
+	Ancre : identifie les site web  (score position-synonymie : 0,653)
+	Score Contextuel : 4.0/26.0 (� la position : 22)
+
+-----------------------------
+Document 17 : fichier test pixa anchor\Questions - Réponses.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : site internet  (score position-synonymie : 1)
+	Score Contextuel : 3.0/18.0 (� la position : 5)
+	Score Contextuel : 3.0/20.0 (� la position : 7)
+	Score Contextuel : 2.0/24.0 (� la position : 19)
+	Score Contextuel : 5.0/24.0 (� la position : 26)
+	Score Contextuel : 3.0/24.0 (� la position : 39)
+	Score Contextuel : 5.0/31.0 (� la position : 52)
+
+-----------------------------
+Document 18 : fichier test pixa anchor\Financement de votre projet.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : site internet  (score position-synonymie : 1)
+	Score Contextuel : 2.0/19.0 (� la position : 10)
+
+-----------------------------
+Document 19 : fichier test pixa anchor\Nos missions.
+	Mots Clefs etudi�s: sites web
+-----------------------------
+	Ancre : sites internet  (score position-synonymie : 1)
+	Score Contextuel : 5.0/18.0 (� la position : 2)
+
+-----------------------------
+	Ancre : sites internet clairs  (score position-synonymie : 1)
+	Score Contextuel : 4.0/21.0 (� la position : 5)
+
+-----------------------------
+	Ancre : sites web  (score position-synonymie : 1)
+	Score Contextuel : 5.0/26.0 (� la position : 24)
+
+-----------------------------
+
+
+-----------------------
+secteurs d'activités
+-----------------------
+
+Présent : secteurs d'activités
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: secteurs d'activités
+-----------------------------
+	Ancre : secteurs de activité  (score position-synonymie : 1)
+	Score Contextuel : 15.0/27.0 (� la position : 6)
+
+-----------------------------
+
+
+-----------------------
+maquette
+-----------------------
+
+Présent : maquette
+Présent : maquette
+Présent : maquette
+Présent : maquette
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: maquette
+-----------------------------
+	Ancre : maquettes  (score position-synonymie : 1)
+	Score Contextuel : 7.0/34.0 (� la position : 9)
+
+-----------------------------
+Document 2 : fichier test pixa anchor\solutions sur mesure.
+	Mots Clefs etudi�s: maquette
+-----------------------------
+	Ancre : maquettes  (score position-synonymie : 1)
+	Score Contextuel : 9.0/42.0 (� la position : 7)
+
+-----------------------------
+Document 4 : fichier test pixa anchor\Graphisme web.
+	Mots Clefs etudi�s: maquette
+-----------------------------
+	Ancre : maquettes  (score position-synonymie : 1)
+	Score Contextuel : 11.0/46.0 (� la position : 181)
+
+-----------------------------
+Document 17 : fichier test pixa anchor\Questions - Réponses.
+	Mots Clefs etudi�s: maquette
+-----------------------------
+	Ancre : maquettes  (score position-synonymie : 1)
+	Score Contextuel : 5.0/32.0 (� la position : 13)
+
+-----------------------------
+
+
+-----------------------
+Conception de site Internet
+-----------------------
+
+Présent : conception de site internet
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: Conception de site Internet
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,571)
+	Score Contextuel : 7.0/16.0 (� la position : 9)
+	Score Contextuel : 7.0/23.0 (� la position : 22)
+	Score Contextuel : 6.0/17.0 (� la position : 37)
+	Score Contextuel : 6.0/17.0 (� la position : 60)
+	Score Contextuel : 8.0/23.0 (� la position : 79)
+	Score Contextuel : 5.0/18.0 (� la position : 83)
+	Score Contextuel : 5.0/16.0 (� la position : 168)
+	Score Contextuel : 5.0/21.0 (� la position : 262)
+	Score Contextuel : 6.0/20.0 (� la position : 483)
+
+-----------------------------
+	Ancre : création de site internet  (score position-synonymie : 0,571)
+	Score Contextuel : 11.0/27.0 (� la position : 6)
+	Score Contextuel : 8.0/25.0 (� la position : 57)
+	Score Contextuel : 6.0/29.0 (� la position : 59)
+	Score Contextuel : 8.0/26.0 (� la position : 63)
+	Score Contextuel : 6.0/27.0 (� la position : 102)
+	Score Contextuel : 5.0/24.0 (� la position : 104)
+	Score Contextuel : 2.0/26.0 (� la position : 119)
+	Score Contextuel : 7.0/29.0 (� la position : 126)
+	Score Contextuel : 7.0/23.0 (� la position : 157)
+	Score Contextuel : 5.0/18.0 (� la position : 180)
+	Score Contextuel : 5.0/25.0 (� la position : 270)
+	Score Contextuel : 5.0/17.0 (� la position : 292)
+	Score Contextuel : 6.0/19.0 (� la position : 322)
+	Score Contextuel : 5.0/18.0 (� la position : 370)
+	Score Contextuel : 5.0/16.0 (� la position : 395)
+	Score Contextuel : 6.0/34.0 (� la position : 489)
+
+-----------------------------
+	Ancre : création des site internet  (score position-synonymie : 0,571)
+	Score Contextuel : 10.0/26.0 (� la position : 7)
+
+-----------------------------
+	Ancre : conception de site  (score position-synonymie : 0,833)
+	Score Contextuel : 7.0/10.0 (� la position : 12)
+
+-----------------------------
+	Ancre : création du site web  (score position-synonymie : 0,571)
+	Score Contextuel : 5.0/16.0 (� la position : 128)
+	Score Contextuel : 9.0/30.0 (� la position : 267)
+	Score Contextuel : 5.0/30.0 (� la position : 450)
+	Score Contextuel : 3.0/24.0 (� la position : 481)
+	Score Contextuel : 4.0/26.0 (� la position : 501)
+	Score Contextuel : 5.0/29.0 (� la position : 525)
+
+-----------------------------
+	Ancre : création du site internet  (score position-synonymie : 0,571)
+	Score Contextuel : 6.0/21.0 (� la position : 140)
+	Score Contextuel : 7.0/28.0 (� la position : 142)
+	Score Contextuel : 5.0/22.0 (� la position : 174)
+	Score Contextuel : 8.0/24.0 (� la position : 189)
+	Score Contextuel : 5.0/19.0 (� la position : 218)
+	Score Contextuel : 6.0/26.0 (� la position : 221)
+	Score Contextuel : 5.0/31.0 (� la position : 243)
+	Score Contextuel : 7.0/26.0 (� la position : 256)
+	Score Contextuel : 8.0/28.0 (� la position : 266)
+	Score Contextuel : 5.0/17.0 (� la position : 275)
+	Score Contextuel : 7.0/26.0 (� la position : 305)
+	Score Contextuel : 5.0/20.0 (� la position : 337)
+	Score Contextuel : 6.0/26.0 (� la position : 348)
+	Score Contextuel : 7.0/26.0 (� la position : 425)
+	Score Contextuel : 5.0/21.0 (� la position : 438)
+	Score Contextuel : 6.0/17.0 (� la position : 446)
+	Score Contextuel : 6.0/21.0 (� la position : 448)
+	Score Contextuel : 9.0/36.0 (� la position : 470)
+	Score Contextuel : 8.0/31.0 (� la position : 495)
+	Score Contextuel : 5.0/21.0 (� la position : 499)
+	Score Contextuel : 5.0/29.0 (� la position : 524)
+	Score Contextuel : 5.0/18.0 (� la position : 540)
+	Score Contextuel : 7.0/39.0 (� la position : 564)
+
+-----------------------------
+	Ancre : conception visuel du site  (score position-synonymie : 0,709)
+	Score Contextuel : 3.0/26.0 (� la position : 223)
+
+-----------------------------
+	Ancre : conception du site  (score position-synonymie : 0,833)
+	Score Contextuel : 7.0/28.0 (� la position : 479)
+
+-----------------------------
+	Ancre : conception du site internet  (score position-synonymie : 1)
+	Score Contextuel : 7.0/28.0 (� la position : 479)
+
+-----------------------------
+Document 1 : fichier test pixa anchor\Nos solutions.
+	Mots Clefs etudi�s: Conception de site Internet
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,571)
+	Score Contextuel : 6.0/19.0 (� la position : 4)
+
+-----------------------------
+Document 3 : fichier test pixa anchor\Concevoir un site pour mobiles.
+	Mots Clefs etudi�s: Conception de site Internet
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,571)
+	Score Contextuel : 5.0/15.0 (� la position : 2)
+
+-----------------------------
+Document 4 : fichier test pixa anchor\Graphisme web.
+	Mots Clefs etudi�s: Conception de site Internet
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,571)
+	Score Contextuel : 5.0/25.0 (� la position : 36)
+	Score Contextuel : 3.0/23.0 (� la position : 44)
+	Score Contextuel : 5.0/25.0 (� la position : 52)
+	Score Contextuel : 7.0/24.0 (� la position : 60)
+	Score Contextuel : 6.0/16.0 (� la position : 68)
+	Score Contextuel : 8.0/32.0 (� la position : 82)
+	Score Contextuel : 6.0/28.0 (� la position : 90)
+	Score Contextuel : 6.0/26.0 (� la position : 91)
+	Score Contextuel : 5.0/29.0 (� la position : 97)
+	Score Contextuel : 3.0/22.0 (� la position : 114)
+	Score Contextuel : 6.0/29.0 (� la position : 121)
+	Score Contextuel : 5.0/22.0 (� la position : 131)
+	Score Contextuel : 7.0/36.0 (� la position : 145)
+	Score Contextuel : 5.0/21.0 (� la position : 156)
+	Score Contextuel : 2.0/30.0 (� la position : 170)
+	Score Contextuel : 8.0/23.0 (� la position : 176)
+	Score Contextuel : 10.0/30.0 (� la position : 181)
+	Score Contextuel : 9.0/37.0 (� la position : 193)
+	Score Contextuel : 9.0/32.0 (� la position : 203)
+	Score Contextuel : 3.0/22.0 (� la position : 216)
+	Score Contextuel : 9.0/29.0 (� la position : 225)
+	Score Contextuel : 7.0/26.0 (� la position : 232)
+	Score Contextuel : 7.0/28.0 (� la position : 252)
+	Score Contextuel : 5.0/25.0 (� la position : 261)
+	Score Contextuel : 6.0/23.0 (� la position : 264)
+	Score Contextuel : 7.0/25.0 (� la position : 273)
+	Score Contextuel : 5.0/22.0 (� la position : 280)
+	Score Contextuel : 6.0/25.0 (� la position : 291)
+	Score Contextuel : 7.0/31.0 (� la position : 297)
+	Score Contextuel : 7.0/28.0 (� la position : 300)
+
+-----------------------------
+Document 5 : fichier test pixa anchor\Ergonomie web.
+	Mots Clefs etudi�s: Conception de site Internet
+-----------------------------
+	Ancre : conception de site  (score position-synonymie : 0,833)
+	Score Contextuel : 4.0/12.0 (� la position : 13)
+
+-----------------------------
+	Ancre : conception de site internet  (score position-synonymie : 1)
+	Score Contextuel : 4.0/12.0 (� la position : 13)
+
+-----------------------------
+Document 11 : fichier test pixa anchor\Créer une application mobile.
+	Mots Clefs etudi�s: Conception de site Internet
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,571)
+	Score Contextuel : 5.0/22.0 (� la position : 11)
+
+-----------------------------
+Document 13 : fichier test pixa anchor\Votre référencement.
+	Mots Clefs etudi�s: Conception de site Internet
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,571)
+	Score Contextuel : 7.0/23.0 (� la position : 29)
+
+-----------------------------
+Document 19 : fichier test pixa anchor\Nos missions.
+	Mots Clefs etudi�s: Conception de site Internet
+-----------------------------
+	Ancre : créations de sites internet  (score position-synonymie : 0,571)
+	Score Contextuel : 6.0/17.0 (� la position : 2)
+
+-----------------------------
+
+
+-----------------------
+traduire / qualifier
+-----------------------
+
+Présent : traduire / qualifier
+
+-----------------------
+web
+-----------------------
+
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Présent : web
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: web
+-----------------------------
+	Ancre : web  (score position-synonymie : 1)
+	Score Contextuel : 10.0/52.0 (� la position : 6)
+	Score Contextuel : 4.0/39.0 (� la position : 9)
+	Score Contextuel : 10.0/55.0 (� la position : 14)
+	Score Contextuel : 8.0/47.0 (� la position : 16)
+	Score Contextuel : 8.0/51.0 (� la position : 27)
+	Score Contextuel : 7.0/47.0 (� la position : 35)
+	Score Contextuel : 6.0/38.0 (� la position : 36)
+	Score Contextuel : 9.0/41.0 (� la position : 57)
+	Score Contextuel : 10.0/48.0 (� la position : 81)
+	Score Contextuel : 3.0/42.0 (� la position : 94)
+	Score Contextuel : 6.0/40.0 (� la position : 95)
+	Score Contextuel : 7.0/49.0 (� la position : 102)
+	Score Contextuel : 12.0/63.0 (� la position : 114)
+	Score Contextuel : 6.0/50.0 (� la position : 119)
+	Score Contextuel : 5.0/36.0 (� la position : 128)
+	Score Contextuel : 6.0/44.0 (� la position : 133)
+	Score Contextuel : 8.0/46.0 (� la position : 154)
+	Score Contextuel : 9.0/43.0 (� la position : 167)
+	Score Contextuel : 6.0/43.0 (� la position : 172)
+	Score Contextuel : 5.0/46.0 (� la position : 173)
+	Score Contextuel : 7.0/45.0 (� la position : 178)
+	Score Contextuel : 5.0/38.0 (� la position : 181)
+	Score Contextuel : 2.0/42.0 (� la position : 208)
+	Score Contextuel : 7.0/41.0 (� la position : 213)
+	Score Contextuel : 14.0/59.0 (� la position : 222)
+	Score Contextuel : 9.0/58.0 (� la position : 223)
+	Score Contextuel : 9.0/52.0 (� la position : 245)
+	Score Contextuel : 9.0/42.0 (� la position : 258)
+	Score Contextuel : 13.0/51.0 (� la position : 267)
+	Score Contextuel : 4.0/37.0 (� la position : 273)
+	Score Contextuel : 5.0/41.0 (� la position : 288)
+	Score Contextuel : 7.0/47.0 (� la position : 307)
+	Score Contextuel : 6.0/38.0 (� la position : 322)
+	Score Contextuel : 8.0/42.0 (� la position : 327)
+	Score Contextuel : 4.0/44.0 (� la position : 351)
+	Score Contextuel : 5.0/40.0 (� la position : 358)
+	Score Contextuel : 5.0/57.0 (� la position : 367)
+	Score Contextuel : 7.0/46.0 (� la position : 444)
+	Score Contextuel : 4.0/52.0 (� la position : 450)
+	Score Contextuel : 10.0/56.0 (� la position : 466)
+	Score Contextuel : 8.0/53.0 (� la position : 470)
+	Score Contextuel : 8.0/42.0 (� la position : 481)
+	Score Contextuel : 7.0/54.0 (� la position : 489)
+	Score Contextuel : 7.0/50.0 (� la position : 490)
+	Score Contextuel : 12.0/51.0 (� la position : 494)
+	Score Contextuel : 7.0/39.0 (� la position : 499)
+	Score Contextuel : 8.0/46.0 (� la position : 501)
+	Score Contextuel : 8.0/48.0 (� la position : 525)
+	Score Contextuel : 9.0/46.0 (� la position : 542)
+	Score Contextuel : 7.0/59.0 (� la position : 554)
+	Score Contextuel : 11.0/59.0 (� la position : 557)
+	Score Contextuel : 26.0/36.0 (� la position : 564)
+	Score Contextuel : 18.0/35.0 (� la position : 566)
+
+-----------------------------
+Document 1 : fichier test pixa anchor\Nos solutions.
+	Mots Clefs etudi�s: web
+-----------------------------
+	Ancre : web  (score position-synonymie : 1)
+	Score Contextuel : 3.0/39.0 (� la position : 8)
+	Score Contextuel : 7.0/45.0 (� la position : 20)
+
+-----------------------------
+Document 2 : fichier test pixa anchor\solutions sur mesure.
+	Mots Clefs etudi�s: web
+-----------------------------
+	Ancre : web  (score position-synonymie : 1)
+	Score Contextuel : 8.0/45.0 (� la position : 5)
+	Score Contextuel : 8.0/50.0 (� la position : 7)
+	Score Contextuel : 7.0/47.0 (� la position : 21)
+	Score Contextuel : 7.0/44.0 (� la position : 23)
+
+-----------------------------
+Document 3 : fichier test pixa anchor\Concevoir un site pour mobiles.
+	Mots Clefs etudi�s: web
+-----------------------------
+	Ancre : web  (score position-synonymie : 1)
+	Score Contextuel : 2.0/43.0 (� la position : 6)
+	Score Contextuel : 4.0/41.0 (� la position : 9)
+
+-----------------------------
+Document 4 : fichier test pixa anchor\Graphisme web.
+	Mots Clefs etudi�s: web
+-----------------------------
+	Ancre : web  (score position-synonymie : 1)
+	Score Contextuel : 4.0/40.0 (� la position : 2)
+	Score Contextuel : 5.0/47.0 (� la position : 8)
+	Score Contextuel : 6.0/41.0 (� la position : 131)
+	Score Contextuel : 7.0/41.0 (� la position : 176)
+	Score Contextuel : 4.0/53.0 (� la position : 183)
+	Score Contextuel : 4.0/46.0 (� la position : 185)
+	Score Contextuel : 4.0/47.0 (� la position : 189)
+	Score Contextuel : 10.0/62.0 (� la position : 193)
+	Score Contextuel : 12.0/64.0 (� la position : 203)
+	Score Contextuel : 6.0/49.0 (� la position : 274)
+	Score Contextuel : 5.0/49.0 (� la position : 275)
+	Score Contextuel : 4.0/41.0 (� la position : 286)
+	Score Contextuel : 9.0/47.0 (� la position : 293)
+	Score Contextuel : 9.0/49.0 (� la position : 294)
+
+-----------------------------
+Document 5 : fichier test pixa anchor\Ergonomie web.
+	Mots Clefs etudi�s: web
+-----------------------------
+	Ancre : web  (score position-synonymie : 1)
+	Score Contextuel : 3.0/35.0 (� la position : 8)
+	Score Contextuel : 5.0/40.0 (� la position : 16)
+
+-----------------------------
+Document 6 : fichier test pixa anchor\Stratégie web.
+	Mots Clefs etudi�s: web
+-----------------------------
+	Ancre : web  (score position-synonymie : 1)
+	Score Contextuel : 3.0/39.0 (� la position : 2)
+	Score Contextuel : 4.0/47.0 (� la position : 5)
+	Score Contextuel : 2.0/44.0 (� la position : 18)
+
+-----------------------------
+Document 7 : fichier test pixa anchor\Multimédia.
+	Mots Clefs etudi�s: web
+-----------------------------
+	Ancre : web  (score position-synonymie : 1)
+	Score Contextuel : 8.0/43.0 (� la position : 4)
+	Score Contextuel : 6.0/38.0 (� la position : 16)
+
+-----------------------------
+Document 8 : fichier test pixa anchor\Les services supplémentaires.
+	Mots Clefs etudi�s: web
+-----------------------------
+	Ancre : web  (score position-synonymie : 1)
+	Score Contextuel : 4.0/35.0 (� la position : 13)
+	Score Contextuel : 2.0/46.0 (� la position : 18)
+	Score Contextuel : 3.0/37.0 (� la position : 26)
+
+-----------------------------
+Document 11 : fichier test pixa anchor\Créer une application mobile.
+	Mots Clefs etudi�s: web
+-----------------------------
+	Ancre : web  (score position-synonymie : 1)
+	Score Contextuel : 3.0/36.0 (� la position : 22)
+	Score Contextuel : 4.0/41.0 (� la position : 25)
+
+-----------------------------
+Document 12 : fichier test pixa anchor\Référencement mobile.
+	Mots Clefs etudi�s: web
+-----------------------------
+	Ancre : web  (score position-synonymie : 1)
+	Score Contextuel : 5.0/43.0 (� la position : 15)
+	Score Contextuel : 2.0/41.0 (� la position : 27)
+	Score Contextuel : 3.0/42.0 (� la position : 39)
+	Score Contextuel : 6.0/47.0 (� la position : 43)
+
+-----------------------------
+Document 13 : fichier test pixa anchor\Votre référencement.
+	Mots Clefs etudi�s: web
+-----------------------------
+	Ancre : web  (score position-synonymie : 1)
+	Score Contextuel : 5.0/48.0 (� la position : 3)
+
+-----------------------------
+Document 14 : fichier test pixa anchor\Le référencement naturel de votre site.
+	Mots Clefs etudi�s: web
+-----------------------------
+	Ancre : web  (score position-synonymie : 1)
+	Score Contextuel : 8.0/50.0 (� la position : 6)
+	Score Contextuel : 2.0/44.0 (� la position : 7)
+	Score Contextuel : 4.0/47.0 (� la position : 23)
+	Score Contextuel : 4.0/48.0 (� la position : 25)
+	Score Contextuel : 3.0/43.0 (� la position : 36)
+	Score Contextuel : 5.0/39.0 (� la position : 44)
+
+-----------------------------
+Document 16 : fichier test pixa anchor\Les outils de référencement à notre disposition.
+	Mots Clefs etudi�s: web
+-----------------------------
+	Ancre : web  (score position-synonymie : 1)
+	Score Contextuel : 2.0/36.0 (� la position : 11)
+	Score Contextuel : 4.0/37.0 (� la position : 21)
+	Score Contextuel : 4.0/42.0 (� la position : 22)
+
+-----------------------------
+Document 17 : fichier test pixa anchor\Questions - Réponses.
+	Mots Clefs etudi�s: web
+-----------------------------
+	Ancre : web  (score position-synonymie : 1)
+	Score Contextuel : 7.0/45.0 (� la position : 24)
+
+-----------------------------
+Document 18 : fichier test pixa anchor\Financement de votre projet.
+	Mots Clefs etudi�s: web
+-----------------------------
+	Ancre : web  (score position-synonymie : 1)
+	Score Contextuel : 8.0/49.0 (� la position : 14)
+
+-----------------------------
+Document 19 : fichier test pixa anchor\Nos missions.
+	Mots Clefs etudi�s: web
+-----------------------------
+	Ancre : web  (score position-synonymie : 1)
+	Score Contextuel : 3.0/36.0 (� la position : 2)
+	Score Contextuel : 6.0/44.0 (� la position : 24)
+
+-----------------------------
+
+
+-----------------------
+graphisme
+-----------------------
+
+Présent : graphisme
+Présent : graphisme
+Présent : graphisme
+Présent : graphisme
+Présent : graphisme
+Présent : graphisme
+Présent : graphisme
+Présent : graphisme
+Présent : graphisme
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: graphisme
+-----------------------------
+	Ancre : graphisme  (score position-synonymie : 1)
+	Score Contextuel : 6.0/19.0 (� la position : 19)
+	Score Contextuel : 8.0/30.0 (� la position : 154)
+	Score Contextuel : 7.0/31.0 (� la position : 223)
+	Score Contextuel : 4.0/25.0 (� la position : 227)
+	Score Contextuel : 3.0/29.0 (� la position : 231)
+	Score Contextuel : 8.0/42.0 (� la position : 236)
+	Score Contextuel : 8.0/27.0 (� la position : 242)
+	Score Contextuel : 14.0/16.0 (� la position : 264)
+
+-----------------------------
+Document 2 : fichier test pixa anchor\solutions sur mesure.
+	Mots Clefs etudi�s: graphisme
+-----------------------------
+	Ancre : graphisme  (score position-synonymie : 1)
+	Score Contextuel : 3.0/21.0 (� la position : 20)
+
+-----------------------------
+Document 3 : fichier test pixa anchor\Concevoir un site pour mobiles.
+	Mots Clefs etudi�s: graphisme
+-----------------------------
+	Ancre : graphisme  (score position-synonymie : 1)
+	Score Contextuel : 4.0/20.0 (� la position : 7)
+
+-----------------------------
+Document 4 : fichier test pixa anchor\Graphisme web.
+	Mots Clefs etudi�s: graphisme
+-----------------------------
+	Ancre : graphisme  (score position-synonymie : 1)
+	Score Contextuel : 3.0/19.0 (� la position : 1)
+	Score Contextuel : 3.0/21.0 (� la position : 2)
+	Score Contextuel : 3.0/24.0 (� la position : 4)
+	Score Contextuel : 4.0/23.0 (� la position : 5)
+	Score Contextuel : 4.0/18.0 (� la position : 26)
+	Score Contextuel : 5.0/22.0 (� la position : 27)
+	Score Contextuel : 6.0/30.0 (� la position : 29)
+	Score Contextuel : 5.0/40.0 (� la position : 31)
+	Score Contextuel : 3.0/30.0 (� la position : 32)
+	Score Contextuel : 4.0/36.0 (� la position : 33)
+	Score Contextuel : 7.0/32.0 (� la position : 34)
+	Score Contextuel : 7.0/26.0 (� la position : 35)
+	Score Contextuel : 9.0/32.0 (� la position : 36)
+	Score Contextuel : 6.0/33.0 (� la position : 38)
+	Score Contextuel : 8.0/42.0 (� la position : 39)
+	Score Contextuel : 6.0/36.0 (� la position : 40)
+	Score Contextuel : 7.0/39.0 (� la position : 41)
+	Score Contextuel : 7.0/30.0 (� la position : 43)
+	Score Contextuel : 7.0/24.0 (� la position : 44)
+	Score Contextuel : 6.0/20.0 (� la position : 45)
+	Score Contextuel : 5.0/26.0 (� la position : 52)
+	Score Contextuel : 9.0/24.0 (� la position : 60)
+	Score Contextuel : 7.0/27.0 (� la position : 67)
+	Score Contextuel : 8.0/32.0 (� la position : 72)
+	Score Contextuel : 9.0/29.0 (� la position : 91)
+	Score Contextuel : 6.0/30.0 (� la position : 96)
+	Score Contextuel : 7.0/21.0 (� la position : 114)
+	Score Contextuel : 7.0/28.0 (� la position : 121)
+	Score Contextuel : 3.0/26.0 (� la position : 123)
+	Score Contextuel : 5.0/35.0 (� la position : 129)
+	Score Contextuel : 3.0/40.0 (� la position : 141)
+	Score Contextuel : 12.0/38.0 (� la position : 145)
+	Score Contextuel : 12.0/37.0 (� la position : 146)
+	Score Contextuel : 2.0/29.0 (� la position : 152)
+	Score Contextuel : 4.0/22.0 (� la position : 156)
+	Score Contextuel : 2.0/19.0 (� la position : 162)
+	Score Contextuel : 8.0/34.0 (� la position : 170)
+	Score Contextuel : 9.0/27.0 (� la position : 176)
+	Score Contextuel : 2.0/23.0 (� la position : 178)
+	Score Contextuel : 3.0/25.0 (� la position : 184)
+	Score Contextuel : 4.0/31.0 (� la position : 195)
+	Score Contextuel : 6.0/31.0 (� la position : 199)
+	Score Contextuel : 6.0/36.0 (� la position : 204)
+	Score Contextuel : 4.0/25.0 (� la position : 210)
+	Score Contextuel : 7.0/28.0 (� la position : 225)
+	Score Contextuel : 7.0/31.0 (� la position : 232)
+	Score Contextuel : 2.0/24.0 (� la position : 234)
+	Score Contextuel : 5.0/30.0 (� la position : 238)
+	Score Contextuel : 6.0/34.0 (� la position : 239)
+	Score Contextuel : 5.0/23.0 (� la position : 253)
+	Score Contextuel : 2.0/26.0 (� la position : 255)
+	Score Contextuel : 8.0/45.0 (� la position : 259)
+	Score Contextuel : 7.0/41.0 (� la position : 260)
+	Score Contextuel : 5.0/27.0 (� la position : 261)
+	Score Contextuel : 4.0/23.0 (� la position : 264)
+	Score Contextuel : 4.0/20.0 (� la position : 271)
+	Score Contextuel : 2.0/25.0 (� la position : 277)
+	Score Contextuel : 6.0/23.0 (� la position : 280)
+	Score Contextuel : 6.0/25.0 (� la position : 291)
+	Score Contextuel : 6.0/30.0 (� la position : 300)
+
+-----------------------------
+Document 5 : fichier test pixa anchor\Ergonomie web.
+	Mots Clefs etudi�s: graphisme
+-----------------------------
+	Ancre : graphisme  (score position-synonymie : 1)
+	Score Contextuel : 3.0/17.0 (� la position : 8)
+
+-----------------------------
+
+
+-----------------------
+propositions
+-----------------------
+
+Présent : propositions
+Présent : propositions
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: propositions
+-----------------------------
+	Ancre : propositions  (score position-synonymie : 1)
+	Score Contextuel : 3.0/22.0 (� la position : 17)
+
+-----------------------------
+
+
+-----------------------
+le design de votre création site Internet
+-----------------------
+
+Présent : le design de votre création site internet
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: le design de votre création site Internet
+-----------------------------
+	Ancre : design de votre création site internet  (score position-synonymie : 1)
+	Score Contextuel : 9.0/16.0 (� la position : 22)
+
+-----------------------------
+
+
+-----------------------
+Conseiller Artistique
+-----------------------
+
+Présent : conseiller artistique
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: Conseiller Artistique
+-----------------------------
+	Ancre : conseiller artistique  (score position-synonymie : 1)
+	Score Contextuel : 12.0/15.0 (� la position : 23)
+
+-----------------------------
+Document 5 : fichier test pixa anchor\Ergonomie web.
+	Mots Clefs etudi�s: Conseiller Artistique
+-----------------------------
+	Ancre : conseillers en graphisme web  (score position-synonymie : 0,571)
+	Score Contextuel : 2.0/15.0 (� la position : 8)
+
+-----------------------------
+
+
+-----------------------
+professionnel
+-----------------------
+
+Présent : professionnel
+Présent : professionnel
+Présent : professionnel
+Présent : professionnel
+Présent : professionnel
+Présent : professionnel
+Présent : professionnel
+Présent : professionnel
+Présent : professionnel
+Présent : professionnel
+Présent : professionnel
+Présent : professionnel
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: professionnel
+-----------------------------
+	Ancre : professionnel  (score position-synonymie : 1)
+	Score Contextuel : 3.0/34.0 (� la position : 75)
+	Score Contextuel : 6.0/33.0 (� la position : 371)
+	Score Contextuel : 4.0/37.0 (� la position : 448)
+	Score Contextuel : 7.0/52.0 (� la position : 488)
+
+-----------------------------
+Document 4 : fichier test pixa anchor\Graphisme web.
+	Mots Clefs etudi�s: professionnel
+-----------------------------
+	Ancre : professionnel  (score position-synonymie : 1)
+	Score Contextuel : 4.0/40.0 (� la position : 55)
+
+-----------------------------
+Document 19 : fichier test pixa anchor\Nos missions.
+	Mots Clefs etudi�s: professionnel
+-----------------------------
+	Ancre : professionnels  (score position-synonymie : 1)
+	Score Contextuel : 2.0/34.0 (� la position : 5)
+
+-----------------------------
+
+
+-----------------------
+clean
+-----------------------
+
+Présent : clean
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: clean
+-----------------------------
+	Ancre : clean  (score position-synonymie : 1)
+	Score Contextuel : 7.0/15.0 (� la position : 24)
+
+-----------------------------
+
+
+-----------------------
+meilleures techniques
+-----------------------
+
+Présent : meilleures techniques
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: meilleures techniques
+-----------------------------
+	Ancre : meilleure façon  (score position-synonymie : 0,605)
+	Score Contextuel : 3.0/30.0 (� la position : 4)
+	Score Contextuel : 3.0/28.0 (� la position : 13)
+
+-----------------------------
+	Ancre : meilleure techniques  (score position-synonymie : 1)
+	Score Contextuel : 4.0/9.0 (� la position : 25)
+
+-----------------------------
+
+
+-----------------------
+qualifier ces expressions
+-----------------------
+
+Présent : qualifier ces expressions
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: qualifier ces expressions
+-----------------------------
+	Ancre : qualifier ces expression  (score position-synonymie : 1)
+	Score Contextuel : 5.0/9.0 (� la position : 25)
+
+-----------------------------
+
+
+-----------------------
+créations sur mesure
+-----------------------
+
+Présent : créations sur mesure
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: créations sur mesure
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,571)
+	Score Contextuel : 2.0/20.0 (� la position : 9)
+	Score Contextuel : 4.0/23.0 (� la position : 22)
+	Score Contextuel : 4.0/16.0 (� la position : 60)
+	Score Contextuel : 3.0/27.0 (� la position : 79)
+	Score Contextuel : 3.0/21.0 (� la position : 83)
+	Score Contextuel : 2.0/18.0 (� la position : 168)
+	Score Contextuel : 2.0/23.0 (� la position : 262)
+	Score Contextuel : 3.0/21.0 (� la position : 483)
+
+-----------------------------
+	Ancre : création sur mesure  (score position-synonymie : 1)
+	Score Contextuel : 9.0/17.0 (� la position : 27)
+
+-----------------------------
+	Ancre : création web sur mesure  (score position-synonymie : 0,851)
+	Score Contextuel : 4.0/23.0 (� la position : 35)
+
+-----------------------------
+	Ancre : création du site web  (score position-synonymie : 0,571)
+	Score Contextuel : 7.0/27.0 (� la position : 267)
+	Score Contextuel : 4.0/33.0 (� la position : 450)
+	Score Contextuel : 4.0/27.0 (� la position : 481)
+	Score Contextuel : 2.0/24.0 (� la position : 501)
+	Score Contextuel : 2.0/29.0 (� la position : 525)
+
+-----------------------------
+	Ancre : création de site web  (score position-synonymie : 0,571)
+	Score Contextuel : 2.0/24.0 (� la position : 351)
+
+-----------------------------
+	Ancre : création de site professionnel  (score position-synonymie : 0,571)
+	Score Contextuel : 3.0/24.0 (� la position : 371)
+
+-----------------------------
+Document 1 : fichier test pixa anchor\Nos solutions.
+	Mots Clefs etudi�s: créations sur mesure
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,571)
+	Score Contextuel : 4.0/20.0 (� la position : 4)
+
+-----------------------------
+	Ancre : création sur mesure  (score position-synonymie : 1)
+	Score Contextuel : 3.0/29.0 (� la position : 19)
+
+-----------------------------
+Document 3 : fichier test pixa anchor\Concevoir un site pour mobiles.
+	Mots Clefs etudi�s: créations sur mesure
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,571)
+	Score Contextuel : 2.0/17.0 (� la position : 2)
+
+-----------------------------
+Document 4 : fichier test pixa anchor\Graphisme web.
+	Mots Clefs etudi�s: créations sur mesure
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,571)
+	Score Contextuel : 2.0/27.0 (� la position : 52)
+	Score Contextuel : 2.0/23.0 (� la position : 60)
+	Score Contextuel : 3.0/31.0 (� la position : 82)
+	Score Contextuel : 2.0/29.0 (� la position : 90)
+	Score Contextuel : 2.0/27.0 (� la position : 91)
+	Score Contextuel : 2.0/31.0 (� la position : 97)
+	Score Contextuel : 3.0/31.0 (� la position : 121)
+	Score Contextuel : 2.0/22.0 (� la position : 131)
+	Score Contextuel : 5.0/34.0 (� la position : 145)
+	Score Contextuel : 3.0/24.0 (� la position : 156)
+	Score Contextuel : 6.0/33.0 (� la position : 170)
+	Score Contextuel : 2.0/20.0 (� la position : 176)
+	Score Contextuel : 4.0/32.0 (� la position : 181)
+	Score Contextuel : 4.0/36.0 (� la position : 203)
+	Score Contextuel : 2.0/24.0 (� la position : 216)
+	Score Contextuel : 3.0/26.0 (� la position : 225)
+	Score Contextuel : 2.0/25.0 (� la position : 232)
+	Score Contextuel : 4.0/27.0 (� la position : 252)
+	Score Contextuel : 3.0/27.0 (� la position : 261)
+	Score Contextuel : 2.0/22.0 (� la position : 264)
+	Score Contextuel : 2.0/25.0 (� la position : 273)
+	Score Contextuel : 3.0/25.0 (� la position : 280)
+	Score Contextuel : 5.0/28.0 (� la position : 291)
+	Score Contextuel : 3.0/33.0 (� la position : 297)
+	Score Contextuel : 4.0/32.0 (� la position : 300)
+
+-----------------------------
+	Ancre : création de effet spéciaux  (score position-synonymie : 0,571)
+	Score Contextuel : 6.0/28.0 (� la position : 104)
+
+-----------------------------
+Document 9 : fichier test pixa anchor\Les nouveaux enjeux liés au mobile.
+	Mots Clefs etudi�s: créations sur mesure
+-----------------------------
+	Ancre : création de site mobiles  (score position-synonymie : 0,571)
+	Score Contextuel : 3.0/23.0 (� la position : 8)
+
+-----------------------------
+Document 11 : fichier test pixa anchor\Créer une application mobile.
+	Mots Clefs etudi�s: créations sur mesure
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,571)
+	Score Contextuel : 3.0/25.0 (� la position : 11)
+
+-----------------------------
+	Ancre : création de application mobile  (score position-synonymie : 0,571)
+	Score Contextuel : 3.0/25.0 (� la position : 11)
+
+-----------------------------
+	Ancre : création application mobile  (score position-synonymie : 0,571)
+	Score Contextuel : 2.0/36.0 (� la position : 37)
+
+-----------------------------
+Document 13 : fichier test pixa anchor\Votre référencement.
+	Mots Clefs etudi�s: créations sur mesure
+-----------------------------
+	Ancre : création site internet  (score position-synonymie : 0,571)
+	Score Contextuel : 3.0/24.0 (� la position : 29)
+
+-----------------------------
+
+
+-----------------------
+adéquation de l’objet aux besoins
+-----------------------
+
+Présent : adéquation de l’objet aux besoins
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: adéquation de l’objet aux besoins
+-----------------------------
+	Ancre : adéquation de l' objet aux besoins  (score position-synonymie : 1)
+	Score Contextuel : 21.0/29.0 (� la position : 29)
+
+-----------------------------
+
+
+-----------------------
+L’efficacité désigne les capacités de l’objet à permettre l’atteinte des buts
+-----------------------
+
+Présent : l’efficacité désigne les capacités de l’objet à permettre l’atteinte des buts
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: L’efficacité désigne les capacités de l’objet à permettre l’atteinte des buts
+-----------------------------
+	Ancre : efficacité désigne  (score position-synonymie : 0,625)
+	Score Contextuel : 16.0/23.0 (� la position : 31)
+
+-----------------------------
+	Ancre : efficacité désigne les capacités de l' objet à permettront l' atteinte des but  (score position-synonymie : 1)
+	Score Contextuel : 16.0/23.0 (� la position : 31)
+
+-----------------------------
+	Ancre : efficience désigne les capacités de l' objet à permettront l' atteinte des but  (score position-synonymie : 0,675)
+	Score Contextuel : 14.0/27.0 (� la position : 32)
+
+-----------------------------
+
+
+-----------------------
+satisfaction
+-----------------------
+
+Présent : satisfaction
+Présent : satisfaction
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: satisfaction
+-----------------------------
+	Ancre : satisfaction  (score position-synonymie : 1)
+	Score Contextuel : 14.0/27.0 (� la position : 30)
+	Score Contextuel : 17.0/21.0 (� la position : 33)
+
+-----------------------------
+Document 2 : fichier test pixa anchor\solutions sur mesure.
+	Mots Clefs etudi�s: satisfaction
+-----------------------------
+	Ancre : satisfaction  (score position-synonymie : 1)
+	Score Contextuel : 3.0/32.0 (� la position : 7)
+	Score Contextuel : 3.0/29.0 (� la position : 15)
+
+-----------------------------
+Document 17 : fichier test pixa anchor\Questions - Réponses.
+	Mots Clefs etudi�s: satisfaction
+-----------------------------
+	Ancre : satisfaction  (score position-synonymie : 1)
+	Score Contextuel : 3.0/28.0 (� la position : 13)
+
+-----------------------------
+
+
+-----------------------
+d’ergonomie web
+-----------------------
+
+Présent : d’ergonomie web
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: d’ergonomie web
+-----------------------------
+	Ancre : ergonomie web  (score position-synonymie : 1)
+	Score Contextuel : 5.0/31.0 (� la position : 16)
+	Score Contextuel : 7.0/26.0 (� la position : 27)
+	Score Contextuel : 12.0/18.0 (� la position : 35)
+
+-----------------------------
+	Ancre : standards de ergonomie web  (score position-synonymie : 0,653)
+	Score Contextuel : 12.0/18.0 (� la position : 35)
+
+-----------------------------
+Document 8 : fichier test pixa anchor\Les services supplémentaires.
+	Mots Clefs etudi�s: d’ergonomie web
+-----------------------------
+	Ancre : ergonomie web  (score position-synonymie : 1)
+	Score Contextuel : 2.0/22.0 (� la position : 26)
+
+-----------------------------
+	Ancre : professionnel en ergonomie web  (score position-synonymie : 0,653)
+	Score Contextuel : 2.0/22.0 (� la position : 26)
+
+-----------------------------
+
+
+-----------------------
+référencement naturel
+-----------------------
+
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Présent : référencement naturel
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: référencement naturel
+-----------------------------
+	Ancre : référencement naturel  (score position-synonymie : 1)
+	Score Contextuel : 3.0/28.0 (� la position : 40)
+	Score Contextuel : 2.0/22.0 (� la position : 70)
+	Score Contextuel : 5.0/26.0 (� la position : 426)
+	Score Contextuel : 4.0/26.0 (� la position : 427)
+	Score Contextuel : 3.0/30.0 (� la position : 429)
+	Score Contextuel : 3.0/22.0 (� la position : 430)
+	Score Contextuel : 3.0/27.0 (� la position : 431)
+	Score Contextuel : 6.0/18.0 (� la position : 439)
+	Score Contextuel : 6.0/22.0 (� la position : 444)
+	Score Contextuel : 4.0/19.0 (� la position : 447)
+	Score Contextuel : 4.0/26.0 (� la position : 449)
+	Score Contextuel : 4.0/29.0 (� la position : 451)
+	Score Contextuel : 2.0/29.0 (� la position : 452)
+	Score Contextuel : 6.0/26.0 (� la position : 456)
+	Score Contextuel : 6.0/26.0 (� la position : 457)
+	Score Contextuel : 6.0/21.0 (� la position : 459)
+	Score Contextuel : 5.0/23.0 (� la position : 460)
+	Score Contextuel : 3.0/23.0 (� la position : 462)
+	Score Contextuel : 2.0/20.0 (� la position : 464)
+	Score Contextuel : 6.0/31.0 (� la position : 470)
+	Score Contextuel : 6.0/32.0 (� la position : 471)
+	Score Contextuel : 11.0/13.0 (� la position : 500)
+
+-----------------------------
+	Ancre : contrat de référencement naturel  (score position-synonymie : 0,653)
+	Score Contextuel : 3.0/28.0 (� la position : 40)
+
+-----------------------------
+	Ancre : référencement du site e  (score position-synonymie : 0,571)
+	Score Contextuel : 2.0/21.0 (� la position : 403)
+
+-----------------------------
+	Ancre : objectif du référencement naturel  (score position-synonymie : 0,653)
+	Score Contextuel : 3.0/30.0 (� la position : 429)
+
+-----------------------------
+	Ancre : inconvénient du référencement naturel  (score position-synonymie : 0,653)
+	Score Contextuel : 3.0/27.0 (� la position : 431)
+
+-----------------------------
+	Ancre : référencement payant leader  (score position-synonymie : 0,571)
+	Score Contextuel : 4.0/16.0 (� la position : 436)
+
+-----------------------------
+	Ancre : référencement naturel des site  (score position-synonymie : 1)
+	Score Contextuel : 6.0/26.0 (� la position : 456)
+
+-----------------------------
+	Ancre : plan du référencement naturel  (score position-synonymie : 0,653)
+	Score Contextuel : 6.0/26.0 (� la position : 457)
+
+-----------------------------
+	Ancre : mission de référencement naturel  (score position-synonymie : 0,653)
+	Score Contextuel : 6.0/21.0 (� la position : 459)
+	Score Contextuel : 5.0/23.0 (� la position : 460)
+	Score Contextuel : 3.0/23.0 (� la position : 462)
+
+-----------------------------
+	Ancre : experts en référencement naturel  (score position-synonymie : 0,653)
+	Score Contextuel : 2.0/20.0 (� la position : 464)
+
+-----------------------------
+	Ancre : référencement site internet  (score position-synonymie : 0,571)
+	Score Contextuel : 6.0/31.0 (� la position : 467)
+
+-----------------------------
+Document 2 : fichier test pixa anchor\solutions sur mesure.
+	Mots Clefs etudi�s: référencement naturel
+-----------------------------
+	Ancre : référencement naturel  (score position-synonymie : 1)
+	Score Contextuel : 3.0/21.0 (� la position : 23)
+
+-----------------------------
+Document 4 : fichier test pixa anchor\Graphisme web.
+	Mots Clefs etudi�s: référencement naturel
+-----------------------------
+	Ancre : référencement naturel  (score position-synonymie : 1)
+	Score Contextuel : 7.0/24.0 (� la position : 273)
+	Score Contextuel : 7.0/25.0 (� la position : 274)
+	Score Contextuel : 3.0/25.0 (� la position : 276)
+
+-----------------------------
+	Ancre : aptitude au référencement naturel  (score position-synonymie : 0,653)
+	Score Contextuel : 7.0/24.0 (� la position : 273)
+
+-----------------------------
+	Ancre : performance du référencement naturel  (score position-synonymie : 0,653)
+	Score Contextuel : 3.0/25.0 (� la position : 276)
+
+-----------------------------
+Document 7 : fichier test pixa anchor\Multimédia.
+	Mots Clefs etudi�s: référencement naturel
+-----------------------------
+	Ancre : référencement naturel  (score position-synonymie : 1)
+	Score Contextuel : 3.0/22.0 (� la position : 6)
+
+-----------------------------
+	Ancre : optimisation du référencement naturel  (score position-synonymie : 0,653)
+	Score Contextuel : 3.0/22.0 (� la position : 6)
+
+-----------------------------
+Document 10 : fichier test pixa anchor\Optimisation mobile.
+	Mots Clefs etudi�s: référencement naturel
+-----------------------------
+	Ancre : référencement naturel  (score position-synonymie : 1)
+	Score Contextuel : 2.0/17.0 (� la position : 23)
+
+-----------------------------
+Document 12 : fichier test pixa anchor\Référencement mobile.
+	Mots Clefs etudi�s: référencement naturel
+-----------------------------
+	Ancre : référencement naturel  (score position-synonymie : 1)
+	Score Contextuel : 4.0/19.0 (� la position : 10)
+
+-----------------------------
+Document 13 : fichier test pixa anchor\Votre référencement.
+	Mots Clefs etudi�s: référencement naturel
+-----------------------------
+	Ancre : référencement naturel  (score position-synonymie : 1)
+	Score Contextuel : 3.0/16.0 (� la position : 9)
+	Score Contextuel : 3.0/21.0 (� la position : 13)
+	Score Contextuel : 4.0/26.0 (� la position : 15)
+	Score Contextuel : 4.0/23.0 (� la position : 16)
+	Score Contextuel : 3.0/22.0 (� la position : 31)
+	Score Contextuel : 4.0/24.0 (� la position : 34)
+	Score Contextuel : 3.0/20.0 (� la position : 37)
+	Score Contextuel : 4.0/32.0 (� la position : 43)
+
+-----------------------------
+	Ancre : optimisation du référencement naturel  (score position-synonymie : 0,653)
+	Score Contextuel : 4.0/23.0 (� la position : 16)
+	Score Contextuel : 3.0/20.0 (� la position : 37)
+
+-----------------------------
+	Ancre : optimisé son référencement naturel  (score position-synonymie : 0,653)
+	Score Contextuel : 3.0/22.0 (� la position : 31)
+
+-----------------------------
+	Ancre : plan du référencement naturel  (score position-synonymie : 0,653)
+	Score Contextuel : 4.0/32.0 (� la position : 43)
+
+-----------------------------
+Document 14 : fichier test pixa anchor\Le référencement naturel de votre site.
+	Mots Clefs etudi�s: référencement naturel
+-----------------------------
+	Ancre : référencement naturel  (score position-synonymie : 1)
+	Score Contextuel : 3.0/19.0 (� la position : 4)
+	Score Contextuel : 3.0/24.0 (� la position : 7)
+	Score Contextuel : 3.0/22.0 (� la position : 8)
+	Score Contextuel : 2.0/17.0 (� la position : 11)
+	Score Contextuel : 2.0/25.0 (� la position : 12)
+	Score Contextuel : 4.0/26.0 (� la position : 19)
+	Score Contextuel : 4.0/24.0 (� la position : 20)
+	Score Contextuel : 4.0/23.0 (� la position : 21)
+	Score Contextuel : 3.0/30.0 (� la position : 26)
+	Score Contextuel : 4.0/26.0 (� la position : 28)
+	Score Contextuel : 4.0/27.0 (� la position : 32)
+
+-----------------------------
+	Ancre : optimisation du référencement naturel  (score position-synonymie : 0,653)
+	Score Contextuel : 3.0/24.0 (� la position : 7)
+	Score Contextuel : 3.0/22.0 (� la position : 8)
+	Score Contextuel : 4.0/27.0 (� la position : 32)
+
+-----------------------------
+	Ancre : référencement naturel au résultat  (score position-synonymie : 1)
+	Score Contextuel : 4.0/23.0 (� la position : 21)
+
+-----------------------------
+	Ancre : optimiser le référencement naturel  (score position-synonymie : 0,653)
+	Score Contextuel : 3.0/30.0 (� la position : 26)
+
+-----------------------------
+	Ancre : professionnels du référencement naturel  (score position-synonymie : 0,653)
+	Score Contextuel : 4.0/26.0 (� la position : 28)
+
+-----------------------------
+Document 15 : fichier test pixa anchor\Agence certifiée Adwords Pixalione.
+	Mots Clefs etudi�s: référencement naturel
+-----------------------------
+	Ancre : référencement naturel  (score position-synonymie : 1)
+	Score Contextuel : 2.0/30.0 (� la position : 4)
+	Score Contextuel : 6.0/29.0 (� la position : 5)
+
+-----------------------------
+	Ancre : rapport au référencement naturel  (score position-synonymie : 0,653)
+	Score Contextuel : 2.0/30.0 (� la position : 4)
+
+-----------------------------
+	Ancre : optimisation du référencement naturel  (score position-synonymie : 0,653)
+	Score Contextuel : 6.0/29.0 (� la position : 5)
+
+-----------------------------
+Document 16 : fichier test pixa anchor\Les outils de référencement à notre disposition.
+	Mots Clefs etudi�s: référencement naturel
+-----------------------------
+	Ancre : référencement naturel  (score position-synonymie : 1)
+	Score Contextuel : 6.0/29.0 (� la position : 5)
+
+-----------------------------
+	Ancre : plan du référencement naturel  (score position-synonymie : 0,653)
+	Score Contextuel : 6.0/29.0 (� la position : 5)
+
+-----------------------------
+Document 17 : fichier test pixa anchor\Questions - Réponses.
+	Mots Clefs etudi�s: référencement naturel
+-----------------------------
+	Ancre : référencement naturel  (score position-synonymie : 1)
+	Score Contextuel : 4.0/29.0 (� la position : 52)
+
+-----------------------------
+Document 19 : fichier test pixa anchor\Nos missions.
+	Mots Clefs etudi�s: référencement naturel
+-----------------------------
+	Ancre : référencement naturel  (score position-synonymie : 1)
+	Score Contextuel : 2.0/24.0 (� la position : 16)
+	Score Contextuel : 5.0/21.0 (� la position : 21)
+
+-----------------------------
+	Ancre : référencement naturel clés  (score position-synonymie : 1)
+	Score Contextuel : 5.0/21.0 (� la position : 21)
+
+-----------------------------
+	Ancre : campagnes de référencement naturel  (score position-synonymie : 0,653)
+	Score Contextuel : 5.0/21.0 (� la position : 21)
+
+-----------------------------
+
+
+-----------------------
+clic d'avance
+-----------------------
+
+Présent : clic d'avance
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: clic d'avance
+-----------------------------
+	Ancre : clic de avance  (score position-synonymie : 1)
+	Score Contextuel : 11.0/16.0 (� la position : 39)
+
+-----------------------------
+
+
+-----------------------
+devise
+-----------------------
+
+Présent : devise
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: devise
+-----------------------------
+	Ancre : devise  (score position-synonymie : 1)
+	Score Contextuel : 10.0/16.0 (� la position : 39)
+
+-----------------------------
+
+
+-----------------------
+référencement
+-----------------------
+
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Présent : référencement
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: référencement
+-----------------------------
+	Ancre : référencement  (score position-synonymie : 1)
+	Score Contextuel : 8.0/39.0 (� la position : 38)
+	Score Contextuel : 6.0/45.0 (� la position : 40)
+	Score Contextuel : 6.0/37.0 (� la position : 43)
+	Score Contextuel : 4.0/36.0 (� la position : 44)
+	Score Contextuel : 4.0/39.0 (� la position : 45)
+	Score Contextuel : 7.0/29.0 (� la position : 60)
+	Score Contextuel : 4.0/40.0 (� la position : 70)
+	Score Contextuel : 5.0/32.0 (� la position : 217)
+	Score Contextuel : 3.0/49.0 (� la position : 366)
+	Score Contextuel : 3.0/33.0 (� la position : 403)
+	Score Contextuel : 9.0/42.0 (� la position : 423)
+	Score Contextuel : 5.0/36.0 (� la position : 424)
+	Score Contextuel : 4.0/35.0 (� la position : 425)
+	Score Contextuel : 6.0/39.0 (� la position : 426)
+	Score Contextuel : 5.0/39.0 (� la position : 427)
+	Score Contextuel : 5.0/42.0 (� la position : 429)
+	Score Contextuel : 4.0/35.0 (� la position : 430)
+	Score Contextuel : 4.0/38.0 (� la position : 431)
+	Score Contextuel : 4.0/37.0 (� la position : 432)
+	Score Contextuel : 3.0/28.0 (� la position : 436)
+	Score Contextuel : 5.0/30.0 (� la position : 437)
+	Score Contextuel : 6.0/31.0 (� la position : 438)
+	Score Contextuel : 7.0/31.0 (� la position : 439)
+	Score Contextuel : 5.0/39.0 (� la position : 441)
+	Score Contextuel : 7.0/38.0 (� la position : 444)
+	Score Contextuel : 3.0/33.0 (� la position : 445)
+	Score Contextuel : 3.0/27.0 (� la position : 446)
+	Score Contextuel : 4.0/30.0 (� la position : 447)
+	Score Contextuel : 6.0/39.0 (� la position : 449)
+	Score Contextuel : 6.0/44.0 (� la position : 450)
+	Score Contextuel : 5.0/43.0 (� la position : 451)
+	Score Contextuel : 5.0/40.0 (� la position : 452)
+	Score Contextuel : 4.0/31.0 (� la position : 454)
+	Score Contextuel : 4.0/38.0 (� la position : 455)
+	Score Contextuel : 4.0/37.0 (� la position : 456)
+	Score Contextuel : 4.0/38.0 (� la position : 457)
+	Score Contextuel : 4.0/35.0 (� la position : 459)
+	Score Contextuel : 3.0/37.0 (� la position : 460)
+	Score Contextuel : 2.0/37.0 (� la position : 462)
+	Score Contextuel : 2.0/31.0 (� la position : 464)
+	Score Contextuel : 7.0/48.0 (� la position : 467)
+	Score Contextuel : 5.0/48.0 (� la position : 470)
+	Score Contextuel : 5.0/49.0 (� la position : 471)
+	Score Contextuel : 8.0/45.0 (� la position : 477)
+	Score Contextuel : 7.0/34.0 (� la position : 481)
+	Score Contextuel : 8.0/32.0 (� la position : 500)
+	Score Contextuel : 23.0/23.0 (� la position : 568)
+
+-----------------------------
+Document 1 : fichier test pixa anchor\Nos solutions.
+	Mots Clefs etudi�s: référencement
+-----------------------------
+	Ancre : référencement  (score position-synonymie : 1)
+	Score Contextuel : 6.0/36.0 (� la position : 20)
+
+-----------------------------
+Document 2 : fichier test pixa anchor\solutions sur mesure.
+	Mots Clefs etudi�s: référencement
+-----------------------------
+	Ancre : référencement  (score position-synonymie : 1)
+	Score Contextuel : 6.0/34.0 (� la position : 23)
+
+-----------------------------
+Document 4 : fichier test pixa anchor\Graphisme web.
+	Mots Clefs etudi�s: référencement
+-----------------------------
+	Ancre : référencement  (score position-synonymie : 1)
+	Score Contextuel : 5.0/34.0 (� la position : 272)
+	Score Contextuel : 5.0/39.0 (� la position : 273)
+	Score Contextuel : 5.0/40.0 (� la position : 274)
+	Score Contextuel : 4.0/41.0 (� la position : 275)
+	Score Contextuel : 3.0/38.0 (� la position : 276)
+	Score Contextuel : 3.0/38.0 (� la position : 277)
+	Score Contextuel : 6.0/35.0 (� la position : 278)
+
+-----------------------------
+Document 7 : fichier test pixa anchor\Multimédia.
+	Mots Clefs etudi�s: référencement
+-----------------------------
+	Ancre : référencement  (score position-synonymie : 1)
+	Score Contextuel : 5.0/34.0 (� la position : 6)
+
+-----------------------------
+Document 9 : fichier test pixa anchor\Les nouveaux enjeux liés au mobile.
+	Mots Clefs etudi�s: référencement
+-----------------------------
+	Ancre : référencement  (score position-synonymie : 1)
+	Score Contextuel : 3.0/28.0 (� la position : 24)
+	Score Contextuel : 2.0/32.0 (� la position : 35)
+	Score Contextuel : 2.0/36.0 (� la position : 49)
+
+-----------------------------
+Document 10 : fichier test pixa anchor\Optimisation mobile.
+	Mots Clefs etudi�s: référencement
+-----------------------------
+	Ancre : référencement  (score position-synonymie : 1)
+	Score Contextuel : 3.0/31.0 (� la position : 23)
+
+-----------------------------
+Document 11 : fichier test pixa anchor\Créer une application mobile.
+	Mots Clefs etudi�s: référencement
+-----------------------------
+	Ancre : référencement  (score position-synonymie : 1)
+	Score Contextuel : 5.0/37.0 (� la position : 9)
+
+-----------------------------
+Document 12 : fichier test pixa anchor\Référencement mobile.
+	Mots Clefs etudi�s: référencement
+-----------------------------
+	Ancre : référencement  (score position-synonymie : 1)
+	Score Contextuel : 3.0/31.0 (� la position : 9)
+	Score Contextuel : 3.0/31.0 (� la position : 10)
+	Score Contextuel : 4.0/27.0 (� la position : 12)
+	Score Contextuel : 3.0/39.0 (� la position : 29)
+	Score Contextuel : 6.0/51.0 (� la position : 32)
+	Score Contextuel : 4.0/33.0 (� la position : 35)
+	Score Contextuel : 2.0/33.0 (� la position : 37)
+
+-----------------------------
+Document 13 : fichier test pixa anchor\Votre référencement.
+	Mots Clefs etudi�s: référencement
+-----------------------------
+	Ancre : référencement  (score position-synonymie : 1)
+	Score Contextuel : 5.0/41.0 (� la position : 4)
+	Score Contextuel : 7.0/35.0 (� la position : 7)
+	Score Contextuel : 3.0/29.0 (� la position : 9)
+	Score Contextuel : 3.0/31.0 (� la position : 12)
+	Score Contextuel : 3.0/35.0 (� la position : 13)
+	Score Contextuel : 3.0/40.0 (� la position : 15)
+	Score Contextuel : 2.0/37.0 (� la position : 16)
+	Score Contextuel : 3.0/41.0 (� la position : 23)
+	Score Contextuel : 2.0/32.0 (� la position : 25)
+	Score Contextuel : 5.0/34.0 (� la position : 31)
+	Score Contextuel : 5.0/35.0 (� la position : 32)
+	Score Contextuel : 7.0/40.0 (� la position : 34)
+	Score Contextuel : 4.0/36.0 (� la position : 37)
+	Score Contextuel : 2.0/37.0 (� la position : 41)
+	Score Contextuel : 3.0/45.0 (� la position : 43)
+
+-----------------------------
+Document 14 : fichier test pixa anchor\Le référencement naturel de votre site.
+	Mots Clefs etudi�s: référencement
+-----------------------------
+	Ancre : référencement  (score position-synonymie : 1)
+	Score Contextuel : 5.0/33.0 (� la position : 3)
+	Score Contextuel : 5.0/34.0 (� la position : 4)
+	Score Contextuel : 2.0/37.0 (� la position : 7)
+	Score Contextuel : 2.0/36.0 (� la position : 8)
+	Score Contextuel : 2.0/28.0 (� la position : 11)
+	Score Contextuel : 5.0/48.0 (� la position : 13)
+	Score Contextuel : 3.0/30.0 (� la position : 17)
+	Score Contextuel : 5.0/38.0 (� la position : 19)
+	Score Contextuel : 3.0/36.0 (� la position : 20)
+	Score Contextuel : 3.0/36.0 (� la position : 21)
+	Score Contextuel : 5.0/45.0 (� la position : 26)
+	Score Contextuel : 6.0/39.0 (� la position : 28)
+	Score Contextuel : 5.0/40.0 (� la position : 32)
+	Score Contextuel : 4.0/44.0 (� la position : 39)
+
+-----------------------------
+Document 15 : fichier test pixa anchor\Agence certifiée Adwords Pixalione.
+	Mots Clefs etudi�s: référencement
+-----------------------------
+	Ancre : référencement  (score position-synonymie : 1)
+	Score Contextuel : 5.0/43.0 (� la position : 4)
+	Score Contextuel : 5.0/40.0 (� la position : 5)
+
+-----------------------------
+Document 16 : fichier test pixa anchor\Les outils de référencement à notre disposition.
+	Mots Clefs etudi�s: référencement
+-----------------------------
+	Ancre : référencement  (score position-synonymie : 1)
+	Score Contextuel : 6.0/41.0 (� la position : 5)
+	Score Contextuel : 3.0/29.0 (� la position : 15)
+	Score Contextuel : 3.0/34.0 (� la position : 38)
+	Score Contextuel : 3.0/34.0 (� la position : 39)
+
+-----------------------------
+Document 17 : fichier test pixa anchor\Questions - Réponses.
+	Mots Clefs etudi�s: référencement
+-----------------------------
+	Ancre : référencement  (score position-synonymie : 1)
+	Score Contextuel : 4.0/26.0 (� la position : 4)
+	Score Contextuel : 2.0/35.0 (� la position : 34)
+	Score Contextuel : 4.0/46.0 (� la position : 45)
+	Score Contextuel : 7.0/46.0 (� la position : 52)
+	Score Contextuel : 4.0/41.0 (� la position : 57)
+	Score Contextuel : 3.0/35.0 (� la position : 65)
+
+-----------------------------
+Document 18 : fichier test pixa anchor\Financement de votre projet.
+	Mots Clefs etudi�s: référencement
+-----------------------------
+	Ancre : référencement  (score position-synonymie : 1)
+	Score Contextuel : 4.0/30.0 (� la position : 10)
+
+-----------------------------
+Document 19 : fichier test pixa anchor\Nos missions.
+	Mots Clefs etudi�s: référencement
+-----------------------------
+	Ancre : référencement  (score position-synonymie : 1)
+	Score Contextuel : 3.0/30.0 (� la position : 13)
+	Score Contextuel : 3.0/35.0 (� la position : 15)
+	Score Contextuel : 4.0/41.0 (� la position : 16)
+	Score Contextuel : 7.0/47.0 (� la position : 19)
+	Score Contextuel : 6.0/32.0 (� la position : 21)
+
+-----------------------------
+
+
+-----------------------
+solution sur mesure
+-----------------------
+
+Présent : solution sur mesure
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: solution sur mesure
+-----------------------------
+	Ancre : solution sur mesure  (score position-synonymie : 1)
+	Score Contextuel : 14.0/21.0 (� la position : 41)
+
+-----------------------------
+	Ancre : solution mobile par défaut  (score position-synonymie : 0,571)
+	Score Contextuel : 5.0/29.0 (� la position : 71)
+
+-----------------------------
+Document 1 : fichier test pixa anchor\Nos solutions.
+	Mots Clefs etudi�s: solution sur mesure
+-----------------------------
+	Ancre : solution cataloguesur mesure  (score position-synonymie : 0,851)
+	Score Contextuel : 6.0/24.0 (� la position : 3)
+
+-----------------------------
+	Ancre : solution sur mesure  (score position-synonymie : 1)
+	Score Contextuel : 6.0/24.0 (� la position : 13)
+
+-----------------------------
+Document 2 : fichier test pixa anchor\solutions sur mesure.
+	Mots Clefs etudi�s: solution sur mesure
+-----------------------------
+	Ancre : solution sur mesure  (score position-synonymie : 1)
+	Score Contextuel : 4.0/28.0 (� la position : 12)
+
+-----------------------------
+Document 4 : fichier test pixa anchor\Graphisme web.
+	Mots Clefs etudi�s: solution sur mesure
+-----------------------------
+	Ancre : solutions site sur mesure  (score position-synonymie : 0,851)
+	Score Contextuel : 4.0/26.0 (� la position : 9)
+
+-----------------------------
+	Ancre : solutions sur mesure  (score position-synonymie : 1)
+	Score Contextuel : 4.0/23.0 (� la position : 17)
+
+-----------------------------
+Document 11 : fichier test pixa anchor\Créer une application mobile.
+	Mots Clefs etudi�s: solution sur mesure
+-----------------------------
+	Ancre : solution clés en main  (score position-synonymie : 0,571)
+	Score Contextuel : 4.0/28.0 (� la position : 11)
+
+-----------------------------
+Document 15 : fichier test pixa anchor\Agence certifiée Adwords Pixalione.
+	Mots Clefs etudi�s: solution sur mesure
+-----------------------------
+	Ancre : solution n °  (score position-synonymie : 0,571)
+	Score Contextuel : 4.0/29.0 (� la position : 6)
+
+-----------------------------
+Document 17 : fichier test pixa anchor\Questions - Réponses.
+	Mots Clefs etudi�s: solution sur mesure
+-----------------------------
+	Ancre : solution sur mesure  (score position-synonymie : 1)
+	Score Contextuel : 4.0/24.0 (� la position : 13)
+
+-----------------------------
+
+
+-----------------------
+Pixalione
+-----------------------
+
+Présent : pixalione
+Présent : pixalione
+Présent : pixalione
+Présent : pixalione
+Présent : pixalione
+Présent : pixalione
+Présent : pixalione
+Présent : pixalione
+Présent : pixalione
+Présent : pixalione
+Présent : pixalione
+Présent : pixalione
+Présent : pixalione
+Présent : pixalione
+Présent : pixalione
+Présent : pixalione
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: Pixalione
+-----------------------------
+	Ancre : pixalione  (score position-synonymie : 1)
+	Score Contextuel : 10.0/42.0 (� la position : 6)
+	Score Contextuel : 7.0/34.0 (� la position : 21)
+	Score Contextuel : 5.0/47.0 (� la position : 41)
+	Score Contextuel : 4.0/39.0 (� la position : 45)
+	Score Contextuel : 3.0/35.0 (� la position : 67)
+	Score Contextuel : 8.0/32.0 (� la position : 77)
+	Score Contextuel : 8.0/40.0 (� la position : 80)
+	Score Contextuel : 4.0/34.0 (� la position : 96)
+	Score Contextuel : 10.0/42.0 (� la position : 119)
+	Score Contextuel : 6.0/44.0 (� la position : 153)
+	Score Contextuel : 4.0/35.0 (� la position : 187)
+	Score Contextuel : 2.0/35.0 (� la position : 376)
+	Score Contextuel : 7.0/44.0 (� la position : 421)
+	Score Contextuel : 7.0/51.0 (� la position : 468)
+	Score Contextuel : 7.0/31.0 (� la position : 510)
+	Score Contextuel : 23.0/23.0 (� la position : 568)
+
+-----------------------------
+Document 1 : fichier test pixa anchor\Nos solutions.
+	Mots Clefs etudi�s: Pixalione
+-----------------------------
+	Ancre : pixalione  (score position-synonymie : 1)
+	Score Contextuel : 5.0/32.0 (� la position : 4)
+	Score Contextuel : 6.0/36.0 (� la position : 13)
+
+-----------------------------
+Document 2 : fichier test pixa anchor\solutions sur mesure.
+	Mots Clefs etudi�s: Pixalione
+-----------------------------
+	Ancre : pixalione  (score position-synonymie : 1)
+	Score Contextuel : 8.0/39.0 (� la position : 5)
+	Score Contextuel : 5.0/31.0 (� la position : 19)
+	Score Contextuel : 6.0/34.0 (� la position : 24)
+
+-----------------------------
+Document 4 : fichier test pixa anchor\Graphisme web.
+	Mots Clefs etudi�s: Pixalione
+-----------------------------
+	Ancre : pixalione  (score position-synonymie : 1)
+	Score Contextuel : 6.0/34.0 (� la position : 4)
+	Score Contextuel : 9.0/44.0 (� la position : 15)
+	Score Contextuel : 4.0/34.0 (� la position : 22)
+	Score Contextuel : 11.0/29.0 (� la position : 301)
+
+-----------------------------
+Document 8 : fichier test pixa anchor\Les services supplémentaires.
+	Mots Clefs etudi�s: Pixalione
+-----------------------------
+	Ancre : pixalione  (score position-synonymie : 1)
+	Score Contextuel : 3.0/33.0 (� la position : 3)
+	Score Contextuel : 4.0/37.0 (� la position : 4)
+	Score Contextuel : 4.0/36.0 (� la position : 19)
+	Score Contextuel : 5.0/30.0 (� la position : 23)
+	Score Contextuel : 3.0/31.0 (� la position : 29)
+
+-----------------------------
+Document 9 : fichier test pixa anchor\Les nouveaux enjeux liés au mobile.
+	Mots Clefs etudi�s: Pixalione
+-----------------------------
+	Ancre : pixalione  (score position-synonymie : 1)
+	Score Contextuel : 5.0/36.0 (� la position : 6)
+	Score Contextuel : 4.0/33.0 (� la position : 16)
+	Score Contextuel : 3.0/28.0 (� la position : 24)
+
+-----------------------------
+Document 11 : fichier test pixa anchor\Créer une application mobile.
+	Mots Clefs etudi�s: Pixalione
+-----------------------------
+	Ancre : pixalione  (score position-synonymie : 1)
+	Score Contextuel : 5.0/41.0 (� la position : 3)
+	Score Contextuel : 5.0/37.0 (� la position : 9)
+	Score Contextuel : 6.0/36.0 (� la position : 18)
+	Score Contextuel : 2.0/29.0 (� la position : 32)
+
+-----------------------------
+Document 12 : fichier test pixa anchor\Référencement mobile.
+	Mots Clefs etudi�s: Pixalione
+-----------------------------
+	Ancre : pixalione  (score position-synonymie : 1)
+	Score Contextuel : 5.0/31.0 (� la position : 22)
+	Score Contextuel : 5.0/42.0 (� la position : 33)
+	Score Contextuel : 4.0/37.0 (� la position : 41)
+	Score Contextuel : 6.0/39.0 (� la position : 44)
+
+-----------------------------
+Document 13 : fichier test pixa anchor\Votre référencement.
+	Mots Clefs etudi�s: Pixalione
+-----------------------------
+	Ancre : pixalione  (score position-synonymie : 1)
+	Score Contextuel : 3.0/29.0 (� la position : 9)
+	Score Contextuel : 4.0/32.0 (� la position : 10)
+	Score Contextuel : 3.0/31.0 (� la position : 12)
+	Score Contextuel : 2.0/37.0 (� la position : 16)
+	Score Contextuel : 2.0/33.0 (� la position : 17)
+	Score Contextuel : 6.0/33.0 (� la position : 29)
+	Score Contextuel : 7.0/40.0 (� la position : 34)
+	Score Contextuel : 8.0/46.0 (� la position : 35)
+	Score Contextuel : 6.0/43.0 (� la position : 36)
+	Score Contextuel : 4.0/36.0 (� la position : 37)
+	Score Contextuel : 2.0/36.0 (� la position : 40)
+	Score Contextuel : 3.0/45.0 (� la position : 42)
+	Score Contextuel : 3.0/45.0 (� la position : 43)
+
+-----------------------------
+Document 14 : fichier test pixa anchor\Le référencement naturel de votre site.
+	Mots Clefs etudi�s: Pixalione
+-----------------------------
+	Ancre : pixalione  (score position-synonymie : 1)
+	Score Contextuel : 3.0/36.0 (� la position : 21)
+	Score Contextuel : 6.0/41.0 (� la position : 27)
+	Score Contextuel : 6.0/40.0 (� la position : 29)
+	Score Contextuel : 5.0/40.0 (� la position : 32)
+	Score Contextuel : 3.0/35.0 (� la position : 36)
+	Score Contextuel : 4.0/44.0 (� la position : 39)
+	Score Contextuel : 6.0/41.0 (� la position : 41)
+	Score Contextuel : 5.0/32.0 (� la position : 45)
+	Score Contextuel : 2.0/34.0 (� la position : 48)
+	Score Contextuel : 6.0/46.0 (� la position : 51)
+	Score Contextuel : 7.0/47.0 (� la position : 52)
+
+-----------------------------
+Document 15 : fichier test pixa anchor\Agence certifiée Adwords Pixalione.
+	Mots Clefs etudi�s: Pixalione
+-----------------------------
+	Ancre : pixalione  (score position-synonymie : 1)
+	Score Contextuel : 5.0/38.0 (� la position : 2)
+	Score Contextuel : 2.0/35.0 (� la position : 20)
+
+-----------------------------
+Document 16 : fichier test pixa anchor\Les outils de référencement à notre disposition.
+	Mots Clefs etudi�s: Pixalione
+-----------------------------
+	Ancre : pixalione  (score position-synonymie : 1)
+	Score Contextuel : 3.0/30.0 (� la position : 3)
+	Score Contextuel : 3.0/34.0 (� la position : 38)
+
+-----------------------------
+Document 17 : fichier test pixa anchor\Questions - Réponses.
+	Mots Clefs etudi�s: Pixalione
+-----------------------------
+	Ancre : pixalione  (score position-synonymie : 1)
+	Score Contextuel : 4.0/28.0 (� la position : 5)
+	Score Contextuel : 5.0/35.0 (� la position : 24)
+	Score Contextuel : 5.0/52.0 (� la position : 44)
+
+-----------------------------
+Document 18 : fichier test pixa anchor\Financement de votre projet.
+	Mots Clefs etudi�s: Pixalione
+-----------------------------
+	Ancre : pixalione  (score position-synonymie : 1)
+	Score Contextuel : 4.0/32.0 (� la position : 11)
+	Score Contextuel : 4.0/36.0 (� la position : 13)
+	Score Contextuel : 6.0/42.0 (� la position : 14)
+	Score Contextuel : 6.0/43.0 (� la position : 16)
+
+-----------------------------
+Document 19 : fichier test pixa anchor\Nos missions.
+	Mots Clefs etudi�s: Pixalione
+-----------------------------
+	Ancre : pixalione  (score position-synonymie : 1)
+	Score Contextuel : 4.0/29.0 (� la position : 3)
+	Score Contextuel : 4.0/31.0 (� la position : 5)
+	Score Contextuel : 5.0/35.0 (� la position : 6)
+	Score Contextuel : 3.0/31.0 (� la position : 7)
+	Score Contextuel : 4.0/28.0 (� la position : 8)
+	Score Contextuel : 3.0/30.0 (� la position : 12)
+	Score Contextuel : 3.0/35.0 (� la position : 15)
+	Score Contextuel : 7.0/47.0 (� la position : 19)
+	Score Contextuel : 5.0/30.0 (� la position : 23)
+	Score Contextuel : 7.0/36.0 (� la position : 24)
+	Score Contextuel : 7.0/36.0 (� la position : 25)
+
+-----------------------------
+
+
+-----------------------
+référencer
+-----------------------
+
+Présent : référencer
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: référencer
+-----------------------------
+	Ancre : référencer  (score position-synonymie : 1)
+	Score Contextuel : 14.0/21.0 (� la position : 41)
+
+-----------------------------
+Document 19 : fichier test pixa anchor\Nos missions.
+	Mots Clefs etudi�s: référencer
+-----------------------------
+	Ancre : référencer  (score position-synonymie : 1)
+	Score Contextuel : 6.0/24.0 (� la position : 14)
+
+-----------------------------
+
+
+-----------------------
+L’optimisation de votre site Internet
+-----------------------
+
+Présent : l’optimisation de votre site internet
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: L’optimisation de votre site Internet
+-----------------------------
+	Ancre : optimisation de votre site internet  (score position-synonymie : 1)
+	Score Contextuel : 13.0/25.0 (� la position : 42)
+
+-----------------------------
+
+
+-----------------------
+L’optimisation de votre site 
+-----------------------
+
+Présent : l’optimisation de votre site 
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: L’optimisation de votre site 
+-----------------------------
+	Ancre : optimisation de votre site  (score position-synonymie : 1)
+	Score Contextuel : 13.0/25.0 (� la position : 42)
+
+-----------------------------
+Document 7 : fichier test pixa anchor\Multimédia.
+	Mots Clefs etudi�s: L’optimisation de votre site 
+-----------------------------
+	Ancre : optimisation du référencement naturel  (score position-synonymie : 0,571)
+	Score Contextuel : 6.0/30.0 (� la position : 6)
+
+-----------------------------
+Document 12 : fichier test pixa anchor\Référencement mobile.
+	Mots Clefs etudi�s: L’optimisation de votre site 
+-----------------------------
+	Ancre : optimisation du référencement mobile  (score position-synonymie : 0,571)
+	Score Contextuel : 5.0/27.0 (� la position : 10)
+
+-----------------------------
+Document 13 : fichier test pixa anchor\Votre référencement.
+	Mots Clefs etudi�s: L’optimisation de votre site 
+-----------------------------
+	Ancre : optimisation du référencement naturel  (score position-synonymie : 0,571)
+	Score Contextuel : 3.0/26.0 (� la position : 12)
+	Score Contextuel : 6.0/26.0 (� la position : 16)
+	Score Contextuel : 12.0/26.0 (� la position : 37)
+
+-----------------------------
+Document 14 : fichier test pixa anchor\Le référencement naturel de votre site.
+	Mots Clefs etudi�s: L’optimisation de votre site 
+-----------------------------
+	Ancre : optimisation du référencement naturel  (score position-synonymie : 0,571)
+	Score Contextuel : 6.0/29.0 (� la position : 7)
+	Score Contextuel : 6.0/27.0 (� la position : 8)
+	Score Contextuel : 4.0/30.0 (� la position : 32)
+
+-----------------------------
+Document 15 : fichier test pixa anchor\Agence certifiée Adwords Pixalione.
+	Mots Clefs etudi�s: L’optimisation de votre site 
+-----------------------------
+	Ancre : optimisation du référencement naturel  (score position-synonymie : 0,571)
+	Score Contextuel : 9.0/37.0 (� la position : 5)
+
+-----------------------------
+Document 16 : fichier test pixa anchor\Les outils de référencement à notre disposition.
+	Mots Clefs etudi�s: L’optimisation de votre site 
+-----------------------------
+	Ancre : optimisation du référencement naturel  (score position-synonymie : 0,571)
+	Score Contextuel : 6.0/27.0 (� la position : 38)
+
+-----------------------------
+Document 17 : fichier test pixa anchor\Questions - Réponses.
+	Mots Clefs etudi�s: L’optimisation de votre site 
+-----------------------------
+	Ancre : optimisation du référencement naturel  (score position-synonymie : 0,571)
+	Score Contextuel : 10.0/42.0 (� la position : 45)
+
+-----------------------------
+	Ancre : optimisation de votre site  (score position-synonymie : 1)
+	Score Contextuel : 8.0/33.0 (� la position : 49)
+
+-----------------------------
+	Ancre : optimisation de mon site  (score position-synonymie : 1)
+	Score Contextuel : 4.0/35.0 (� la position : 57)
+
+-----------------------------
+
+
+-----------------------
+techniques de référencement
+-----------------------
+
+Présent : techniques de référencement
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: techniques de référencement
+-----------------------------
+	Ancre : techniques de référencement  (score position-synonymie : 1)
+	Score Contextuel : 9.0/16.0 (� la position : 44)
+
+-----------------------------
+Document 13 : fichier test pixa anchor\Votre référencement.
+	Mots Clefs etudi�s: techniques de référencement
+-----------------------------
+	Ancre : techniques white hat  (score position-synonymie : 0,571)
+	Score Contextuel : 6.0/26.0 (� la position : 40)
+
+-----------------------------
+
+
+-----------------------
+résultats de Google
+-----------------------
+
+Présent : résultats de google
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: résultats de Google
+-----------------------------
+	Ancre : résultat de google  (score position-synonymie : 1)
+	Score Contextuel : 9.0/16.0 (� la position : 44)
+
+-----------------------------
+	Ancre : résultat du code html  (score position-synonymie : 0,571)
+	Score Contextuel : 7.0/25.0 (� la position : 94)
+
+-----------------------------
+Document 17 : fichier test pixa anchor\Questions - Réponses.
+	Mots Clefs etudi�s: résultats de Google
+-----------------------------
+	Ancre : résultats de google  (score position-synonymie : 1)
+	Score Contextuel : 4.0/27.0 (� la position : 51)
+
+-----------------------------
+
+
+-----------------------
+Google
+-----------------------
+
+Présent : google
+Présent : google
+Présent : google
+Présent : google
+Présent : google
+Présent : google
+Présent : google
+Présent : google
+Présent : google
+Présent : google
+Présent : google
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: Google
+-----------------------------
+	Ancre : google  (score position-synonymie : 1)
+	Score Contextuel : 3.0/22.0 (� la position : 44)
+	Score Contextuel : 3.0/32.0 (� la position : 48)
+	Score Contextuel : 2.0/22.0 (� la position : 94)
+	Score Contextuel : 4.0/26.0 (� la position : 424)
+	Score Contextuel : 3.0/20.0 (� la position : 436)
+	Score Contextuel : 5.0/28.0 (� la position : 444)
+	Score Contextuel : 3.0/26.0 (� la position : 462)
+	Score Contextuel : 6.0/35.0 (� la position : 467)
+	Score Contextuel : 7.0/32.0 (� la position : 473)
+	Score Contextuel : 11.0/15.0 (� la position : 515)
+
+-----------------------------
+Document 4 : fichier test pixa anchor\Graphisme web.
+	Mots Clefs etudi�s: Google
+-----------------------------
+	Ancre : google  (score position-synonymie : 1)
+	Score Contextuel : 3.0/22.0 (� la position : 275)
+
+-----------------------------
+Document 9 : fichier test pixa anchor\Les nouveaux enjeux liés au mobile.
+	Mots Clefs etudi�s: Google
+-----------------------------
+	Ancre : google  (score position-synonymie : 1)
+	Score Contextuel : 5.0/20.0 (� la position : 43)
+
+-----------------------------
+Document 12 : fichier test pixa anchor\Référencement mobile.
+	Mots Clefs etudi�s: Google
+-----------------------------
+	Ancre : google  (score position-synonymie : 1)
+	Score Contextuel : 4.0/21.0 (� la position : 8)
+	Score Contextuel : 4.0/23.0 (� la position : 20)
+	Score Contextuel : 3.0/20.0 (� la position : 30)
+
+-----------------------------
+Document 13 : fichier test pixa anchor\Votre référencement.
+	Mots Clefs etudi�s: Google
+-----------------------------
+	Ancre : google  (score position-synonymie : 1)
+	Score Contextuel : 4.0/17.0 (� la position : 17)
+	Score Contextuel : 4.0/28.0 (� la position : 36)
+
+-----------------------------
+Document 14 : fichier test pixa anchor\Le référencement naturel de votre site.
+	Mots Clefs etudi�s: Google
+-----------------------------
+	Ancre : google  (score position-synonymie : 1)
+	Score Contextuel : 5.0/17.0 (� la position : 4)
+	Score Contextuel : 6.0/31.0 (� la position : 14)
+	Score Contextuel : 6.0/29.0 (� la position : 15)
+	Score Contextuel : 5.0/25.0 (� la position : 25)
+	Score Contextuel : 5.0/29.0 (� la position : 26)
+	Score Contextuel : 3.0/22.0 (� la position : 33)
+	Score Contextuel : 6.0/18.0 (� la position : 36)
+	Score Contextuel : 6.0/29.0 (� la position : 39)
+	Score Contextuel : 3.0/29.0 (� la position : 54)
+
+-----------------------------
+Document 15 : fichier test pixa anchor\Agence certifiée Adwords Pixalione.
+	Mots Clefs etudi�s: Google
+-----------------------------
+	Ancre : google  (score position-synonymie : 1)
+	Score Contextuel : 3.0/30.0 (� la position : 4)
+
+-----------------------------
+Document 16 : fichier test pixa anchor\Les outils de référencement à notre disposition.
+	Mots Clefs etudi�s: Google
+-----------------------------
+	Ancre : google  (score position-synonymie : 1)
+	Score Contextuel : 3.0/24.0 (� la position : 7)
+	Score Contextuel : 2.0/20.0 (� la position : 29)
+	Score Contextuel : 3.0/24.0 (� la position : 30)
+	Score Contextuel : 3.0/24.0 (� la position : 32)
+	Score Contextuel : 3.0/24.0 (� la position : 33)
+	Score Contextuel : 3.0/24.0 (� la position : 35)
+	Score Contextuel : 2.0/23.0 (� la position : 37)
+
+-----------------------------
+Document 17 : fichier test pixa anchor\Questions - Réponses.
+	Mots Clefs etudi�s: Google
+-----------------------------
+	Ancre : google  (score position-synonymie : 1)
+	Score Contextuel : 5.0/27.0 (� la position : 46)
+	Score Contextuel : 3.0/22.0 (� la position : 48)
+
+-----------------------------
+Document 19 : fichier test pixa anchor\Nos missions.
+	Mots Clefs etudi�s: Google
+-----------------------------
+	Ancre : google  (score position-synonymie : 1)
+	Score Contextuel : 4.0/26.0 (� la position : 17)
+	Score Contextuel : 5.0/30.0 (� la position : 19)
+	Score Contextuel : 3.0/19.0 (� la position : 20)
+
+-----------------------------
+
+
+-----------------------
+L’Agence Pixalione
+-----------------------
+
+Présent : l’agence pixalione
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: L’Agence Pixalione
+-----------------------------
+	Ancre : agence web pixalione  (score position-synonymie : 0,851)
+	Score Contextuel : 9.0/35.0 (� la position : 6)
+	Score Contextuel : 4.0/28.0 (� la position : 119)
+
+-----------------------------
+	Ancre : agence pixalione  (score position-synonymie : 1)
+	Score Contextuel : 9.0/18.0 (� la position : 45)
+	Score Contextuel : 5.0/30.0 (� la position : 153)
+	Score Contextuel : 4.0/24.0 (� la position : 187)
+	Score Contextuel : 4.0/22.0 (� la position : 376)
+	Score Contextuel : 6.0/29.0 (� la position : 421)
+	Score Contextuel : 4.0/35.0 (� la position : 468)
+
+-----------------------------
+	Ancre : agence compétente en référencement  (score position-synonymie : 0,571)
+	Score Contextuel : 4.0/33.0 (� la position : 467)
+
+-----------------------------
+	Ancre : agence web en charge  (score position-synonymie : 0,571)
+	Score Contextuel : 6.0/38.0 (� la position : 489)
+
+-----------------------------
+Document 2 : fichier test pixa anchor\solutions sur mesure.
+	Mots Clefs etudi�s: L’Agence Pixalione
+-----------------------------
+	Ancre : agence web pixalione  (score position-synonymie : 0,851)
+	Score Contextuel : 3.0/26.0 (� la position : 5)
+
+-----------------------------
+Document 13 : fichier test pixa anchor\Votre référencement.
+	Mots Clefs etudi�s: L’Agence Pixalione
+-----------------------------
+	Ancre : agence web pixalione  (score position-synonymie : 0,851)
+	Score Contextuel : 10.0/35.0 (� la position : 35)
+
+-----------------------------
+Document 18 : fichier test pixa anchor\Financement de votre projet.
+	Mots Clefs etudi�s: L’Agence Pixalione
+-----------------------------
+	Ancre : agence pixalione  (score position-synonymie : 1)
+	Score Contextuel : 2.0/23.0 (� la position : 13)
+
+-----------------------------
+	Ancre : agence web pixalione  (score position-synonymie : 0,851)
+	Score Contextuel : 2.0/30.0 (� la position : 14)
+
+-----------------------------
+Document 19 : fichier test pixa anchor\Nos missions.
+	Mots Clefs etudi�s: L’Agence Pixalione
+-----------------------------
+	Ancre : agence pixalione  (score position-synonymie : 1)
+	Score Contextuel : 4.0/21.0 (� la position : 5)
+
+-----------------------------
+
+
+-----------------------
+légales
+-----------------------
+
+Présent : légales
+Présent : légales
+Présent : légales
+Présent : légales
+Présent : légales
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: légales
+-----------------------------
+	Ancre : légales  (score position-synonymie : 1)
+	Score Contextuel : 9.0/60.0 (� la position : 46)
+
+-----------------------------
+
+
+-----------------------
+Smartphones
+-----------------------
+
+Présent : smartphones
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: Smartphones
+-----------------------------
+	Ancre : smartphone  (score position-synonymie : 1)
+	Score Contextuel : 9.0/10.0 (� la position : 52)
+	Score Contextuel : 10.0/15.0 (� la position : 53)
+	Score Contextuel : 10.0/15.0 (� la position : 54)
+
+-----------------------------
+Document 3 : fichier test pixa anchor\Concevoir un site pour mobiles.
+	Mots Clefs etudi�s: Smartphones
+-----------------------------
+	Ancre : smartphones  (score position-synonymie : 1)
+	Score Contextuel : 3.0/19.0 (� la position : 19)
+
+-----------------------------
+Document 9 : fichier test pixa anchor\Les nouveaux enjeux liés au mobile.
+	Mots Clefs etudi�s: Smartphones
+-----------------------------
+	Ancre : smartphones  (score position-synonymie : 1)
+	Score Contextuel : 2.0/21.0 (� la position : 4)
+
+-----------------------------
+
+
+-----------------------
+création d’un pack
+-----------------------
+
+
+-----------------------
+offre de référencement
+-----------------------
+
+Présent : offre de référencement
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: offre de référencement
+-----------------------------
+	Ancre : offre de référencement  (score position-synonymie : 1)
+	Score Contextuel : 7.0/18.0 (� la position : 60)
+
+-----------------------------
+	Ancre : offre site pour écran  (score position-synonymie : 0,571)
+	Score Contextuel : 4.0/29.0 (� la position : 71)
+
+-----------------------------
+	Ancre : offre de cms payant  (score position-synonymie : 0,571)
+	Score Contextuel : 6.0/22.0 (� la position : 370)
+
+-----------------------------
+
+
+-----------------------
+PIXAPACK
+-----------------------
+
+Présent : pixapack
+Présent : pixapack
+Présent : pixapack
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: PIXAPACK
+-----------------------------
+	Ancre : pixapack  (score position-synonymie : 1)
+	Score Contextuel : 5.0/26.0 (� la position : 66)
+	Score Contextuel : 5.0/25.0 (� la position : 69)
+	Score Contextuel : 11.0/16.0 (� la position : 74)
+
+-----------------------------
+Document 1 : fichier test pixa anchor\Nos solutions.
+	Mots Clefs etudi�s: PIXAPACK
+-----------------------------
+	Ancre : pixapack  (score position-synonymie : 1)
+	Score Contextuel : 6.0/18.0 (� la position : 4)
+	Score Contextuel : 3.0/18.0 (� la position : 5)
+	Score Contextuel : 6.0/17.0 (� la position : 8)
+	Score Contextuel : 5.0/17.0 (� la position : 10)
+	Score Contextuel : 7.0/22.0 (� la position : 13)
+
+-----------------------------
+
+
+-----------------------
+charte graphique
+-----------------------
+
+Présent : charte graphique
+Présent : charte graphique
+Présent : charte graphique
+Présent : charte graphique
+Présent : charte graphique
+Présent : charte graphique
+Présent : charte graphique
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: charte graphique
+-----------------------------
+	Ancre : charte graphique  (score position-synonymie : 1)
+	Score Contextuel : 5.0/25.0 (� la position : 77)
+	Score Contextuel : 9.0/34.0 (� la position : 165)
+	Score Contextuel : 8.0/22.0 (� la position : 219)
+	Score Contextuel : 10.0/35.0 (� la position : 222)
+	Score Contextuel : 12.0/43.0 (� la position : 234)
+	Score Contextuel : 16.0/22.0 (� la position : 479)
+
+-----------------------------
+	Ancre : sociétés une charte graphique  (score position-synonymie : 0,653)
+	Score Contextuel : 5.0/25.0 (� la position : 77)
+
+-----------------------------
+	Ancre : charte graphique du site  (score position-synonymie : 1)
+	Score Contextuel : 10.0/35.0 (� la position : 222)
+
+-----------------------------
+	Ancre : obtenir une charte graphique  (score position-synonymie : 0,653)
+	Score Contextuel : 12.0/43.0 (� la position : 234)
+
+-----------------------------
+Document 4 : fichier test pixa anchor\Graphisme web.
+	Mots Clefs etudi�s: charte graphique
+-----------------------------
+	Ancre : charte graphique  (score position-synonymie : 1)
+	Score Contextuel : 7.0/31.0 (� la position : 6)
+	Score Contextuel : 8.0/31.0 (� la position : 7)
+	Score Contextuel : 8.0/33.0 (� la position : 8)
+	Score Contextuel : 8.0/31.0 (� la position : 9)
+	Score Contextuel : 8.0/29.0 (� la position : 16)
+	Score Contextuel : 11.0/43.0 (� la position : 143)
+	Score Contextuel : 9.0/43.0 (� la position : 146)
+	Score Contextuel : 4.0/41.0 (� la position : 148)
+	Score Contextuel : 8.0/30.0 (� la position : 189)
+	Score Contextuel : 9.0/40.0 (� la position : 195)
+	Score Contextuel : 2.0/32.0 (� la position : 256)
+
+-----------------------------
+	Ancre : travaillerons votre charte graphique  (score position-synonymie : 0,653)
+	Score Contextuel : 8.0/31.0 (� la position : 9)
+
+-----------------------------
+	Ancre : charte graphique  (score position-synonymie : 1)
+	Score Contextuel : 3.0/31.0 (� la position : 123)
+	Score Contextuel : 11.0/46.0 (� la position : 145)
+
+-----------------------------
+	Ancre : expression charte graphique  (score position-synonymie : 0,653)
+	Score Contextuel : 11.0/46.0 (� la position : 145)
+
+-----------------------------
+	Ancre : appliqués la charte graphique  (score position-synonymie : 0,653)
+	Score Contextuel : 8.0/30.0 (� la position : 189)
+
+-----------------------------
+Document 8 : fichier test pixa anchor\Les services supplémentaires.
+	Mots Clefs etudi�s: charte graphique
+-----------------------------
+	Ancre : charte graphique  (score position-synonymie : 1)
+	Score Contextuel : 4.0/25.0 (� la position : 24)
+
+-----------------------------
+Document 11 : fichier test pixa anchor\Créer une application mobile.
+	Mots Clefs etudi�s: charte graphique
+-----------------------------
+	Ancre : charte graphique  (score position-synonymie : 1)
+	Score Contextuel : 4.0/24.0 (� la position : 13)
+
+-----------------------------
+Document 17 : fichier test pixa anchor\Questions - Réponses.
+	Mots Clefs etudi�s: charte graphique
+-----------------------------
+	Ancre : charte graphique  (score position-synonymie : 1)
+	Score Contextuel : 4.0/24.0 (� la position : 8)
+	Score Contextuel : 6.0/29.0 (� la position : 11)
+	Score Contextuel : 2.0/25.0 (� la position : 16)
+
+-----------------------------
+	Ancre : concernant votre charte graphique  (score position-synonymie : 0,653)
+	Score Contextuel : 2.0/25.0 (� la position : 16)
+
+-----------------------------
+Document 19 : fichier test pixa anchor\Nos missions.
+	Mots Clefs etudi�s: charte graphique
+-----------------------------
+	Ancre : charte éthique de référencement  (score position-synonymie : 0,571)
+	Score Contextuel : 2.0/36.0 (� la position : 19)
+
+-----------------------------
+
+
+-----------------------
+claire et très soignée
+-----------------------
+
+Présent : claire et très soignée
+Présent : claire et très soignée
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: claire et très soignée
+-----------------------------
+	Ancre : claire et très soignée  (score position-synonymie : 1)
+	Score Contextuel : 8.0/26.0 (� la position : 77)
+
+-----------------------------
+
+
+-----------------------
+mettre en œuvre la création
+-----------------------
+
+Présent : mettre en œuvre la création
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: mettre en œuvre la création
+-----------------------------
+	Ancre : mis en œuvre la création  (score position-synonymie : 1)
+	Score Contextuel : 9.0/13.0 (� la position : 77)
+
+-----------------------------
+
+
+-----------------------
+mettre en œuvre 
+-----------------------
+
+Présent : mettre en œuvre 
+Présent : mettre en œuvre 
+Présent : mettre en œuvre 
+Document 0 : fichier test pixa anchor\Acceuil Création site Internet.
+	Mots Clefs etudi�s: mettre en œuvre 
+-----------------------------
+	Ancre : mis en œuvre  (score position-synonymie : 1)
+	Score Contextuel : 5.0/24.0 (� la position : 77)
+
+-----------------------------
+Document 4 : fichier test pixa anchor\Graphisme web.
+	Mots Clefs etudi�s: mettre en œuvre 
+-----------------------------
+	Ancre : mettre son talent créatif  (score position-synonymie : 0,571)
+	Score Contextuel : 3.0/37.0 (� la position : 182)
+
+-----------------------------
+
+
+-----------------------
+Internet explorer
+-----------------------
+
+Présent : internet explorer
