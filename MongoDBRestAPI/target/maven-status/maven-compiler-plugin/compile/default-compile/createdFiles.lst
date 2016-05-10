@@ -1,0 +1,13 @@
+com\pixalione\mailliageinterne\database\mongodb\DataRepository\PageMetricsRepository.class
+com\pixalione\mailliageinterne\database\mongodb\MongoDbRestApiApplication.class
+com\pixalione\mailliageinterne\database\mongodb\DataMongoDb\Page.class
+com\pixalione\mailliageinterne\database\mongodb\DataRepository\ScanRepository.class
+com\pixalione\mailliageinterne\database\mongodb\DataMongoDb\MetricsModel\PageMetrics.class
+com\pixalione\mailliageinterne\database\mongodb\DataMongoDb\Scan.class
+com\pixalione\mailliageinterne\database\mongodb\DataMongoDb\KeyWord.class
+com\pixalione\mailliageinterne\database\mongodb\DataRepository\LinkMetricsRepository.class
+com\pixalione\mailliageinterne\database\mongodb\DataRepository\PageRepository.class
+com\pixalione\mailliageinterne\database\mongodb\DataRepository\KeyWordRepository.class
+com\pixalione\mailliageinterne\database\mongodb\DataRepository\LinkRepository.class
+com\pixalione\mailliageinterne\database\mongodb\DataMongoDb\Link.class
+com\pixalione\mailliageinterne\database\mongodb\DataMongoDb\MetricsModel\LinkMetrics.class
